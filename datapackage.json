@@ -1,0 +1,15 @@
+{
+  "name": "uk-parliament-20160706-iraq-inquiry",
+  "title": "The Report of the Iraq Inquiry",
+  "resources": [
+    {
+      "title": "The Report of the Iraq Inquiry - The Executive Summary",
+      "path": "archive/the-report-of-the-iraq-inquiry_executive-summary.pdf",
+      "format": "pdf",
+      "mediatype": "application/pdf",
+      "sources": [{
+        "web": "http://www.iraqinquiry.org.uk/media/246416/the-report-of-the-iraq-inquiry_executive-summary.pdf"
+      }]
+    }
+  ]
+}

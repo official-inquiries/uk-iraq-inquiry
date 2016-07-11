@@ -797,7 +797,8 @@ be resolved by a properly constituted and internationally recognised Court which
 considered the issue with the benefit of submissions from Counsel representing all those 
 parties with an interest in or affected by the issue.
 
-## The actions of other governments
+## The actions of other governments
+
 101.  This Inquiry was asked to consider the actions of the UK Government, not those 
 of its allies. The existence of a Coalition of states working in Iraq, however, means that 
 this report inevitably considers the decisions and actions of other countries where they 

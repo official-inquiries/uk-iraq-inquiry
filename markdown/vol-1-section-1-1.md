@@ -1167,7 +1167,8 @@ in international negotiations on the Chemical Weapons Convention and the Control
 Verification of the Biological Weapons Convention, was appointed Executive Chairman 
 of UNSCOM on 15 April 1991 and began work on 24 April.
 
-## Iraq’s response to resolution 687
+## Iraq`s response to resolution 687
+
 121.  Iraq’s initial declarations in response to resolution 687 were incomplete and it failed 
 to co-operate with inspections and concealed activities.
 
@@ -1254,7 +1255,8 @@ Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) 
 
 47
 
-## The discovery of Iraq’s nuclear programme
+## The discovery of Iraq`s nuclear programme
+
 132.  Following IAEA inspections in May and June 1991, and a meeting in 
 Baghdad, Mr Ahmed Hussein, Iraq’s Minister for Foreign Affairs, wrote to the 
 UN Secretary-General on 7 July stating that Iraq had “decided that it would be 
@@ -1733,7 +1735,8 @@ Mr Tony Lake, US National Security Advisor, to offer, on Mr Aziz’s behalf, “
 information about activity and planning inside terrorist networks” in exchange for an 
 accommodating attitude on the easing of sanctions against Iraq.86 Mr Lake declined.
 
-## The defection of Lieutenant General Hussein Kamil
+## The defection of Lieutenant General Hussein Kamil
+
 190.  On 8 August 1995, Saddam Hussein’s son-in-law, Lieutenant General Hussein 
 Kamil, the former Minister of Industry and Head of Iraq’s Military Industrialisation 
 Corporation defected to Jordan. He had been responsible for the development and 
@@ -2189,7 +2192,8 @@ absence of underpinning reliable intelligence”, was:
 for production and destruction, unaccounted-for growth media and a total lack of 
 co-operation from the Iraqis.”109
 
-## Events leading to the withdrawal of UNSCOM
+## Events leading to the withdrawal of UNSCOM
+
 244.  Following a series of incidents in which the inspectors were denied access, 
 resolution 1060 (1996), adopted on 12 June 1996, deplored Iraq’s refusal to allow 
 UNSCOM access to sites designated for inspections and demanded “immediate, 
@@ -2427,7 +2431,8 @@ one piece of advice when he left office at the end of 1996:
 
 “Watch out for the question of Iraq … It will become very important.”
 
-## Dr Albright’s Georgetown speech
+## Dr Albright`s Georgetown speech
+
 269.  In a speech at Georgetown University on 26 March 1997, Dr Madeleine Albright, 
 the new US Secretary of State, reaffirmed that US policy in Iraq was “part of a broad 
 commitment to protect the security and territory of our friends and allies in the Gulf”.122
@@ -2502,7 +2507,8 @@ This move by the US was from our perspective destructive.”123
 
 ## UNSCOM activity
 
-### UNSCOM report, April 1997
+### UNSCOM report, April 1997
+
 278.  The Security Council was told in April 1997 that there had been tangible results in 
 some areas of UNSCOM’s activities but the capabilities which could not be accounted 
 for could not be ignored.124
@@ -2753,7 +2759,8 @@ prevent the Special Commission implementing its mandate”.
 
 purposes, unrelated to the Special Commission’s mandate”.
 
-### Resolution 1115 (1997)
+### Resolution 1115 (1997)
+
 303.  On 21 June, the Security Council unanimously adopted resolution 1115 (1997), 
 condemning Iraq’s actions and demanding its full co-operation. Although the resolution 
 was adopted unanimously, there were clear differences between the positions of the US 
@@ -3141,7 +3148,8 @@ the obligations imposed on it” and the Security Council should do the same,
 “starting at the earliest date”. If the “imbalance” continued, the “situation” would 
 become “absolutely unacceptable”.139
 
-### IAEA report, October 1997
+### IAEA report, October 1997
+
 338.  Dr Blix submitted his final consolidated report as Director General of the IAEA on 
 6 October, which concluded that the IAEA investigation of Iraq’s nuclear programme had 
 reached the point of diminishing returns. The extent to which the remaining uncertainty 
@@ -3895,7 +3903,8 @@ but would retain many US inspectors.
 
 The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
 
-## Inspectors return to Iraq
+## Inspectors return to Iraq
+
 421.  UNSCOM and IAEA inspectors returned to Iraq on 21 November 1997.164
 
 422.  At the request of the Security Council, the members of UNSCOM convened an 
@@ -6387,7 +6396,8 @@ addressed to the President of the Security Council’ (S/1998/1172).
 considered that Mr Butler’s report was sufficient reason for action. Mr Blair had given 
 explicit authority for the UK to participate if the US decided to go ahead with strikes.
 
-## UNSCOM and IAEA withdraw
+## UNSCOM and IAEA withdraw
+
 649.  On 16 December, a spokesman for Mr Annan briefed the press that, overnight, 
 Mr Annan had received a telephone call from Mr Burleigh, who had advised him that 
 US personnel in Iraq were being asked to leave.263 Mr Butler had also been advised 

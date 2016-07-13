@@ -40,4 +40,4 @@ def write_md_file(file):
 if __name__ == '__main__':
     fpath = 'data/executive-summary.txt'
     file = open(fpath, 'r')
-    collect_footnote(file)
+    write_md_file(file)

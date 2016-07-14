@@ -6,9 +6,10 @@ def write_md_file(file):
     footnote_counter = 1
     footnote_list = []
     footnote = False
-    
+    anchor = 2
     f = open('data/test.md', 'w')
-    
+    test = []
+    c = 1
     for line in file:
         try:
             int(line[0])
@@ -25,14 +26,13 @@ def write_md_file(file):
                         footnote_list.append('[^%s.] '%(footnote_counter) + line[char+1:].replace('\n', ''))
                         footnote_counter += 1
                         search = False
-                        footnote = True
-                    else:
-                        f.write(line.replace('.' + str(footnote_counter), '[^%s]'%(footnote_counter)))
+                        footnote = True                  
         except:
             if footnote and len(line) != 1:
                 footnote_list[-1]+= line.replace('\n', '')
             else:
-                f.write(line.replace('.' + str(footnote_counter), '[^%s]'%(footnote_counter)))
+                f.write(line)
+    f.write('\n')
     for note in footnote_list:
         f.write(note)
     

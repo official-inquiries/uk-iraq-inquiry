@@ -45,16 +45,15 @@ def check_anchor(page, num):
                 if page[line][num_index -1] != ' ' and num_index:
                     occured.append(line)
     if len(occured) == 1:
-        clone[occured[0]]= page[occured[0]].replace(num, '^%s'%(num))
+        clone[occured[0]]= page[occured[0]].replace(num, '[^%s]'%(num))
     else:
-        print 'More than one or no candidate for footnote %s: Please correct manually.'%(num)
-    
+        print 'More than one or no candidate for footnote %s found: Please correct manually.'%(num)
     return clone    
 
 def modify_page(page):
     '''Takes single page as input, Returns modified page.
-    Collects fottnotes and appaends to globall variable.
-    
+    Collects fottnotes and appends to global variable.
+
     '''
     global FOOTNOTE_LIST, FOOTNOTE_COUNTER
     footnote = False

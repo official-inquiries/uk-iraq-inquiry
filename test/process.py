@@ -1,3 +1,10 @@
+def tyde_up(line):
+    """Tyides the given line up
+    
+    """
+    result = line.replace('{{', '* ').replace('\xe2\x80\xa2 ', '* ')
+    return result
+
 def make_clone(data):
     '''Returns Cloned data
     
@@ -22,7 +29,7 @@ def yield_page(file):
                 PAGE_NUMBER += 1
                 page[line] = ''
             else:
-                page[line] = row
+                page[line] = tyde_up(row)
             page_num = True
         except:
             if page_num:
@@ -30,7 +37,7 @@ def yield_page(file):
                 page = {}
                 line = 0
                 page_num = False
-            page[line] = row
+            page[line] = tyde_up(row)
             line += 1
 
 def check_anchor(page, num):

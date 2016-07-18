@@ -37,13 +37,26 @@ def check_anchor(page, num):
     occured = []
     clone = make_clone(page)
     for line in page:
-        if num in page[line]:
-            num_index = page[line].index(num)
+        page_line = page[line]
+        # get's rid from the pragraph numbers in the begining of the line
+        while True:
             try:
-                int(page[line][num_index - 1])
+                int(page_line[0])
+                page_line = page_line[1:]
             except:
-                if page[line][num_index -1] != ' ' and num_index:
+                break        
+        if num in page_line:
+            num_index = page_line.index(num)
+            previous_char = page_line[num_index - 1]
+            try:
+                int(previous_char)
+                more_then_once = len(page_line.split(num)) > 2
+                if more_then_once:
                     occured.append(line)
+            except:
+                if previous_char != ' ':
+                    occured.append(line)
+                    
     if len(occured) == 1:
         clone[occured[0]]= page[occured[0]].replace(num, '[^%s]'%(num))
     else:
@@ -85,24 +98,24 @@ def modify_page(page):
     return clone          
     
 def write_file(inpath, outpath):    
-    '''Reads file that needs to b modified and creates new file in outpath directory
+    '''Reads file that needs to be modified and creates new file in outpath directory
     
     '''
-    file = open(inpath, 'r')
-    f = open(outpath, 'w')
+    readfile = open(inpath, 'r')
+    writefile = open(outpath, 'w')
     
-    for page in yield_page(file):
+    for page in yield_page(readfile):
         new_page = modify_page(page)
         for line in new_page:
-            f.write(new_page[line])
+            writefile.write(new_page[line])
             
     for line in FOOTNOTE_LIST:
-        f.write(line)
+        writefile.write(line)
         
-    file.close()
-    f.close()
+    readfile.close()
+    writefile.close()
     
 if __name__ == '__main__':
-    FOOTNOTE_LIST = []
+    FOOTNOTE_LIST = ['\n']
     FOOTNOTE_COUNTER = 1
     write_file('data/executive-summary.txt', 'data/test.md')

@@ -751,7 +751,7 @@ the longer term, to reintegrate a territorially intact Iraq as a law-abiding mem
 
 299\. Mr Blair rehearsed the Government's position on Iraq's past pursuit and use of weapons of mass destruction; its failures to comply with the obligations imposed by the UN Security Council between 1991 and 1998; Iraq's repeated declarations which proved to be false; and the "large quantities of weapons of mass destruction" which were "unaccounted for". He described UNSCOM's final report (in January 1999) as "a withering indictment of Saddam's lies, deception and obstruction".
 
-300\. Mr Blair cited the UNMOVIC "clusters" document issued on 7 March as "a remarkable document", detailing "all the unanswered questions about Iraq's weapons of mass destruction", listing "[^29] different areas in which the inspectors have been unable to obtain information".
+300\. Mr Blair cited the UNMOVIC "clusters" document issued on 7 March as "a remarkable document", detailing "all the unanswered questions about Iraq's weapons of mass destruction", listing " 29 different areas in which the inspectors have been unable to obtain information".
 
 301\. He stated that, based on Iraq's false declaration, its failure to co-operate, the unanswered questions in the UNMOVIC "clusters" document, and the unaccounted for material, the Security Council should have convened and condemned Iraq as in material breach of its obligations. If Saddam Hussein continued to fail to co-operate, force should be used.
 
@@ -1484,7 +1484,7 @@ recruited ... Unless we take action against them, they will grow. That is why we
 
 549\. Rather than the debate being framed in terms of the answers needed to the outstanding questions identified by UNSCOM and the IAEA, including the material for which UNSCOM had been unable to account, the dossier's description of Iraq's capabilities and intent became part of the baseline against which the UK Government measured Iraq's future statements and actions and the success of weapons inspections.
 
-550\. As Section 4.[^3] demonstrates, the judgements remained in place without challenge until the invasion of Iraq in March 2003. Iraq's denials of the capabilities and intent attributed to it were not taken seriously.
+550\. As Section 4.3 demonstrates, the judgements remained in place without challenge until the invasion of Iraq in March 2003. Iraq's denials of the capabilities and intent attributed to it were not taken seriously.
 
 551\. As the flaws in the construct and the intelligence were exposed after the conflict, the dossier and subsequent statements to Parliament also became the baseline against which the Government's good faith and credibility were judged.
 
@@ -2359,7 +2359,7 @@ recruited ... Unless we take action against them, they will grow. That is why we
 *  The UK acceded to the post-invasion US request that it assume leadership of a military Area of Responsibility (AOR) encompassing four provinces in southern Iraq, a position it then held for six years, without a formal Ministerial decision and without carrying out a robust analysis of the strategic implications for the UK or the military's capacity to support the UK's potential obligations in the region.
 
 ## The post-conflict period 
-816\. The following key findings are from Section 9.8, and relate to evidence in Sections 9.[^1] to 9.7:
+816\. The following key findings are from Section 9.8, and relate to evidence in Sections 9.1 to 9.7:
 
 
 *  Between 2003 and 2009, the UK's most consistent strategic objective in relation to Iraq was to reduce the level of its deployed forces.

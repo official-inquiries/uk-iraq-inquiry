@@ -15,3 +15,9 @@ To tidy up text for markdown run the following command from main direcotory:
   # e.g.
   python scripts/process.py -i test/data/executive-summary.txt -o test/data/test.md
   ```
+
+To run tests:
+  ```
+  python test/test.py
+  ```
+  

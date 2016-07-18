@@ -9,15 +9,20 @@ def make_clone(data):
 
 def yield_page(file):
     '''Devides whole file into the pages and yields one by one
-    
+    Removes page numbers
     '''
+    global PAGE_NUMBER
     page = {}
     line = 0
     page_num = False
     for row in file:
         try:
             int(row[:-1])
-            page[line] = row
+            if int(row[:-1]) == PAGE_NUMBER:
+                PAGE_NUMBER += 1
+                page[line] = ''
+            else:
+                page[line] = row
             page_num = True
         except:
             if page_num:
@@ -118,4 +123,5 @@ def write_file(inpath, outpath):
 if __name__ == '__main__':
     FOOTNOTE_LIST = ['\n']
     FOOTNOTE_COUNTER = 1
+    PAGE_NUMBER = 1
     write_file('data/executive-summary.txt', 'data/test.md')

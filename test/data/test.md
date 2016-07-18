@@ -79,7 +79,6 @@ Iraq WMD assessments, July to September 2002  ..................................
 Iraq WMD assessments, October 2002 to March 2003  ........................................... 75
 The search for WMD  ................................................................................................ 77
 
-1
 
 Planning for a post‑Saddam Hussein Iraq  ..................................................................... 78
 The failure to plan or prepare for known risks  ......................................................... 78
@@ -121,7 +120,6 @@ Iraq WMD assessments, July to September 2002  ..................................
 Iraq WMD assessments, October 2002 to March 2003  ......................................... 117
 The search for WMD  .............................................................................................. 117
 
-2
 
 The Report of the Iraq InquiryAdvice on the legal basis for military action, November 2002 to March 2003  ....... 119
 Development of the military options for an invasion of Iraq  ................................... 120
@@ -153,7 +151,6 @@ Civilian personnel  ............................................................
 
 Timeline of events  ........................................................................................................ 141
 
-3
 
 Executive SummaryIntroduction
 1.  In 2003, for the first time since the Second World War, the United Kingdom took part 
@@ -201,7 +198,6 @@ the conclusions of individual Sections of the report.
 8.  Other Sections of the report contain detailed accounts of the relevant decisions and 
 events, and the Inquiry’s full conclusions and lessons. 
 
-4
 
 The Report of the Iraq Inquiry9.  The following are extracts from the main body of the Report covering some of the 
 most important issues considered by the Inquiry.
@@ -247,7 +243,6 @@ from those countries, notably France, Germany and Russia, which believed that th
 inspections process could continue. The inspectors reported that Iraqi co‑operation, 
 while far from perfect, was improving.
 
-5
 
 Executive Summary19.  By early March, the US Administration was not prepared to allow inspections 
 to continue or give Mr Blair more time to try to achieve support for action. The attempt 
@@ -293,7 +288,6 @@ Iraq were defined as:
 “... in the short term, to reduce the threat Saddam poses to the region including 
 by eliminating his weapons of mass destruction (WMD) programmes; and, in 
 
-6
 
 The Report of the Iraq Inquirythe longer term, to reintegrate a territorially intact Iraq as a law‑abiding member 
 of the international community.”[^1] 
@@ -341,7 +335,6 @@ long the policy could be sustained and what it could achieve.
 No‑Fly Zones (NFZs) and the conduct of individual operations.[^4] 
 
 
-7
 
 Executive Summary36.  In an Assessment on 1 November, the Joint Intelligence Committee (JIC) judged 
 that Saddam Hussein felt “little pressure to negotiate over ... resolution 1284 because 
@@ -388,7 +381,6 @@ appropriate in the region of $1.5bn to $1.8bn in cash and goods in 2001”,
 and there was “scope for earning even more”.
 
 
-8
 
 The Report of the Iraq Inquiry•  “Iranian interdiction efforts” had “significantly reduced smuggling down 
 
@@ -436,7 +428,6 @@ sanctions” regime.[^11] But there was no agreement on the way ahead between th
 US, China, France and Russia, the five Permanent Members of the UN Security Council.
 
 
-9
 
 Executive Summary45.  Mr Blair told the Inquiry that, until 11 September 2001, the UK had a policy of 
 containment, but sanctions were eroding.[^12] The policy was “partially successful”, 
@@ -479,7 +470,6 @@ through a revised and more targeted sanctions regime and seeking Iraq’s agreem
 to the return of inspectors as required by resolution 1284 (1999). 
 
 
-10
 
 The Report of the Iraq Inquiry53.  The adoption on 29 November 2001 of resolution 1382 went some way towards that 
 objective. But support for economic sanctions was eroding and whether Iraq would ever 
@@ -527,7 +517,6 @@ including options for a conventional ground invasion.
 That remained a key part of his position in the months that followed.
 
 
-11
 
 Executive Summary64.  In his annual State of the Union speech on 29 January 2002, President Bush 
 described the regimes in North Korea and Iran as “sponsors of terrorism”.[^18] He added 
@@ -571,7 +560,6 @@ to launch further military action had been taken and any action taken would be i
 accordance with international law. 
 
 
-12
 
 The Report of the Iraq Inquiry71.  The discussion in Cabinet was couched in terms of Iraq’s need to comply with its 
 obligations, and future choices by the international community on how to respond to the 
@@ -618,7 +606,6 @@ in relation to the development of policy on Iraq. These were variously described
 support, not unilateral action.
 
 
-13
 
 Executive Summaryquickly and successfully.
 
@@ -670,7 +657,6 @@ that certain conditions were met:
 inspectors had been exhausted.” 
 
 
-14
 
 The Report of the Iraq Inquiry86.  The Cabinet Office paper also identified the need to address the issue of whether 
 the benefits of military action would outweigh the risks.
@@ -714,7 +700,6 @@ This is not Afghanistan. It is not even the Gulf War.
 
 16 July 2002, ‘Iraq’. 
 
-15
 
 Executive Summary“The military part of this is hazardous but I will concentrate mainly on the political 
 context for success.” 
@@ -758,7 +743,6 @@ September that an explanation of why action was needed to deal with Iraq should
 be published. 
 
 
-16
 
 The Report of the Iraq Inquiry104.  In his press conference at Sedgefield on 3 September, Mr Blair indicated that time 
 and patience were running out and that there were difficulties with the existing policy of 
@@ -802,7 +786,6 @@ Members of the Security Council, in particular about the role of the Council in 
 whether military action was justified. 
 
 
-17
 
 Executive Summary112.  The Government dossier on Iraq was published on 24 September.[^37] It was 
 designed to “make the case” and secure Parliamentary (and public) support for the 
@@ -846,7 +829,6 @@ will use diplomacy but not force. We know, again from our history, that diplomac
 not backed by the threat of force has never worked with dictators and never will.”
 
 
-18
 
 The Report of the Iraq InquiryNegotiation of resolution 1441
 119.  There were significant differences between the US and UK positions, and between 
@@ -891,7 +873,6 @@ although he would not be able to give a final view until the resolution was adop
 draft of the resolution of 19 October would not on its own authorise military action.[^41] 
 
 
-19
 
 Executive Summary127.  Mr Blair decided on 31 October to offer significant forces for ground operations 
 to the US for planning purposes.[^42]
@@ -936,7 +917,6 @@ challenged the UK statement on 8 November that Iraq had “decided to keep posse
 of its WMD. 
 
 
-20
 
 The Report of the Iraq InquiryThe prospect of military action
 135.  Following Iraq’s submission of the declaration on its chemical, biological, nuclear 
@@ -979,7 +959,6 @@ the threat of force were containing Saddam Hussein.[^50]
 16 December’. 
 2008. 
 
-21
 
 Executive Summary143.  In early 2003, Mr Straw still thought a peaceful solution was more likely than 
 military action. Mr Straw advised Mr Blair on 3 January that he had concluded that, in 
@@ -1023,7 +1002,6 @@ in mid‑February.[^56]
 for proceeding with a second Security Council resolution, “or at the very least a 
 
 
-22
 
 The Report of the Iraq Inquiryclear statement” from Dr Blix which allowed the US and UK to argue that a failure 
 to pass a second resolution was in breach of the spirit of 1441, remained in his view, 
@@ -1068,7 +1046,6 @@ continued, a second resolution should be passed to confirm such a material breac
 to be seen to enforce the will of the UN and to deter future threats.
 
 
-23
 
 Executive SummaryThe gap between the Permanent Members of the Security Council 
 widens
@@ -1114,7 +1091,6 @@ in Iraq after all”. Mr Blair responded that “even German and French intellig
 sure that there was WMD in Iraq”. Dr Blix said they seemed “unsure” about “mobile BW 
 
 
-24
 
 The Report of the Iraq Inquiryproduction facilities”: “It would be paradoxical and absurd if 250,000 men were to invade 
 Iraq and find very little.” 
@@ -1155,7 +1131,6 @@ people depended on ending the direct and growing threat from Iraq.[^72]
 176.  President Bush also set out his hopes for the future of Iraq.
 
 
-25
 
 Executive Summary177.  Reporting discussions in New York on 26 February, Sir Jeremy Greenstock wrote 
 that there was “a general antipathy to having now to take decisions on this issue, and 
@@ -1197,7 +1172,6 @@ moving to create an alternative pole of power and influence.
 
 2003’.
 
-26
 
 The Report of the Iraq Inquiry185.  Mr Blair thought that was “highly damaging” but “inevitable”: “They felt as strongly 
 as I did; and they weren’t prepared to indulge the US, as they saw it.”
@@ -1241,7 +1215,6 @@ a vetoed resolution would no longer be possible for the UK. Mr Straw said that w
 a second resolution approval for military action could be “beyond reach”. 
 
 
-27
 
 Executive Summary192.  Mr Straw told the Foreign Affairs Committee (FAC) on 4 March that it was “a matter 
 of fact” that Iraq had been in material breach “for some weeks” and resolution 1441 
@@ -1280,7 +1253,6 @@ pass that authorised the use of force.[^89] Russia and France, “as Permanent M
 the Security Council, will assume all their responsibilities on this point”.
 
 
-28
 
 The Report of the Iraq Inquiry200.  The British Embassy Washington reported overnight on 5/6 March that “barring 
 a highly improbable volte face by Saddam”, the US was now firmly on track for military 
@@ -1326,7 +1298,6 @@ would have failed to take the final opportunity offered by resolution 1441 (2002
 
 6 March’. 
 
-29
 
 Executive Summarythe Council concluded, on or before 17 March 2003, that Iraq had demonstrated full, 
 unconditional, immediate and active co‑operation in accordance with its disarmament 
@@ -1369,7 +1340,6 @@ Saddam Hussein’s intentions.
 
 7 March’. 
 
-30
 
 The Report of the Iraq Inquiry217.  The initiative was pursued through intensive diplomatic activity to lobby for support 
 between London and the capitals of Security Council Member States. 
@@ -1411,7 +1381,6 @@ and uncertainty about Mexico, Chile and Pakistan.[^104] If there were fewer than
 second resolution should not be put to the vote. 
 
 
-31
 
 Executive Summary226.  Mr Straw replied that “he was increasingly coming to the view that we should not 
 push the matter to a vote if we were going to be vetoed”; but that had not yet been 
@@ -1455,7 +1424,6 @@ was completely against it. His military were, not unreasonably, fearing that del
 gave the enemy time – and time could mean a tougher struggle and more lives lost. 
 
 
-32
 
 The Report of the Iraq InquiryThis was also troubling my military. We had all sorts of contingency plans in place ... 
 There was both UK and US intelligence warning us of the risk.
@@ -1503,7 +1471,6 @@ she considers this evening that there are no grounds for waging war in order to
 achieve the goal we have set ourselves, that is to disarm Iraq.” 
 
 
-33
 
 Executive Summary241.  By 11 March, it was clear that, in the time available before the US was going to 
 take military action, it would be difficult to secure nine votes in the Security Council 
@@ -1550,7 +1517,6 @@ he wanted you alive not dead!”
 previous evening.
 
 
-34
 
 The Report of the Iraq Inquiry248.  When Mr Blair and President Bush discussed the position late on 11 March, it was 
 clear that President Bush was determined not to postpone the start of military action.[^112] 
@@ -1591,7 +1557,6 @@ of Security Council members in New York on the evening of 12 March.[^118]
 to an approach from the “undecided six”[^119] looking for a way forward, setting out six 
 
 
-35
 
 Executive Summarytasks to be achieved in a 10‑day timeline.[^120] Sir Jeremy reported that France, Germany 
 and Russia all said that the draft resolution without operative paragraph 3 would still 
@@ -1636,7 +1601,6 @@ of recourse to force”.[^125] He proposed looking at a new resolution in line w
 
 14 March’.
 
-36
 
 The Report of the Iraq Inquiryresolution 1441, “provided that it excluded these options”. President Chirac “suggested 
 that the UNMOVIC work programme might provide a way forward. France was prepared 
@@ -1679,7 +1643,6 @@ contained a final appeal to Saddam Hussein to comply with his obligations and to
 the Security Council to back a second resolution containing an ultimatum.
 
 
-37
 
 Executive Summary275.  In his memoir, Mr Blair wrote:
 
@@ -1725,7 +1688,6 @@ its obligations.
 Commons, set out his doubts about the degree to which Saddam Hussein posed a 
 
 
-38
 
 The Report of the Iraq Inquiry“clear and present danger” and his concerns that the UK was being “pushed too quickly 
 into conflict” by the US without the support of the UN and in the face of hostility from 
@@ -1768,7 +1730,6 @@ there was to be a change to the plan and US airstrikes would be launched at 0300
 on 20 March.[^140] 
 
 
-39
 
 Executive Summary291.  Early on the morning of 20 March, US forces crossed into Iraq and seized the port 
 area of Umm Qasr.[^141] 
@@ -1814,7 +1775,6 @@ and its continuing non‑compliance with Security Council resolutions, posed
 a threat to international peace and security; and 
 
 
-40
 
 The Report of the Iraq Inquiry•  to support the use of all means necessary to ensure the disarmament of Iraq’s 
 
@@ -1863,7 +1823,6 @@ terrorism and weapons of mass destruction, and dispute in other words, the whole
 basis of our assertion that the two together constitute a fundamental assault on our 
 way of life.”
 
-41
 
 Executive Summary305.  Mr Blair also described a “threat of chaos and disorder” arising from “tyrannical 
 regimes with weapons of mass destruction and extreme terrorist groups” prepared 
@@ -1915,7 +1874,6 @@ Council that there was no indication that Iraq had resumed its nuclear activitie
 •  The September dossier stated that Iraq could produce a nuclear weapon within 
 one to two years if it obtained fissile material and other essential components 
 
-42
 
 The Report of the Iraq Inquiryfrom a foreign supplier. There was no evidence that Iraq had tried to acquire 
 fissile material and other components or – were it able to do so – that it had the 
@@ -1964,7 +1922,6 @@ Iraq and Al Qaida”.[^146]
 under Iraqi direction”.[^147] 
 
 
-43
 
 Executive Summary316.  Sir Richard Dearlove told the Inquiry:
 
@@ -2007,7 +1964,6 @@ was “a pretty good intelligence picture of a threat from Iraq within the UK an
 British interests”.[^152]
 
 
-44
 
 The Report of the Iraq Inquiry323.  Baroness Manningham‑Buller added that subsequent events showed the 
 judgement that Saddam Hussein did not have the capability to do anything much 
@@ -2057,7 +2013,6 @@ or nuclear weapons or programmes identified and examined by either the JIC or th
 policy community.
 
 
-45
 
 Executive Summary330.  Intelligence and assessments were used to prepare material to be used to support 
 Government statements in a way which conveyed certainty without acknowledging the 
@@ -2106,7 +2061,6 @@ in so self‑destructive a manner as to pretend that it had forbidden weaponry, 
 in fact it had not.”[^156] 
 
 
-46
 
 The Report of the Iraq Inquiry335.  Iraq had acted suspiciously over many years, which led to the inferences drawn 
 by the Government and the intelligence community that it had been seeking to protect 
@@ -2156,7 +2110,6 @@ people but the knowledge that, had the terrorists been able, there would have
 been not 3,000 innocent dead, but 30,000 or 300,000 ... America did not attack 
 the Al Qaida terrorist group ... [it] attacked America. They did not need to be 
 
-47
 
 Executive Summaryrecruited ... Unless we take action against them, they will grow. That is why we 
 should act.”[^157]
@@ -2202,7 +2155,6 @@ at the onset of military action against Iraq.[^161]
 a US occupation. 
 
 
-48
 
 The Report of the Iraq Inquiry348.  The warning about the risk of chemical and biological weapons becoming available 
 to extremist groups as a result of military action in Iraq was reiterated on 19 March.[^162]
@@ -2246,7 +2198,6 @@ been low‑grade and not very professional, but it must be a cause of concern to
 former colleagues that at some stage terrorist groups will resort to these methods. 
 
 
-49
 
 Executive SummaryIn that respect, I don’t think toppling Saddam Hussein is germane to the long‑term 
 ambitions of some terrorist groups to use them.”[^166]
@@ -2291,7 +2242,6 @@ UK would increase. But I took the view then and take the same view now that to
 have backed down because of the threat of terrorism would be completely wrong. 
 
 
-50
 
 The Report of the Iraq InquiryIn any event, following 9/11 and Afghanistan we were a terrorist target and, as recent 
 events in Europe and the US show, irrespective of Iraq, there are ample justifications 
@@ -2338,7 +2288,6 @@ preferred by the UK was to commit full and unqualified support, and seek
 to persuade from the inside.
 
 
-51
 
 Executive Summary366.  The UK Government was right to think very carefully about both of those points.
 
@@ -2385,7 +2334,6 @@ implications for the alliance of the UK’s approach to Iraq.[^175]
 and American peoples and a close identity of values between our democracies, it is an 
 
 
-52
 
 The Report of the Iraq Inquiryalliance founded not on emotion, but on a hard‑headed appreciation of mutual benefit. 
 The benefits do not by any means flow only in one direction. 
@@ -2435,7 +2383,6 @@ this to compare notes and inject his views on the major issues of the day, and i
 from the records of the discussions that President Bush encouraged that dialogue and 
 listened to Mr Blair’s opinions. 
 
-53
 
 Executive Summary383.  Mr Blair expressed his views in frequent telephone calls and in meetings with the 
 President. There was also a very active channel between his Foreign Affairs Adviser and 
@@ -2481,7 +2428,6 @@ of key individuals and bodies in order to assist the reader. It is also publishi
 Report many of the documents which illuminate who took the key decisions and on what 
 
 
-54
 
 The Report of the Iraq Inquirybasis, including the full record of the discussion on Iraq in Cabinet on five key occasions 
 pre‑conflict, and policy advice to Ministers which is not normally disclosed.
@@ -2526,7 +2472,6 @@ Cabinet Committee would have been supported by the relevant part of the Cabinet
 Secretariat, the Overseas and Defence Secretariat (OD Sec).
 
 
-55
 
 Executive Summary396.  Similarly, Lord Wilson stated that, between 11 September 2001 and January 2002, 
 the Government’s response to international terrorism and the subsequent military action 
@@ -2567,7 +2512,6 @@ of sofa government in the sense of the Prime Minister and his special advisers a
 political cronies”.[^186]
 
 
-56
 
 The Report of the Iraq Inquiry403.  In July 2004, Lord Butler’s Report stated that his Committee was:
 
@@ -2611,7 +2555,6 @@ as senior members of the Cabinet, or of Mr Cook, as a former Foreign Secretary k
 to have concerns about the policy, could have provided an element of challenge.
 
 
-57
 
 Executive Summary408.  Mr Powell likewise recognises the importance of having written advice which can 
 be seen before a meeting, allowing all those present to have shared information and 
@@ -2664,7 +2607,6 @@ operations in southern Iraq.
 
 a deadline for a vote in the Security Council of 14 March.
 
-58
 
 The Report of the Iraq Inquiry•  A review of UK policy at the end of February 2003 when the inspectors had 
 
@@ -2709,7 +2651,6 @@ that are later cast aside.”[^191]
 18 February 2008 (Ref: FS50165372) as upheld by the decision of the Information Tribunal of 27 January 
 2009 (Ref: EA/2008/0024 and EA/2008/0029): Statement of Reasons’.
 
-59
 
 Executive Summary414.  Mr Blair told the Inquiry that:
 
@@ -2754,7 +2695,6 @@ had been taken and any action taken would be in accordance with international la
 “The Cabinet, ‘Took note, with approval.’”[^194] 
 
 
-60
 
 The Report of the Iraq Inquiry419.  Cabinet on 17 March 2003 noted Mr Blair’s conclusion that “the diplomatic process 
 was at an end; Saddam Hussein would be given an ultimatum to leave Iraq; and the 
@@ -2801,7 +2741,6 @@ most senior officials to be involved in negotiating and agreeing policy on a day
 and sometimes hour‑by‑hour basis. 
 
 
-61
 
 Executive Summary427.  It would neither be necessary nor feasible to seek a mandate from Cabinet at 
 each stage of a discussion. That reinforces the importance of ensuring Cabinet is kept 
@@ -2846,7 +2785,6 @@ for UK participation were far from satisfactory.
 on balance, a secure legal basis for military action. 
 
 
-62
 
 The Report of the Iraq Inquiry434.  In the letter of 14 March 2003 from Lord Goldsmith’s office to No.10, which is 
 addressed in Section 5 of the Report, Mr Blair was told that an essential ingredient of 
@@ -2894,7 +2832,6 @@ a meeting some time before Christmas to discuss the legal position.
 Goldsmith. They were sent by the FCO on behalf of the FCO and the MOD as 
 well as No.10.
 
-63
 
 Executive Summary444.  The instructions made it clear that Lord Goldsmith should not provide an immediate 
 response.
@@ -2942,7 +2879,6 @@ to take the final opportunity offered by resolution 1441.
 that there was a basis on which military action against Iraq could be taken in the 
 absence of a further decision of the Security Council. 
 
-64
 
 The Report of the Iraq Inquiry456.  In the absence of Lord Goldsmith’s formal advice, uncertainties about the 
 circumstances in which the UK would be able to participate in military action continued, 
@@ -2989,7 +2925,6 @@ would need to be able to demonstrate hard evidence of non‑compliance and
 non‑co‑operation ... the views of UNMOVIC and the IAEA will be highly significant 
 in this respect.”
 
-65
 
 Executive Summary464.  Lord Goldsmith added:
 
@@ -3037,7 +2972,6 @@ Rycroft (Mr Blair’s Private Secretary for Foreign Affairs) on 14 March:
 “It is an essential part of the legal basis for military action without a further resolution 
 of the Security Council that there is strong evidence that Iraq has failed to comply 
 
-66
 
 The Report of the Iraq Inquirywith and co‑operate fully in the implementation of resolution 1441 and has thus 
 failed to take the final opportunity offered by the Security Council in that resolution. 
@@ -3084,7 +3018,6 @@ could be deployed at Cabinet and in Parliament the following week”.
 Goldsmith “would make clear during the course of the week that there is a sound legal 
 basis for action should that prove necessary”.
 
-67
 
 Executive Summary481.  The decision that Lord Goldsmith would take the lead in explaining the 
 Government’s legal position to Parliament, rather than the Prime Minister or responsible 
@@ -3134,7 +3067,6 @@ process was at an end and that the House of Commons should be asked to endorse
 the use of military action to enforce Iraq’s compliance. Given the gravity of this decision, 
 Cabinet should have been made aware of the legal uncertainties.
 
-68
 
 The Report of the Iraq Inquiry493.  Lord Goldsmith should have been asked to provide written advice which fully 
 reflected the position on 17 March, explained the legal basis on which the UK could take 
@@ -3181,7 +3113,6 @@ the means to deliver them.
 2002 was that, despite the considerable achievements of UNSCOM and the IAEA 
 between 1991 and December 1998, including dismantling Iraq’s nuclear programme, 
 
-69
 
 Executive Summarythe inspectors had been unable to account for some of the ballistic missiles and 
 chemical and biological weapons and material produced by Iraq; and that it had:
@@ -3229,7 +3160,6 @@ timing became a sensitive issue.
 Mr Straw began, from late February 2002, publicly to argue that Iraq was a threat which 
 had to be dealt with; that Iraq needed to disarm or be disarmed in accordance with the 
 
-70
 
 The Report of the Iraq Inquiryobligations imposed by the UN; and that it was important to agree to the return of UN 
 inspectors to Iraq. 
@@ -3278,7 +3208,6 @@ difficulties Iraq would have to overcome before it could acquire a nuclear weapo
 That included the difficulty of acquiring suitable fissile material from the “black market”.
 
 
-71
 
 Executive Summary518.  In addition, the tendency to refer in public statements only to Iraq’s “weapons 
 of mass destruction” without addressing their nature (the type of warhead and whether 
@@ -3326,7 +3255,6 @@ to examine whether it had any additional material which could be included.
 528.  Mr Scarlett, as Chairman of the JIC, was given the responsibility of producing 
 the dossier.
 
-72
 
 The Report of the Iraq Inquiry529.  The dossier drew on the 9 September JIC Assessment, ‘Iraqi Use of Chemical and 
 Biological Weapons – Possible Scenarios’, which had been commissioned to address 
@@ -3375,7 +3303,6 @@ intelligence?
 537.  The Inquiry is not questioning Mr Blair’s belief, which he consistently reiterated 
 in his evidence to the Inquiry, or his legitimate role in advocating Government policy. 
 
-73
 
 Executive Summary538.  But the deliberate selection of a formulation which grounded the statement in what 
 Mr Blair believed, rather than in the judgements which the JIC had actually reached in its 
@@ -3427,7 +3354,6 @@ questions, Mr Blair presented Iraq’s past, current and potential future capabi
 evidence of the severity of the potential threat from Iraq’s weapons of mass destruction; 
 and that, at some point in the future, that threat would become a reality. 
 
-74
 
 The Report of the Iraq Inquiry548.  By the time the dossier was published, President Bush had announced that 
 the US was seeking action on Iraq through the UN, and Iraq had agreed to the return 
@@ -3478,7 +3404,6 @@ inside Iraq, supporting tougher inspections, would be “central to success”.
 intentions to conceal its activities, deceive the inspectors and obstruct the conduct of 
 inspections, particularly Iraq’s attitudes to preventing interviews with officials who were 
 
-75
 
 Executive Summaryidentified as associated with its proscribed programmes or who had been involved 
 in Iraq’s unilateral destruction of its weapons and facilities.
@@ -3527,7 +3452,6 @@ assessments presented by the US and UK. Dr Blix’s report of 7 March, which cha
 the view that Iraqi behaviour was preventing UNMOVIC from carrying out its tasks, 
 should certainly have prompted a review.
 
-76
 
 The Report of the Iraq InquiryThe search for WMD
 571.  Section 4.4 considers the impact of the failure to find stockpiles of WMD in Iraq 
@@ -3577,7 +3501,6 @@ being discredited.
 pre‑conflict intelligence on Iraq. It responded to demands for an independent, judge‑led 
 inquiry by expressing support for the reviews initiated by the ISC and the FAC. 
 
-77
 
 Executive Summary580.  The announcement of the Hutton Inquiry into the circumstances surrounding the 
 death of Dr David Kelly on 18 July, reinforced the Government’s position that additional 
@@ -3625,7 +3548,6 @@ The failure to plan or prepare for known risks
 590.  The information on Iraq available to the UK Government before the invasion 
 provided a clear indication of the potential scale of the post‑conflict task.
 
-78
 
 The Report of the Iraq Inquiry591.  It showed that, in order to achieve the UK’s desired end state, any post‑conflict 
 administration would need to:
@@ -3671,7 +3593,6 @@ it would succeed in that aim.
 leadership of Iraq’s interim post‑conflict civil administration.[^204] Officials warned that, 
 
 
-79
 
 Executive Summaryif the UK failed to persuade the US, it risked “being drawn into a huge commitment 
 of UK resources for a highly complex task of administration and law and order for 
@@ -3715,7 +3636,6 @@ the UK could find itself drawn into a “huge commitment of UK resources” for 
 no contingency preparations had been made. 
 
 
-80
 
 The Report of the Iraq InquiryThe planning process and decision‑making
 602.  As a junior partner in the Coalition, the UK worked within a planning framework 
@@ -3760,7 +3680,6 @@ past experience or practice, or by its limited human and financial resources, to
 for nation‑building of the scale required in Iraq, and did not expect to do so.
 
 
-81
 
 Executive Summary611.  DFID’s focus on poverty reduction and the channelling of assistance through 
 multilateral institutions instilled a reluctance, before the invasion, to engage on anything 
@@ -3809,7 +3728,6 @@ in February 2003; and
 621.  There is no indication of formal risk analysis or formal consideration of options 
 associated with any of those events. 
 
-82
 
 The Report of the Iraq Inquiry622.  In his statement to the Inquiry, Mr Blair said:
 
@@ -3856,7 +3774,6 @@ conditions for UK involvement”[^222]);
 the subsequent reconstruction of Iraq (including from the British Embassy 
 
 
-83
 
 Executive SummaryWashington after the Rock Drill on 21 and 22 February 2003: “The inter‑agency 
 rehearsal for Phase IV … exposes the enormous scale of the task … Overall, 
@@ -3902,7 +3819,6 @@ plan, UN authorisation had not yet been secured, and there had been no decision 
 the UN’s role in post‑conflict Iraq. 
 
 
-84
 
 The Report of the Iraq Inquiry631.  UK policy rested on the assumption that:
 
@@ -3955,7 +3871,6 @@ formulation that appeared to bridge the gap between US and UK positions
 on UN authorisation and the post‑conflict role of the UN, but did not address 
 the substantive issues.
 
-85
 
 Executive Summary634.  Mr Blair did not:
 
@@ -4005,7 +3920,6 @@ maintenance of law and order. Within its predominantly Shia Area of Operations, 
 UK assumed that risks to Coalition Forces would be lower than in the so‑called “Sunni 
 triangle” controlled by the US.
 
-86
 
 The Report of the Iraq Inquiry639.  Before the invasion, the JIC and the DIS had each identified that there was a risk 
 of lawlessness breaking out in Iraq, and that it would be important to deal with it swiftly. 
@@ -4048,7 +3962,6 @@ could grow quickly if it is seen to be ineffective, either politically or milita
 resentment could lead to violence.”[^232]
 
 
-87
 
 Executive Summary647.  By the end of April, Mr Hoon had announced that UK troop levels would fall to 
 between 25,000 and 30,000 by the middle of May, from an initial peak of around 46,000. 
@@ -4095,7 +4008,6 @@ a contribution to the security of Baghdad were outweighed by the risk that UK tr
 would be “tied down” outside the UK’s Area of Responsibility, with adverse impact, and 
 
 
-88
 
 The Report of the Iraq Inquiryadvised on 21 May against deploying 16 Air Assault Brigade. The Chiefs of Staff did not 
 conclude that the tasks it was proposed that 16 Air Assault Brigade should undertake 
@@ -4142,7 +4054,6 @@ in Iraq. It also set the conditions for the CPA’s dominance over post‑invasi
 and policy by handing it control of funding for reconstruction and influence on political 
 development at least equal to that of the UN. 
 
-89
 
 Executive SummaryUK INFLUENCE ON THE COALITION PROVISIONAL AUTHORITY
 662.  By the time resolution 1483 was adopted, the CPA was already operating in Iraq 
@@ -4190,7 +4101,6 @@ from 2001 to 2006, as “the UK being held jointly responsible for acts or omiss
 of the CPA, without a right to consult and a right of joint decision”.[^235] 
 
 
-90
 
 The Report of the Iraq Inquiry670.  To manage that risk, the UK proposed a Memorandum of Understanding (MOU) 
 with the US to establish procedures for working together on issues related to the 
@@ -4234,7 +4144,6 @@ to have a significant effect on the alienation of the Sunni community and the
 development of an insurgency in Iraq, and the terms and timing of this important 
 Order should have been approved by both Washington and London.
 
-91
 
 Executive Summary•  Decisions on how to spend the Development Fund for Iraq, which resolution 
 1483 gave the CPA the power to make. CPA Regulation No.2 subsequently 
@@ -4284,7 +4193,6 @@ he had prevented the Kurdish delegation from leaving, “which Bremer wasn’t
 aware of”.[^237] 
 
 
-92
 
 The Report of the Iraq Inquiry•  The level of female representation in Iraq’s new political structures, including the 
 25 percent “goal” for members of the National Assembly set by the Transitional 
@@ -4329,7 +4237,6 @@ deployed in MND(SE), and about the permeability of Maysan’s substantial border
 with Iran. 
 
 
-93
 
 Executive Summary684.  From early July, security was seen in Whitehall as the key concern and was raised 
 by Mr Blair with President Bush. 
@@ -4378,7 +4285,6 @@ and Lt Gen Pigott).
 691.  No such review took place.
 
 
-94
 
 The Report of the Iraq Inquiry692.  There was a strong case for reinforcing MND(SE) so that it could handle its 
 high‑priority tasks (providing essential security for reconstruction projects, protecting 
@@ -4422,7 +4328,6 @@ require the withdrawal of resources from other operations.
 a security crisis.”[^243]
 
 
-95
 
 Executive Summary698.  Despite mounting evidence of violent insurgency, the UK’s policy of military 
 drawdown in Iraq continued. After force levels had been reviewed in January, the 
@@ -4464,7 +4369,6 @@ for deployment to Iraq, even though:
 as the key issue; and
 
 
-96
 
 The Report of the Iraq InquiryTransition
 
@@ -4509,7 +4413,6 @@ previous peak in April of the same year. In September, Lieutenant General John M
 not be able to take full responsibility for security before 2006.
 
 
-97
 
 Executive Summary712.  In September 2004, Gen Walker received a well‑argued piece of advice from 
 Lt Gen McColl which made clear that the conditions on which decisions on drawdown 
@@ -4554,7 +4457,6 @@ assessment made by Lt Gen Fry that only additional military effort by the MNF‑
 be able to get the campaign back on track. 
 
 
-98
 
 The Report of the Iraq Inquiry718.  On 30 January, elections for the Transitional National Assembly and Provincial 
 Assemblies took place across Iraq. Security arrangements involved 130,000 personnel 
@@ -4599,7 +4501,6 @@ operating at or above the level of concurrency defined in the 1998 SDR, and the
 continuation of Op TELIC had placed additional strain on military personnel. 
 
 
-99
 
 Executive Summary725.  By May 2005, the UK had been supporting an operation of at least medium scale 
 in Iraq for more than two years. The Ministerial Committee on Defence and Overseas 
@@ -4647,7 +4548,6 @@ equipment capabilities for Iraq, and on the level of stretch felt by military pe
 is addressed in Sections 14 and 16.
 
 
-100
 
 The Report of the Iraq InquiryIRAQIISATION
 733.  After becoming Defence Secretary in May 2005, Dr Reid had continued the policy 
@@ -4694,7 +4594,6 @@ on the ability of the ISF to take the lead on security. Gen Jackson raised conce
 ISF effectiveness in a minute to Gen Walker, and concluded: “it is not to our credit that 
 
 
-101
 
 Executive Summarywe have known about the inadequacies of the IPS for so long and yet failed to address 
 them”.[^257] The Assessments Staff reinforced the lack of progress in reforming the ISF. 
@@ -4735,7 +4634,6 @@ those tasks, and recent efficiency measures in theatre”.[^259] That rationale 
 an assessment of the effect of those tasks on the capability of the ISF.
 
 
-102
 
 The Report of the Iraq InquiryPreparation for withdrawal
 
@@ -4781,7 +4679,6 @@ group in Basra which allowed the safe exit of UK troops from their main base in 
 
 31 January 2007’. 
 
-103
 
 Executive SummaryA POSSIBLE CIVIL WAR
 752.  By March 2006, senior members of the UK military were considering the possibility 
@@ -4824,7 +4721,6 @@ security challenges in Basra was not consistent with Government policy that with
 should be conditions‑based. 
 
 
-104
 
 The Report of the Iraq Inquiry759.  ACM Stirrup’s acceptance that the “law of diminishing returns” was “now firmly 
 in play” and that there was “an increasing risk” that UK forces would “become part of 
@@ -4870,7 +4766,6 @@ needed to draw down its force levels as soon as practicable, both in MND(SE)
 and elsewhere.”[^268]
 
 
-105
 
 Executive Summary766.  The decision not to allow the use of US support in Basra was an important one. 
 The Inquiry considers that the question of what was needed to make Op SALAMANCA 
@@ -4914,7 +4809,6 @@ civilian operations in MND(SE) could be better aligned.
 MND(SE) were explicitly questioned in Maj Gen Shirreff’s end of tour report.
 
 
-106
 
 The Report of the Iraq InquiryFORCE LEVEL REVIEW
 773.  The balance of forces between Iraq and Afghanistan was reviewed by DOP in 
@@ -4960,7 +4854,6 @@ senior US officers that Basra was ready for transfer to PIC on the basis that it
 not be possible to demonstrate readiness until after the transfer had taken place. 
 
 
-107
 
 Executive SummaryGeneral David Petraeus, Commanding General MNF‑I, and Ambassador Ryan Crocker, 
 US Ambassador to Iraq, remained “circumspect” on the timing of PIC.[^275] They considered 
@@ -5003,7 +4896,6 @@ the UK military task would be complete by the end of 2008; its timetable would n
 affected by the Charge of the Knights. 
 
 
-108
 
 The Report of the Iraq Inquiry787.  ACM Stirrup’s conclusion that there was no need to review UK drawdown plans 
 was premature in the light of both the level of uncertainty generated by the Charge of 
@@ -5048,7 +4940,6 @@ renewed violence within and between Iraq’s Sunni, Shia and Kurdish communities
 to be the greatest strategic threat to Iraq’s stability. 
 
 
-109
 
 Executive Summary794.  The fragility of the situation in Basra, which had been the focus of UK effort in 
 MND(SE), was clear. The JIC assessed that threats remained from Iranian‑backed 
@@ -5091,7 +4982,6 @@ first year of the Occupation, when it would have been possible to conduct a subs
 reappraisal. None took place.
 
 
-110
 
 The Report of the Iraq InquiryKey findings
 
@@ -5147,7 +5037,6 @@ dealt with.
 had been taken and Cabinet was not being asked to take decisions. Cabinet 
 endorsed the conclusion that Iraq’s weapons of mass destruction (WMD) 
 
-111
 
 Executive Summaryprogrammes posed a threat to peace and endorsed a strategy of engaging 
 closely with the US Government in order to shape policy and its presentation. 
@@ -5199,7 +5088,6 @@ comply with its obligations to disarm.
 seeking to establish conditions whereby such action would command multilateral 
 support and be taken with the authority of the Security Council.
 
-112
 
 The Report of the Iraq Inquiryon 12 September, to take the issue of Iraq back to the UN.
 
@@ -5250,7 +5138,6 @@ programmes in contravention of its obligations to disarm; and that the absence
 of evidence of weapons and programmes was the result of a successful policy 
 of concealment.
 
-113
 
 Executive Summary•  By early January 2003, Mr Blair had concluded that Iraq had had “no change of 
 heart” and military action to remove Saddam Hussein’s regime was likely to be 
@@ -5303,7 +5190,6 @@ opportunity offered by resolution 1441, failed to attract support.
 continued and reinforced inspections with a clear timeline and a military build‑up 
 to exert maximum pressure on Iraq to disarm.
 
-114
 
 The Report of the Iraq Inquiry•  The reports to the Security Council by the IAEA reported increasing indications 
 
@@ -5357,7 +5243,6 @@ uncertainties within the intelligence community about the detail of Iraq’s act
 late 2001 onwards conveyed more certainty than the JIC Assessments about 
 Iraq’s proscribed activities and the potential threat they posed.
 
-115
 
 Executive Summary•  The tendency to refer in public statements only to Iraq’s “weapons of mass 
 
@@ -5412,7 +5297,6 @@ firmness of the evidence has produced a damaging legacy which may make it
 more difficult to secure support for Government policy, including military action, 
 where the evidence depends on inferential judgements drawn from intelligence.
 
-116
 
 The Report of the Iraq Inquiry•  There are lessons which should be implemented in using information from 
 
@@ -5468,7 +5352,6 @@ The search for WMD
 campaign by Exploitation Task Force‑75 and was carried forward from 
 June 2003 by the Iraq Survey Group (ISG). The UK participated in both.
 
-117
 
 Executive Summary•  As the insurgency developed, the ISG’s operating conditions became 
 
@@ -5523,7 +5406,6 @@ growing threat.
 
 on the ISG’s findings, but was not the explanation given before the conflict. 
 
-118
 
 The Report of the Iraq InquiryAdvice on the legal basis for military action, November 2002 to 
 March 2003
@@ -5575,7 +5457,6 @@ material breaches as specified in [operative] paragraph 4 of resolution
 1441, but as this is a judgment for the Prime Minister, the Attorney would 
 be grateful for confirmation that this is the case.”
 
-119
 
 Executive Summary•  Mr Rycroft replied to Mr Brummell on 15 March:
 
@@ -5628,7 +5509,6 @@ was perceived to be commensurate with the UK’s capabilities and the demands
 of the campaign. Anything smaller risked being compared adversely to the UK’s 
 contribution to the liberation of Kuwait in 1991. 
 
-120
 
 The Report of the Iraq Inquiry•  The MOD saw a significant military contribution as a means of influencing 
 •  Mr Blair and Mr Hoon wanted to keep open the option of contributing significant 
@@ -5682,7 +5562,6 @@ increase the combat force deployed to three brigades and bring forward the
 date on which UK forces might participate in combat operations compressed 
 the timescales available for preparation.
 
-121
 
 Executive Summary•  The decision to deploy a large scale force for potential combat operations 
 was taken without collective Ministerial consideration of the decision and 
@@ -5738,7 +5617,6 @@ risks associated with the UK’s proposed approach.
 violence in Iraq, the inadequacy of US plans, the UK’s inability to exert 
 significant influence on US planning and, in the absence of UN authorisation 
 
-122
 
 The Report of the Iraq Inquiryfor the administration and reconstruction of post‑conflict Iraq, the reluctance 
 of potential international partners to contribute to the post‑conflict effort. 
@@ -5790,7 +5668,6 @@ to Iraq was to reduce the level of its deployed forces.
 Provisional Authority’s (CPA’s) policies, even though it was fully implicated 
 in its decisions as joint Occupying Power.
 
-123
 
 Executive Summary•  US and UK strategies for Iraq began to diverge almost immediately after the 
 conflict. Although the differences were managed, by early 2007 the UK was 
@@ -5849,7 +5726,6 @@ on oil policy and on disbursements from the Development Fund for Iraq.
 
 persisted throughout the post‑conflict period. They included poor 
 
-124
 
 The Report of the Iraq Inquiryinter‑departmental co‑ordination, inadequate civilian military co‑operation and 
 a failure to use resources coherently.
@@ -5905,7 +5781,6 @@ an Iraq‑wide approach.
 for the Iraqi Security Forces were lowered to what would be “good enough” for 
 Iraq. It was never clear what that meant in practice.
 
-125
 
 Executive Summary•  The development of the Iraqi Army was considerably more successful than 
 that of the Iraqi Police Service. But the UK was still aware before it withdrew 
@@ -5958,7 +5833,6 @@ and Reconnaissance (ISTAR) and helicopter support.
 
 responsibility for identifying and articulating capability gaps.
 
-126
 
 The Report of the Iraq Inquiry•  Delays in providing adequate medium weight Protected Patrol Vehicles (PPVs) 
 
@@ -6013,7 +5887,6 @@ specialist trades.
 •  The Government’s decision to contribute a military force to a US‑led invasion 
 of Iraq inevitably increased the risk that more Service Personnel would be put 
 
-127
 
 Executive Summaryin breach of the Harmony Guidelines. The issue of the potential pressure on 
 Service Personnel was not a consideration in the decision. 
@@ -6071,7 +5944,6 @@ the number of civilian casualties arising from an invasion of Iraq. The MOD’s
 responses offered reassurance based on the tight targeting procedures 
 governing the air campaign.
 
-128
 
 The Report of the Iraq Inquiry•  The MOD made only a broad estimate of direct civilian casualties arising from 
 •  With hindsight, greater efforts should have been made in the post‑conflict 
@@ -6121,7 +5993,6 @@ cannot expect to retain control of how it is to be discussed and eventually deci
 unless it is able to work with the interests and agendas of other Member States. 
 In relation to Iraq, the independent role of the inspectors was a further dimension. 
 
-129
 
 Executive Summary830.  A military timetable should not be allowed to dictate a diplomatic timetable. 
 If a strategy of coercive diplomacy is being pursued, forces should be deployed in 
@@ -6175,7 +6046,6 @@ see the risk of combining in the September dossier the JIC’s assessment of int
 and other evidence with the interpretation and presentation of the evidence in order to 
 make the case for policy action.
 
-130
 
 The Report of the Iraq Inquiry837.  The nature of the two functions is fundamentally different. As can be seen from 
 the JIC Assessments quoted in, and published with, this report, they contain careful 
@@ -6226,7 +6096,6 @@ intelligence.
 producing and using an improvised nuclear device was, rightly, omitted from the 
 dossier. But the claim that Iraq could build a nuclear weapon within one to two 
 
-131
 
 Executive Summaryyears if it obtained fissile material and other essential components from foreign 
 sources was included without addressing how feasible and likely that would 
@@ -6276,7 +6145,6 @@ but adjoining rooms, with communicating doors and thin partition walls ...”[^2
 intelligence agencies is precisely so that those who are obtaining the intelligence are 
 
 
-132
 
 The Report of the Iraq Inquirynot then directly making the assessment upon it. That is one of the very important 
 strengths of our system compared with most other systems around the world.”[^281]
@@ -6317,7 +6185,6 @@ of each operation need to be put in place in both London and on the ground befor
 operations begin. 
 
 
-133
 
 Executive Summary853.  When the UK acceded to the US request that it assume leadership of a military 
 Area of Responsibility encompassing four provinces in southern Iraq, it did so without a 
@@ -6368,7 +6235,6 @@ coalition. The UK normally acts with allies, as it did in Iraq. Within the NATO 
 the rules and mechanisms for decision‑taking and the sharing of responsibility have 
 been developed over time and are well understood. The Coalition in Iraq, by contrast, 
 
-134
 
 The Report of the Iraq Inquirywas an ad hoc alliance. The UK tried to establish some governance principles in 
 the Memorandum of Understanding proposed to the US, but did not press the point. 
@@ -6414,7 +6280,6 @@ Reconstruction
 comparable to those in Iraq between 2003 and 2009 must be that this is an area where 
 progress will be extremely difficult.
 
-135
 
 Executive Summary867.  Better planning and preparation for a post‑Saddam Hussein Iraq would not 
 necessarily have prevented the events that unfolded in Iraq between 2003 and 2009. 
@@ -6464,7 +6329,6 @@ level;
 
 changes significantly, be revised.
 
-136
 
 The Report of the Iraq Inquiry875.  A government must prepare for a range of scenarios, not just the best case, and 
 should not assume that it will be able to improvise. 
@@ -6509,7 +6373,6 @@ measures to be applied and the process for their implementation.
 883.  The potential for abuse means that it is essential to have thought‑through forms of 
 oversight that are as impartial and non‑partisan as possible. 
 
-137
 
 Executive SummarySecurity Sector Reform
 884.  An SSR strategy should define the functions of different elements of the relevant 
@@ -6555,7 +6418,6 @@ and civilian activities and the extent to which those mechanisms provide pervers
 incentives for military action by making it easier to secure funding for agreed military 
 operations than for civilian activities. 
 
-138
 
 The Report of the Iraq Inquiry891.  A government should also address its explicit and implicit financial policy that, 
 while there should be no constraint on the provision of funding for military operations, 
@@ -6604,7 +6466,6 @@ to Ministers.
 898.  The MOD should be pro‑active in seeking to understand and articulate new or 
 additional equipment requirements. The MOD told the Inquiry that there was no simple 
 
-139
 
 Executive Summaryanswer to the question of where the primary responsibility for identifying capability gaps 
 lay during Op TELIC. That is unacceptable. The roles and responsibilities for identifying 
@@ -6652,7 +6513,6 @@ The same approach should be applied to locally engaged (LE) staff.
 responsibilities and duty of care towards LE staff, who have an essential contribution to 
 make and will face particular risks in insecure environments. 
 
-140
 
 The Report of the Iraq Inquiry906.  All civilian deployments should be assessed and reviewed against a single, 
 rigorous, cross‑government framework for risk management. The framework should 
@@ -6712,7 +6572,6 @@ approves a policy of continuing containment
 
 Security Council adopts resolution 1284 
 
-141
 
 Executive Summary2001
 23 February  
@@ -6805,7 +6664,6 @@ Secretary Powell’s presentation to the Security Council
 
 Dr Blix and Dr ElBaradei report to the Security Council
 
-142
 
 The Report of the Iraq Inquiry15 February 
 
@@ -6892,7 +6750,6 @@ announced
 
 Capture of Saddam Hussein by US forces
 
-143
 
 Executive Summary2004
 1 March  
@@ -6981,7 +6838,6 @@ Mr Blair leaves office; Mr Brown becomes Prime Minister
 
 Start of reduction of Jaysh al‑Mahdi violence against UK forces
 
-144
 
 The Report of the Iraq Inquiry2/3 September  
 
@@ -7014,6 +6870,5 @@ UK/Iraq Training and Maritime Support Agreement ratified
 
 Departure of the last UK naval training team from Iraq
 
-145
 
 [^1.] Joint Memorandum by the Secretary of State for Foreign and Commonwealth Affairs and the Secretary of State for Defence, 17 May 1999, ‘Iraq Future Strategy’.[^2.] UN Security Council Press Release, 17 December 1999, Security Council Establishes New Monitoring Commission For Iraq Adopting Resolution 1284 (1999) By Vote of 11‑0‑4 (SC/6775). [^3.] UN Security Council, ‘4084th Meeting Friday 17 December 1999’ (S/PV.4084).[^4.] Letter Goulty to McKane, 20 October 2000, ‘Iraq’.[^5.] JIC Assessment, 1 November 2000, ‘Iraq: Prospects for Co‑operation with UNSCR 1284’.[^6.] Letter Sawers to Cowper‑Coles, 27 November 2000, ‘Iraq’.[^7.] Letter Barrow to Sawers, 15 December 2000, ‘Iraq’.[^8.] JIC Assessment, 14 February 2001, ‘Iraq: Economic Sanctions Eroding’.[^9.] Letter Sawers to Cowper‑Coles, 24 February 2001, ‘Prime Minister’s Talks with President Bush, Camp David, 23 February 2001’.[^10.] House of Commons, Official Report, 26 February 2001, column 620.[^11.] Minute McKane to Manning, 18 September 2001, ‘Iraq Stocktake’.[^12.] Public hearing, 21 January 2011, page 8.[^13.] The National Archives, 11 September 2001, September 11 attacks: Prime Minister’s statement.[^14.] JIC Assessment, 18 September 2001, ‘UK Vulnerability to Major Terrorist Attack’.[^15.] JIC Assessment, 28 November 2001, ‘Iraq after September 11 – The Terrorist Threat’.[^16.] The White House, 26 November 2001, The President Welcomes Aid Workers Rescued from Afghanistan.[^17.] Paper [Blair to Bush], 4 December 2001, ‘The War against Terrorism: The Second Phase’. [^18.] The White House, 29 January 2002, The President’s State of the Union Address. [^19.] Letter C to Manning, 26 February 2002, ‘US Policy on Iraq’. [^20.] JIC Assessment, 27 February 2002, ‘Iraq: Saddam Under the Spotlight’. [^21.] Minute Straw to Prime Minister, 25 March 2002, ‘Crawford/Iraq’.[^22.] Letter Manning to McDonald, 8 April 2002, ‘Prime Minister’s Visit to the United States: 5‑7 April’.[^23.] The White House, 6 April 2002, President Bush, Prime Minister Blair Hold Press Conference.[^24.] Blair T. A Journey. Hutchinson, 2010.[^25.] Paper Cabinet Office, 19 July 2002, ‘Iraq: Conditions for Military Action’. [^26.] Paper [Draft] Cabinet Office, ‘Iraq: Conditions for Military Action’ attached to Minute McKane to Bowen, [^27.] Paper Cabinet Office, 19 July 2002, ‘Iraq: Conditions for Military Action’. [^28.] Report, 22 July 2002, ‘Iraq [C’s account of discussions with Dr Rice]’. [^29.] Minute Rycroft to Manning, 23 July 2002, ‘Iraq: Prime Minister’s Meeting, 23 July’. [^30.] Letter McDonald to Rycroft, 26 July 2002, ‘Iraq: Ultimatum’ attaching Paper ‘Elements which might be incorporated in an SCR embodying an ultimatum to Iraq’. [^31.] Note Blair [to Bush], 28 July 2002, ‘Note on Iraq’. [^32.] Rycroft to McDonald, 31 July 2002, ‘Iraq: Prime Minister’s Phone Call with President Bush, 31 July’. [^33.] The National Archives, 3 September 2002, PM press conference [at Sedgefield].[^34.] The White House, 7 September 2002, President Bush, Prime Minister Blair Discuss Keeping the Peace.[^35.] Minute Manning to Prime Minister, 8 September 2002, ‘Your Visit to Camp David on 7 September: Conversation with President Bush’. [^36.] The White House, 12 September 2002, President’s Remarks to the United Nations General Assembly.[^37.] Iraq’s Weapons of Mass Destruction. The Assessment of the British Government, 24 September 2002.[^38.] House of Commons, Official Report, 24 September 2002, columns 1‑23.[^39.] UN Security Council, 16 September 2002, ‘Letter dated 16 September from the Minister of Foreign Affairs of Iraq addressed to the Secretary‑General’, attached to ‘Letter dated 16 September from the Secretary‑General addressed to the President of the Security Council’ (S/2002/1034). [^40.] Minute Straw to Prime Minister, 14 September 2002, ‘Iraq: Pursuing the UN Route’.[^41.] Minute Adams to Attorney General, 22 October 2002, ‘Iraq: Meeting with the Prime Minister, 22 October’ attaching Briefing, ‘Lines to take’.[^42.] Letter Wechsberg to Watkins, 31 October 2002, ‘Iraq: Military Options’.[^43.] UN Security Council, 13 November 2002, ‘Letter dated 13 November 2002 from the Minister for Foreign Affairs of Iraq addressed to the Secretary‑General’ (S/2002/1242). [^44.] Minute Manning to Prime Minister, 11 December 2002, ‘Iraq’.[^45.] Letter Rycroft to McDonald, 16 December 2002, ‘Prime Minister’s Telephone Call with President Bush, [^46.] The National Archives, 18 December 2002, Statement by Foreign Secretary on Iraq Declaration.[^47.] JIC Assessment, 18 December 2002, ‘An Initial Assessment of Iraq’s WMD Declaration’. [^48.] Feith DJ. War and Decision: Inside the Pentagon at the Dawn of the War on Terrorism. HarperCollins, [^49.] US Department of State Press Release, Press Conference Secretary of State Colin L Powell, Washington, 19 December 2002.[^50.] Letter Straw to Manning, 30 December 2002, ‘Iraq: Conversation with Colin Powell, 30 December’. [^51.] Minute Straw to Prime Minister, 3 January 2003, ‘Iraq ‑ Plan B’.[^52.] Note Blair [to No.10 officials], 4 January 2003, [extract ‘Iraq’].[^53.] House of Commons, Official Report, 7 January 2003, columns 4‑6WS.[^54.] Minute [Draft] [Goldsmith to Prime Minister], 14 January 2003, ‘Iraq: Interpretation of Resolution 1441’. [^55.] Letter Manning to Watkins, 17 January 2003, ‘Iraq: UK Land Contribution’.[^56.] Letter PS/C to Manning, 23 January 2003, [untitled]. [^57.] Letter Manning to Rice, 24 January 2003, [untitled], attaching Note [Blair to Bush], [undated], ‘Note’. [^58.] BBC News, 26 January 2003, Breakfast with Frost.[^59.] Note [Blair to Bush], [undated], ‘Countdown’. [^60.] Letter Manning to McDonald, 31 January 2003, ‘Iraq: Prime Minister’s Conversation with President Bush on 31 January’.[^61.] House of Commons, Official Report, 3 February 2003, columns 21‑38.[^62.] UN Security Council, ‘4707th Meeting Friday 14 February 2003’ (S/PV.4707).[^63.] Telegram 268 UKMIS New York to FCO London, 15 February 2003, ‘Foreign Secretary’s Meeting with the UN Secretary‑General: 14 February’. [^64.] Letter Manning to Rice, 19 February 2003, ‘Iraq’ attaching Note [Blair to Bush], [undated], ‘Note’. [^65.] Letter Rycroft to McDonald, 19 February 2003, ‘Iraq and MEPP: Prime Minister’s Telephone Conversation with Bush, 19 February’. [^66.] Letter Cannon to Owen, 20 February 2003, ‘Iraq: Prime Minister’s Conversation with Blix’. [^67.] Telegram 302 UKMIS New York to FCO London, 25 February 2003, ‘Iraq: Tabling of US/UK/Spanish Draft Resolution: Draft Resolution’. [^68.] UN Security Council, 24 February 2003, ‘Letter dated 24 February 2003 from the Permanent Representatives of France, Germany and the Russian Federation to the United Nations addressed to the President of the Security Council’ (S/2003/214).[^69.] House of Commons, Official Report, 25 February 2003, columns 123‑126.[^70.] House of Commons, Official Report, 26 February 2003, column 265.[^71.] House of Commons, Official Report, 26 February 2003, columns 367‑371.[^72.] The White House, 26 February 2003, President discusses the future of Iraq.[^73.] Telegram 314 UKMIS New York to FCO London, 27 February 2003, ‘Iraq: 26 February’. [^74.] Minute Brummell, 27 February 2003, ‘Iraq: Attorney General’s Meeting at No. 10 on 27th February [^75.] Telegram 318 UKMIS New York to FCO London, 28 February 2003, ‘Iraq: 27 February Consultations and Missiles’.[^76.] Telegram 68 Cairo to FCO London, 2 March 2003, ‘Arab League Summit: Final Communique’. [^77.] Telegram 1 Mexico City to Cabinet Office, 1 March 2003, ‘Iraq: Mexico’. [^78.] Telegram 34 Santiago to FCO London, 2 March 2003, ‘Chile/Iraq: Visit by Manning and Scarlett’. [^79.] Blair T. A Journey. Hutchinson, 2010. [^80.] Note (handwritten) [Blair], 3 March 2003, [untitled].[^81.] Minute Straw to Prime Minister, 3 March 2003, ‘Iraq: Second Resolution’. [^82.] Letter Straw to Manning, 4 March 2003, ‘Iraq: Conversation with Colin Powell, 3 March’. [^83.] Minutes, Foreign Affairs Committee (House of Commons), 4 March 2003, [Evidence Session], Qs 151 and 154.[^84.] Letter Watkins to Manning, 4 March 2003, ‘Iraq: Timing of Military Action’. [^85.] Minute Amos to Foreign Secretary, 4 March 2003, [untitled]. [^86.] Telegram 90 Beijing to FCO London, 4 March 2003, ‘Iraq: Lobbying the Chinese’. [^87.] Telegram 110 Paris to FCO London, 4 March 2003, ‘Iraq: Avoiding a French Veto’. [^88.] Telegram 37 FCO London to Moscow, 3 [sic] March 2003, ‘Iraq: Foreign Secretary’s Meetings with Russian Foreign Minister, 4 March’. [^89.] The Guardian, 5 March 2003, UN war doubters unite against resolution; The Guardian, 6 March 2003, Full text of Joint declaration.[^90.] Telegram 294 Washington to FCO London, 6 March 2003, ‘Personal Iraq: UN Endgame’. [^91.] Telegram 353 UKMIS New York to FCO London, 6 March 2003, ‘Iraq: 5 March’. [^92.] Cabinet Conclusions, 6 March 2003. [^93.] Letter Cannon to Owen, 6 March 2003, ‘Iraq: Prime Minister’s Conversation with President of Chile, [^94.] UN Security Council, ‘4714th Meeting Friday 7 March 2003’ (S/PV.4714).[^95.] Letter Rycroft to McDonald, 7 March 2003, ‘Iraq: Prime Minister’s Conversation with President Putin, [^96.] Telegram 366 UKMIS New York to FCO London, 7 March 2003, ‘Iraq: Foreign Secretary’s Meeting with UN Secretary‑General, New York, 6 March’. [^97.] Minute Goldsmith to Prime Minister, 7 March 2003, ‘Iraq: Resolution 1441’. [^98.] The number of votes required, in the absence of a veto from one or more of the five Permanent Members, for a decision to take action with the authority of the Security Council.[^99.] Letter Rycroft to McDonald, 7 March 2003, ‘Iraq: Prime Minister’s Conversation with Bush, 7 March’.[^100.] Public hearing, 29 January 2010, page 127.[^101.] Letter Rycroft to McDonald, 9 March 2003, ‘Iraq: Prime Minister’s Conversation with Bush, 9 March’.[^102.] Telegram 391 UKMIS New York to FCO London, 10 March 2003, ‘Iraq: Second Resolution’. [^103.] Letter Rycroft to McDonald, 10 March 2003, ‘Iraq: Prime Minister’s Phone Calls with Lagos, Bush and Aznar, 10 March’.[^104.] Letter Straw to Manning, 11 March 2003, ‘Conversation with US Secretary of State, 10 March’. [^105.] Letter Rycroft to McDonald, 10 March 2003, ‘Iraq: Prime Minister’s Phone Calls with Lagos, Bush and Aznar, 10 March’.[^106.] Campbell A & Hagerty B. The Alastair Campbell Diaries. Volume 4. The Burden of Power: Countdown to Iraq. Hutchinson, 2012. [^107.] Letter Manning to Rice, 10 March 2003, [untitled].[^108.] Blair T. A Journey. Hutchinson, 2010. [^109.] United Nations, 10 March 2003, Secretary‑General’s press conference (unofficial transcript).[^110.] The Élysée, Interview télévisée de Jacques Chirac, le 10 mars 2003. A translation for HMG was produced in a Note, [unattributed and undated], ‘Iraq – Interview given by M. Jacques Chirac, President  of the Republic, to French TV (10 March 2003)’.[^111.] Minute Straw to Prime Minister, 11 March 2003, ‘Iraq: What if We Cannot Win the Second Resolution?’ [^112.] Letter Cannon to McDonald, 11 March 2003, ‘Iraq: Prime Minister’s Conversations with Bush and Lagos, 11 March’.[^113.] Telegram 417 UKMIS New York to FCO London, 12 March 2003, ‘Personal Iraq: Side Statement and End Game Options’. [^114.] Letter Rycroft to McDonald, 12 March 2003, ‘Iraq: Prime Minister’s Telephone Conversation with President Bush, 12 March’.[^115.] Public hearing, 21 January 2010, page 105.[^116.] House of Commons, Official Report, 12 March 2003, column 288.[^117.] Telegram 33 FCO London to Riyadh, 12 March 2003, ‘Personal for Heads of Mission: Iraq: The Endgame’. [^118.] Telegram 429 UKMIS New York to FCO London, 13 March 2003, ‘Iraq: UK Side‑Statement’. [^119.] Angola, Cameroon, Chile, Guinea, Mexico, Pakistan.[^120.] Telegram 428 UKMIS New York to FCO London, 13 March 2003, ‘Iraq: UK Circulates Side‑Statement’. [^121.] Cabinet Conclusions, 13 March 2003.[^122.] Letter Rycroft to Watkins, 13 March 2003, ‘Iraq: Military Planning’.[^123.] Letter Cannon to McDonald, 13 March 2003, ‘Iraq: Military Timetable’.[^124.] Telegram 438 UKMIS New York to FCO London, 14 March 2003, ‘Iraq: 13 March’.[^125.] Letter Cannon to Owen, 14 March 2003, ‘Iraq: Prime Minister’s Conversation with President Chirac, [^126.] Letter Rycroft to McDonald, 14 March 2003, ‘Iraq: Prime Minister’s Conversation with Bush, 14 March’.[^127.] Letter [Francis] Campbell to Owen, 14 March 2003, ‘Iraq: Prime Minister’s Conversation with President Lagos of Chile, 14 March’. [^128.] Telegram 350 Washington to FCO London, 15 March 2003, ‘Iraq’.[^129.] UN Security Council, 18 March 2003, ‘Letter dated 15 March 2003 from the Permanent Representative of Germany to the United Nations addressed to the President of the Security Council’ (S/2003/320).[^130.] Letter Manning to McDonald, 16 March 2013, ‘Iraq: Summit Meeting in the Azores: 16 March’.[^131.] Blair T. A Journey. Hutchinson, 2010. [^132.] Telegram 465 UKMIS New York to FCO London, 18 March 2003, ‘Iraq: Resolution: Statement’. [^133.] Telegram 464 UKMIS New York to FCO London, 18 March 2003, ‘Iraq: Resolution’. [^134.] Cabinet Conclusions, 17 March 2003. [^135.] House of Commons, Official Report, 17 March 2003, columns 703‑705.[^136.] House of Commons, Official Report, 17 March 2003, columns 726‑728.[^137.] Telegram 135 Paris to FCO London, 18 March 2003, ‘Iraq: Chirac’s Reaction to Ultimatum’. [^138.] Bush GW. Decision Points. Virgin Books, 2010. [^139.] UN Security Council, ‘4721st Meeting Wednesday 19 March 2003’ (S/PV.4721).[^140.] Letter Manning to McDonald, 20 March 2003, ‘Iraq’.[^141.] Ministry of Defence, Operations in Iraq: Lessons for the Future, December 2003, page 12. [^142.] Cabinet Conclusions, 20 March 2003. [^143.] Blair T. A Journey. Hutchinson, 2010. [^144.] House of Commons, Official Report, 18 March 2003, columns 760‑774.[^145.] JIC Assessment, 28 November 2001, ‘Iraq after September 11 – The Terrorist Threat’.[^146.] JIC Assessment, 29 January 2003, ‘Iraq: The Emerging view from Baghdad’.[^147.] JIC Assessment, 10 February 2003, ‘International Terrorism: War with Iraq’[^148.] Private hearing, 16 June 2010, pages 39‑40. [^149.] JIC Assessment, 10 October 2002, ‘International Terrorism: The Threat from Iraq’.[^150.] JIC Assessment, 29 January 2003, ‘Iraq: The Emerging view from Baghdad’.[^151.] Public hearing, 20 January 2010, page 37.[^152.] Public hearing, 20 July 2010, page 6.[^153.] Public hearing, 20 July 2010, page 9.[^154.] House of Commons, Official Report, 18 March 2003, columns 760‑764.[^155.] House of Commons, Official Report, 17 March 2003, columns 726‑728.[^156.] House of Commons, Official Report, 12 October 2004, columns 151‑152.[^157.] House of Commons, Official Report, 18 March 2003, column 769.[^158.] JIC Assessment, 10 October 2002, ‘International Terrorism: The Threat from Iraq’. [^159.] JIC Assessment, 10 February 2003, ‘International Terrorism: War with Iraq’.[^160.] JIC Assessment, 19 February 2003, ‘International Terrorism: The Current Threat from Islamic Extremists’. [^161.] JIC Assessment, 12 March 2003, ‘International Terrorism: War with Iraq: Update’. [^162.] Note JIC, 19 March 2003, ‘Saddam: The Beginning of the End’. [^163.] Intelligence and Security Committee, Iraqi Weapons of Mass Destruction – Intelligence and Assessments, September 2003, Cm5972, paragraph 128. [^164.] Government Response to the Intelligence and Security Committee Report on Iraqi Weapons of Mass Destruction – Intelligence and Assessments, 11 September 2003, February 2004, Cm6118, paragraph 22. [^165.] Public hearing, 20 July 2010, page 19.[^166.] Public hearing, 20 July 2010, pages 23‑24.[^167.] Public hearing, 20 July 2010, page 24.[^168.] Public hearing, 20 July 2010, page 31.[^169.] Public hearing, 20 July 2010, page 33.[^170.] Public hearing, 20 July 2010, pages 33‑34.[^171.] Inquiry request for a witness statement, 13 December 2010, Qs 11c and 11d page 7.[^172.] Statement, 14 January 2011, page 16.[^173.] The National Archives, 11 September 2001, September 11 attacks: Prime Minister’s statement.[^174.] Blair T. A Journey. Hutchinson, 2010. [^175.] Minute Tebbit to Secretary of State [MOD], 14 January 2003, ‘Iraq: What If?’.[^176.] Public hearing, 18 January 2010, page 38. [^177.] Public hearing, 18 January 2010, pages 77‑78.[^178.] Ministerial Code, 2001, page 3.[^179.] Ministerial Code, 2001, page 3. [^180.] Public hearing, 25 January 2011, page 11.[^181.] Public hearing, 25 January 2011, page 11.[^182.] Email Cabinet Office to Secretary Iraq Inquiry, 5 July 2011, ‘FOI request for joint MOD/FCO memo on Iraq Policy 1999’.[^183.] Minute Webb to PS/Secretary of State, 12 April 2002, ‘Bush and the War on Terrorism’. [^184.] Cabinet Office, June 2001, Guide to Minute Taking. [^185.] Public hearing, 13 January 2010, page 28.[^186.] Public hearing, 13 January 2010, pages 45‑46.[^187.] Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898.[^188.] Cabinet Office, Review on Intelligence on Weapons of Mass Destruction: Implementation of its Conclusions, March 2005, Cm6492. [^189.] Powell J. The New Machiavelli: How to wield power in the modern world. The Bodley Head, 2010. [^190.] Powell J. The New Machiavelli: How to wield power in the modern world. The Bodley Head, 2010.[^191.] Statement J Straw, 23 February 2009, ‘Exercise of the Executive Override under section 53 of the Freedom of Information Act 2000 in respect of the decision of the Information Commissioner dated [^192.] Public hearing, 29 January 2010, page 22.[^193.] Public hearing, 29 January 2010, pages 228‑229.[^194.] Cabinet Conclusions, 7 March 2002.[^195.] Statement, 2 April 2015, page 1.[^196.] Statement, 2 April 2015, page 2.[^197.] Lord Armstrong of Ilminster, Lord Butler of Brockwell and Lord Wilson of Dinton. [^198.] Fourth Report from the House of Lords Select Committee on the Constitution, Session 2009‑10, The Cabinet Office and the Centre of Government, HL Paper 30. [^199.] Public hearing, 13 January 2010, page 3.[^200.] Minute McDonald to Ricketts, 11 March 2002, ‘Iraq’. [^201.] Paper [SPG], 13 December 2002, ‘UK Military Strategic Thinking on Iraq’. [^202.] Minute CDS to CJO, 18 March 2003, ‘Op TELIC: Authorisation for Military Operations in Iraq’ attaching Paper CDS, ‘Chief of Defence Staff Execute Directive to the Joint Commander for Operation TELIC (Phases 3 and 4)’. [^203.] Minute Straw and Hoon to Prime Minister, 19 March 2003, ‘Iraq: UK Military Contribution to post‑conflict Iraq’. [^204.] Minute Ricketts to Private Secretary [FCO], 7 February 2003, ‘Iraq Strategy’. [^205.] Paper Iraq Planning Unit, 25 March 2003, ‘Iraq: Phase IV: Authorising UNSCR’. [^206.] House of Commons, Official Report, 19 March 2003, columns 931‑932.[^207.] Telegram 501 UKMIS New York to FCO London, 21 March 2003, ‘Iraq Humanitarian/Reconstruction: Clare Short’s Visit to New York’. [^208.] Telegram 526 UKMIS New York to FCO London, 25 March 2003, ‘Iraq Phase IV: UN Dynamics’. [^209.] Paper FCO, 25 March 2003, ‘Iraq: Phase IV Issues’. [^210.] Minute Drummond to Rycroft, 19 March 2003, ‘Iraq Ministerial Meeting’.[^211.] Minute Ricketts to Private Secretary [FCO], 7 February 2003, ‘Iraq Strategy’. [^212.] Public hearing, 15 December 2009, page 5.[^213.] Paper Middle East Department, 12 December 2002, ‘Interim Administrations in Iraq: Why a UN‑led Interim Administration would be in the US interest’. [^214.] Minute Sec(O)4 to PS/Secretary of State [MOD], 6 March 2003, ‘Iraq: Aftermath – Medium to Long Term UK Military Commitment’. [^215.] Minute Reith to COSSEC, 21 March 2003, ‘Phase IV Planning – Taking Stock’. [^216.] Minute Dodds to Chancellor, 24 March 2003, ‘Iraq: UK Military Contribution to Post‑Conflict Iraq’. [^217.] Statement Blair, 14 January 2011, page 14.[^218.] Paper [SPG], 13 December 2002, ‘UK Military Strategic Thinking on Iraq’.[^219.] Letter Watkins to Manning, 19 November 2002, ‘Iraq: Military Planning after UNSCR 1441’.[^220.] Manuscript comment Powell to Manning on Letter McDonald to Manning, 26 September 2002, ‘Scenarios for the future of Iraq after Saddam’.[^221.] Telegram 1140 Washington to FCO London, 6 September 2002, ‘PM’s visit to Camp David: Iraq’.[^222.] Letter Straw to Prime Minister, 8 July 2002, ‘Iraq: Contingency Planning’.[^223.] Telegram 235 Washington to FCO London, 24 February 2003, ‘Iraq: Day After: Rehearsal of Office of Reconstruction and Humanitarian Assistance’.[^224.] Letter Williams to Manning, 28 February 2003, ‘Iraq: Military Planning and Preparation’ attaching Paper [unattributed], 28 February 2003, ‘Iraq: Military Planning Update – 28 February 2003’.[^225.] Paper Iraq Planning Unit, 7 March 2003, ‘The UK overall plan for Phase IV’.[^226.] Minute MA/DCJO to MA/CJO, 15 January 2003, ‘Briefing to Prime Minister’.[^227.] Liaison Committee, Session 2002‑2003, Minutes of Evidence Taken Before the Liaison Committee Tuesday 21 January 2003, Q 117.[^228.] Letter Manning to Rice, 24 January 2003, [untitled] attaching ‘Note’. [^229.] Private hearing, 2 June 2010, page 11. [^230.] Public hearing Walker, 1 February 2010, page 16. [^231.] Minute Reith to SECCOS, 14 April 2003, ‘Phase 4: Roulement/Recovery of UK Forces’ attaching Paper CJO, 14 April 2003, ‘Phase 4 ‑ Roulement/Recovery of UK Land Forces’. [^232.] JIC Assessment, 16 April 2003, ‘Iraq: The Initial Landscape Post‑Saddam’. [^233.] Telegram 359 IraqRep to FCO London, 28 June 2004, ‘Iraq: Valedictory: The End of Occupation’. [^234.] Minute CGS to CDS, 13 May 2003, ‘CGS Visit to Op. TELIC 7‑10 May 2003’.[^235.] Statement, 15 March 2011, page 22.[^236.] Telegram 028 IraqRep to FCO London, 1 June 2003, ‘Iraq: Political Process’. [^237.] Private hearing, 26 May 2010, page 64. [^238.] Minute SECCOS to PSO/CDS, 10 June 2003, ‘OP COS Paper: UK Contribution to Iraq: Strategic Intent and Direction’ attaching Paper SPG, 9 June 2003, ‘UK contribution to Iraq: strategic intent and direction’. [^239.] JIC Assessment, 3 September 2003, ‘Iraq: Threats to Security’. [^240.] Telegram 230 IraqRep to FCO London, 24 October 2003, ‘Iraq: Security Update’. [^241.] Telegram 1426 Washington to FCO London, 28 October 2003, ‘Iraq: US Views 28 October’. [^242.] Minute DCDS(C) to COSSEC, 5 December 2003, ‘Op TELIC – Review of UK Military Strategy for Iraq’. [^243.] Telegram 337 IraqRep to FCO London, 1 January 2004, ‘Iraq: Six Final Months of Occupation’. [^244.] Minute Reith to PSO/CDS, 29 January 2004, ‘Op TELIC Force Level Review – Jan 04’. [^245.] Public hearing Lamb, 9 December 2009, pages 67‑68.[^246.] Letter Rycroft to Owen, 26 April 2004, ‘Iraq: 15 Reports for the Prime Minister’. [^247.] Letter Bowen to Baker, 13 May 2004, ‘Iraq: Security’. [^248.] Minute McColl to CDS and CJO, 26 September 2004, ‘Report 130 of 26 Sep 04’. [^249.] Report McColl to CDS and CJO, 20 October 2004, ‘SBMR‑I Hauldown Report – Lt Gen McColl’. [^250.] Minute DCDS(C) to APS 2/SofS [MOD], 11 January 2005, ‘Iraq 2005 – a UK MOD perspective’.[^251.] JIC Assessment, 6 April 2005, ‘Iraq: The State of the Insurgency’. [^252.] Ministry of Defence, Strategic Defence Review: A New Chapter, July 2002, page 14.[^253.] House of Commons, Official Report, 26 January 2006, columns 1529‑1533.[^254.] Letter Walker to Richards, 24 January 2006, [untitled]. [^255.] House of Commons, Official Report, 25 May 2005, column 15WS.[^256.] Paper Reid, 11 October 2005, ‘Iraq: Security Update’.[^257.] Minute CGS to CDS, 18 October 2005, ‘CGS visit to Iraq: 10‑13 Oct 05’.[^258.] Minutes, 18 October 2005, Chiefs of Staff meeting. [^259.] Letter Reid to Blair, 9 March 2006, ‘Iraq: Force Level Review and Announcement’.[^260.] Minute Phillipson to Prime Minister, 2 May 2006, ‘VTC with President Bush, 1615 2 May 2006’. [^261.] Minute CGS to CDS, 22 May 2006, ‘CGS visit to Iraq: 15‑18 May 06’. [^262.] Letter Manning to Hayes, 1 February 2007, ‘Conversation with the US Secretary of State, [^263.] Minute Houghton to CDS, 5 March 2006, ‘SBMR‑I Weekly Report (201) 5 March 06’.[^264.] Minute senior government official specialising in the Middle East to Dowse, 12 May 2006, ‘Situation in Basrah’.[^265.] Minute CGS to CDS, 22 May 2006, ‘CGS visit to Iraq: 15‑18 May 06’. [^266.] Minute Stirrup to SofS [MOD], 8 May 2006, ‘CDS Visit to Iraq and Afghanistan – 5‑7 May 06’. [^267.] Minute Burke‑Davies to APS/Secretary of State [MOD], 24 August 2006, ‘Iraq: Op SALAMANCA’.[^268.] Minutes, 2 August 2006, Chiefs of Staff meeting. [^269.] Minute Shirreff, 21 September 2006, ‘GOC MND(SE) – Southern Iraq Update – 21 September 2006’. [^270.] Letter Shirreff to Blair, 29 December 2006, [untitled]. [^271.] Paper MOD officials, 13 February 2007, ‘Iraq and Afghanistan: Balancing Military Effort in 2007’.[^272.] Minute Sheinwald to Prime Minister, 3 May 2007, ‘Iraq’. [^273.] Manuscript comment Blair on Minute Sheinwald to Prime Minister, 3 May 2007, ‘Iraq’. [^274.] Minute Poffley to PSSC/SofS [MOD], 17 May 2007, ‘CDS visit to Iraq 13‑16 May 07’. [^275.] Minute Kyd to PS/SofS [MOD], 5 July 2007, ‘CDS visit to Iraq 1‑3 Jul 07’.[^276.] Letter Shaw to Houghton, 14 August 2007, ‘Post operation report Shawforce Jan‑Aug 07’.[^277.] JIC Assessment, 27 February 2008, ‘Iraq: Security Prospects in the South’. [^278.] JIC Assessment, 28 January 2009, ‘Iraq: Threats to Stability and UK Mission Change in 2009’.[^279.] CIG Assessment, 21 July 2009, ‘How Corrupt is Iraq?’[^280.] Cradock, Sir Percy. Know your enemy – How the Joint Intelligence Committee saw the World. John Murray, 2002.[^281.] Ninth Report from the Foreign Affairs Committee, Session 2002‑2003, 7 July 2003, The Decision to go to War in Iraq, HC 813‑1, paragraph 153. [^282.] Ninth Report from the Foreign Affairs Committee, Session 2002‑2003, 7 July 2003, The Decision to go to War in Iraq, HC 813‑1, paragraphs 156‑157.[^283.] Foreign Secretary, November 2003, The Decision to go to War in Iraq Response of the Secretary of State for Foreign and Commonwealth Affairs, November 2003, Cm6062, paragraph 27.

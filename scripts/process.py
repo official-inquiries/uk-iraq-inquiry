@@ -127,8 +127,8 @@ def get_io(argv):
     """Takes comand line arguments as input and returns tuple of path to input and output file
     
     """
-    inputfile = 'test/data/executive-summary.txt'
-    outputfile = 'test/data/test.md'
+    inputfile = 'test/data/input.txt'
+    outputfile = 'test/data/output.md'
     try:
        opts, args = getopt.getopt(argv,"hi:o:",["ifile=","ofile="])
     except getopt.GetoptError:

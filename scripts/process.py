@@ -2,7 +2,7 @@ def tidy_up(line):
     """Tidies the given line up
     
     """
-    result = line.replace('{{', '* ').replace('\xe2\x80\xa2 ', '* ')
+    result = line.replace('{{', '* ').replace('\xe2\x80\xa2', '*')
     return result
 
 def make_clone(data):
@@ -30,13 +30,11 @@ def yield_page(file):
                 page[line] = ''
             else:
                 page[line] = tidy_up(row)
-            page_num = True
-        except:
-            if page_num:
-                yield page
-                page = {}
-                line = 0
-                page_num = False
+            yield page
+            page = {}
+            line = 0
+            page_num = False
+        except:                
             page[line] = tidy_up(row)
             line += 1
 
@@ -80,7 +78,7 @@ def modify_page(page):
     Collects fottnotes and appends to global variable.
 
     '''
-    global FOOTNOTE_LIST, FOOTNOTE_COUNTER
+    global FOOTNOTE_COUNTER
     footnote = False
     clone = make_clone(page)            
     for line in page:  
@@ -97,15 +95,15 @@ def modify_page(page):
                     search = False
                     if page[line][char] == ' ' and str(FOOTNOTE_COUNTER) == page[line][:char]:
                         footnote_num = page[line][:char]
-                        text = page[line][char+1:].replace('\n', '')
-                        FOOTNOTE_LIST.append('[^%s.] '%(footnote_num) + text)
+                        text = page[line][char+1:].replace('\n', '') + '\n'
                         FOOTNOTE_COUNTER += 1
-                        clone[line] = '' 
+                        clone[line] = ''
                         footnote = True
                         clone = check_anchor(clone, footnote_num)
+                        clone[line] = '[^%s] '%(footnote_num) + text
         except:
             if footnote and len(page[line]) != 1:
-                FOOTNOTE_LIST[-1]+= page[line].replace('\n', '')
+                page[line-1] = page[line-1].replace('\n', '') + page[line].replace('\n', '') + '\n'
                 clone[line] = ''
     return clone          
     
@@ -120,9 +118,6 @@ def write_file(inpath, outpath):
         new_page = modify_page(page)
         for line in new_page:
             writefile.write(new_page[line])
-            
-    for line in FOOTNOTE_LIST:
-        writefile.write(line)
         
     readfile.close()
     writefile.close()
@@ -153,8 +148,6 @@ def get_io(argv):
     
 if __name__ == '__main__':
     import sys, getopt
-    
-    FOOTNOTE_LIST = ['\n']
     FOOTNOTE_COUNTER = 1
     PAGE_NUMBER = 1
     INPATH, OUTPATH = get_io(sys.argv[1:])

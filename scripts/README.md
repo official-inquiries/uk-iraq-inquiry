@@ -18,6 +18,5 @@ To tidy up text for markdown run the following command from main direcotory:
 
 To run tests:
   ```
-  python test/test.py
+  python test/test.py -v
   ```
-  

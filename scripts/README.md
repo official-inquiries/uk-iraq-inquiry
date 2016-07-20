@@ -13,7 +13,7 @@ To tidy up text for markdown run the following command from main direcotory:
   python scripts/process.py -i <inputfile> -o <outputfile>
   
   # e.g.
-  python scripts/process.py -i test/data/executive-summary.txt -o test/data/test.md
+  python scripts/process.py -i test/data/input.txt -o test/data/output.md
   ```
 
 To run tests:

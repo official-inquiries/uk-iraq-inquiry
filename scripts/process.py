@@ -1,3 +1,9 @@
+import sys, getopt
+# Global variables
+FOOTNOTE_COUNTER = 1
+PAGE_NUMBER = 1
+MESSAGE = ''
+
 def tidy_up(line):
     """Tidies the given line up
     
@@ -70,7 +76,8 @@ def check_anchor(page, num):
     if len(occured) == 1:
         clone[occured[0]]= page[occured[0]].replace(num, '[^%s]'%(num))
     else:
-        print 'More than one or no candidate for footnote %s found: Please correct manually.'%(num)
+        if MESSAGE:
+            print MESSAGE%(num)
     return clone    
 
 def modify_page(page):
@@ -123,7 +130,7 @@ def write_file(inpath, outpath):
     writefile.close()
     
 
-def get_io(argv):
+def get_io(argv=None):
     """Takes comand line arguments as input and returns tuple of path to input and output file
     
     """
@@ -146,10 +153,8 @@ def get_io(argv):
     return inputfile, outputfile
 
     
-if __name__ == '__main__':
-    import sys, getopt
-    FOOTNOTE_COUNTER = 1
-    PAGE_NUMBER = 1
+if __name__ == '__main__':    
     INPATH, OUTPATH = get_io(sys.argv[1:])
-    
+    MESSAGE = 'More than one or no candidate for footnote %s found: Please correct manually.'
     write_file(INPATH, OUTPATH)
+    

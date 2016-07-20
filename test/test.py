@@ -10,7 +10,7 @@ import unittest
 class TestProcess(unittest.TestCase):
     
     def test_io(self):
-        '''Works with comand line arguments
+        '''Works with command line arguments
         
         '''
         inpath, outpath = process.get_io()
@@ -18,7 +18,7 @@ class TestProcess(unittest.TestCase):
         self.assertEqual(outpath, 'test/data/output.md', msg='Expected test/data/output.md, but got %s'%(outpath))
     
     def test_tidy_up(self):
-        '''Works with tyding text up
+        '''Works with tidying text up
         
         '''
         line_1 = process.tidy_up('\xe2\x80\xa2  a new inspectorate, the United Nations Monitoring, Verification and Inspection ')
@@ -29,7 +29,7 @@ class TestProcess(unittest.TestCase):
         self.assertEqual(line_2, result_2, msg='Expected "*  internecine violence;", but got "%s"'%(line_2))
     
     def test_make_clone(self):
-        '''Works with makeing page clone
+        '''Works with making page clone
         
         '''
         page = {1: 'line one', 2: 'line two'}

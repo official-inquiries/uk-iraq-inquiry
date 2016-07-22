@@ -53,7 +53,7 @@ of critical importance to the public;
 
 b.  questions on which there is an unresolved argument between Departments.”
 
-[^1] Cabinet Office, Ministerial Code, July 2001, page 3.
+[^1]: Cabinet Office, Ministerial Code, July 2001, page 3.
 
 267
 
@@ -107,7 +107,7 @@ with individual Ministers …
 
 268
 
-The Report of the Iraq Inquiry2  |  Decision-making within government
+
 
 “Collective responsibility requires that Ministers should be able to express 
 their views frankly in the expectation that they can argue freely in private while 
@@ -152,7 +152,7 @@ Secretary:
 (in 2003, day-to-day responsibility was delegated to Sir David Omand by 
 Sir Andrew Turnbull);
 
-[^2] Public hearing, 19 January 2010, page 178.
+[^2]: Public hearing, 19 January 2010, page 178.
 
 269
 
@@ -195,15 +195,15 @@ preparing records of its discussions and decisions.”[^6]
 of the Civil Service for the effective day-to-day management of the relevant 
 department, or the particular issues for which they are responsible …”[^7]
 
-[^3] Lord Armstrong of Ilminster, Lord Butler of Brockwell and Lord Wilson of Dinton.
-[^4] Fourth Report from the House of Lords Select Committee on the Constitution, Session 2009-10, 
-[^5] Cabinet Office, The Cabinet Manual, October 2011, page 36.
-[^6] Cabinet Office, The Cabinet Manual, October 2011, page 36.
-[^7] Cabinet Office, The Cabinet Manual, October 2011, page 58.
+[^3]: Lord Armstrong of Ilminster, Lord Butler of Brockwell and Lord Wilson of Dinton.
+[^4]: Fourth Report from the House of Lords Select Committee on the Constitution, Session 2009-10, 
+[^5]: Cabinet Office, The Cabinet Manual, October 2011, page 36.
+[^6]: Cabinet Office, The Cabinet Manual, October 2011, page 36.
+[^7]: Cabinet Office, The Cabinet Manual, October 2011, page 58.
 
 270
 
-The Report of the Iraq Inquiry2  |  Decision-making within government
+
 
 24.  The Manual also describes the Cabinet Secretary’s advisory role:
 
@@ -248,9 +248,9 @@ allow for three positions with special powers.”[^10]
 “up to three situations in the Prime Minister’s Office which are designated by him” from 
 the principle of selection on merit based on a fair and open competition, allowing political 
 
-[^8] Cabinet Office, The Cabinet Manual, October 2011, page 32.
-[^9] Cabinet Office, Ministerial Code, July 2001, page 22.
-[^10] Powell J. The New Machiavelli: How to wield power in the modern world. The Bodley Head, 2010.
+[^8]: Cabinet Office, The Cabinet Manual, October 2011, page 32.
+[^9]: Cabinet Office, Ministerial Code, July 2001, page 22.
+[^10]: Powell J. The New Machiavelli: How to wield power in the modern world. The Bodley Head, 2010.
 
 271
 
@@ -286,7 +286,7 @@ and naturally New Labour”.[^17]
 37.  Commenting on the decision to create the post of Security and Intelligence 
 Co-ordinator, the Butler Review reported that it had been “represented to us 
 that this change had been particularly necessary after the terrorist attacks of 
-[^11] September 2001”.
+[^11]: September 2001”.
 
 38.  The Butler Review commented that the effect of creating the post was:
 
@@ -296,16 +296,16 @@ who attends the Cabinet and maintains the machinery to support their decision-
 making is less directly involved personally in advising the Prime Minister on security 
 
 11 Civil Service Order in Council 1995, as amended 1997, section 3 (3).
-[^12] Letter Smethurst to Watt, 19 August 2013, ‘Ref: Freedom of Information Act Request’.
-[^13] Public hearing, 18 January 2010, page 2.
-[^14] Public hearing, 18 January 2010, page 3.
-[^15] Public hearing, 18 January 2010, page 5.
-[^16] Powell J. The New Machiavelli: How to wield power in the modern world. The Bodley Head, 2010.
-[^17] Blair T. A Journey. Hutchinson, 2010.
+[^12]: Letter Smethurst to Watt, 19 August 2013, ‘Ref: Freedom of Information Act Request’.
+[^13]: Public hearing, 18 January 2010, page 2.
+[^14]: Public hearing, 18 January 2010, page 3.
+[^15]: Public hearing, 18 January 2010, page 5.
+[^16]: Powell J. The New Machiavelli: How to wield power in the modern world. The Bodley Head, 2010.
+[^17]: Blair T. A Journey. Hutchinson, 2010.
 
 272
 
-The Report of the Iraq Inquiry2  |  Decision-making within government
+
 
 and intelligence issues … the Security and Intelligence Co-ordinator does not attend 
 Cabinet and is not part of the Cabinet Secretariat supporting Cabinet Ministers in 
@@ -343,13 +343,13 @@ cases, Iraq was one part of their job.
 September 2001. That marked a change from previous arrangements, in which the two 
 roles had been held by two different individuals.
 
-[^18]  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898. 
-[^19] Public hearing, 20 January 2010, pages 3-4.
-[^20] Public hearing, 20 January 2010, page 5.
-[^21] Statement McKane, 8 December 2010, page 1.
-[^22] Later renamed the Foreign and Defence Policy Secretariat (F&DP Sec) and now part of the National 
-[^23] Public hearing Manning, 30 November 2009, pages 44-45.
-[^24] Public hearing McKane, 19 January 2011, pages 2-3.
+[^18]:  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898. 
+[^19]: Public hearing, 20 January 2010, pages 3-4.
+[^20]: Public hearing, 20 January 2010, page 5.
+[^21]: Statement McKane, 8 December 2010, page 1.
+[^22]: Later renamed the Foreign and Defence Policy Secretariat (F&DP Sec) and now part of the National 
+[^23]: Public hearing Manning, 30 November 2009, pages 44-45.
+[^24]: Public hearing McKane, 19 January 2011, pages 2-3.
 
 273
 
@@ -394,14 +394,14 @@ the Cabinet Secretary. It is a very subtle psychodynamic effect… any Prime
 Minister … is going to have a trusted group of inner confidants and advisers and 
 if … the adviser is simultaneously the Deputy to the Cabinet Secretary and Head of 
 
-[^25] Public hearing, 25 January 2011, pages 21-22.
-[^26]  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
-[^27]  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
-[^28] Public hearing, 20 January 2010, pages 52-53.
+[^25]: Public hearing, 25 January 2011, pages 21-22.
+[^26]:  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
+[^27]:  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
+[^28]: Public hearing, 20 January 2010, pages 52-53.
 
 274
 
-The Report of the Iraq Inquiry2  |  Decision-making within government
+
 
 the Secretariat, then over a period of time it is likely that there will be an implicit 
 assumption that the Cabinet Secretary’s interests are being represented… so you 
@@ -446,8 +446,8 @@ conflict and continue with business as usual. There was a certain sense that the
 government was trying to do everything as well as manage this very major military 
 operation – I don’t think that’s possible.
 
-[^29] Public hearing, 20 January 2010, pages 53-54.
-[^30] Public hearing, 20 January 2010, pages 6-7.
+[^29]: Public hearing, 20 January 2010, pages 53-54.
+[^30]: Public hearing, 20 January 2010, pages 6-7.
 
 275
 
@@ -496,12 +496,12 @@ contributor of strategy papers on Iraq in the second half of 2002.
 policy recommendations made by MED and the Iraq Policy Unit, drawing on information 
 gained from contacts with Iraqi politicians and exiles, academics and journalists, those 
 
-[^31] Public hearing, 30 November 2009, pages 48-49.
-[^32] Foreign and Commonwealth Office, UK International Priorities: A Strategy for the FCO, December 2003, 
+[^31]: Public hearing, 30 November 2009, pages 48-49.
+[^32]: Foreign and Commonwealth Office, UK International Priorities: A Strategy for the FCO, December 2003, 
 
 276
 
-The Report of the Iraq Inquiry2  |  Decision-making within government
+
 
 who had visited Iraq and from intelligence.[^33] The Research Analysts also acted as the 
 contact point within government for the US State Department’s Future of Iraq project 
@@ -544,10 +544,10 @@ required to produce this structure, and other essential augmentation (for exampl
 for the Press Office and Consular Division) … But it will be vital that the Board meets 
 early and decides which tasks can fall away …
 
-[^33] Statement FCO Research Analysts, November 2009, pages 1-2.
-[^34] Email FCO to Iraq Inquiry, 3 June 2013, ‘FCO Research Analysts’.
-[^35] Minutes, 29 November 2002, FCO Board meeting.
-[^36] Minute Ricketts to PUS [FCO], 2 December 2002, ‘Iraq: Handling the Crisis’.
+[^33]: Statement FCO Research Analysts, November 2009, pages 1-2.
+[^34]: Email FCO to Iraq Inquiry, 3 June 2013, ‘FCO Research Analysts’.
+[^35]: Minutes, 29 November 2002, FCO Board meeting.
+[^36]: Minute Ricketts to PUS [FCO], 2 December 2002, ‘Iraq: Handling the Crisis’.
 
 277
 
@@ -597,15 +597,15 @@ as necessary –
 
 for that purpose;
 
-[^37] Telegram 130 FCO London to Abidjan, 13 March 2003, ‘Opening of FCO Emergency Unit’.
-[^38] Minutes, 1 May 2003, FCO Emergency Unit Iraq meeting.
-[^39] Intelligence Services Act 1994.
-[^40] Cabinet Office, National Intelligence Machinery, 9 October 2001, page 6.
-[^41] Private hearing, 16 June 2010, page 12.
+[^37]: Telegram 130 FCO London to Abidjan, 13 March 2003, ‘Opening of FCO Emergency Unit’.
+[^38]: Minutes, 1 May 2003, FCO Emergency Unit Iraq meeting.
+[^39]: Intelligence Services Act 1994.
+[^40]: Cabinet Office, National Intelligence Machinery, 9 October 2001, page 6.
+[^41]: Private hearing, 16 June 2010, page 12.
 
 278
 
-The Report of the Iraq Inquiry2  |  Decision-making within government
+
 
 (ii)  in the interests of national security;
 (iii)  for the purposes of the prevention or detection of a serious crime; or
@@ -647,11 +647,11 @@ Agencies had in the system” after 9/11:
 Tenet [Director of the CIA] is an absolutely key figure … and we have to find our 
 counterparts.”[^46]
 
-[^42] Intelligence Services Act 1994.
-[^43] Cabinet Office, National Intelligence Machinery, 19 November 2010, page 36.
-[^44] Public hearing, 25 January 2011, page 28.
-[^45] Private hearing, 16 June 2010, page 64.
-[^46] Private hearing, 24 June 2010, pages 9-10.
+[^42]: Intelligence Services Act 1994.
+[^43]: Cabinet Office, National Intelligence Machinery, 19 November 2010, page 36.
+[^44]: Public hearing, 25 January 2011, page 28.
+[^45]: Private hearing, 16 June 2010, page 64.
+[^46]: Private hearing, 24 June 2010, pages 9-10.
 
 279
 
@@ -697,12 +697,12 @@ are, have more resource, can act more quickly …
 is inevitable that, as a result of that shift, the Heads of the Agencies have greater 
 weight in the system …”[^48]
 
-[^47] Private hearing, 24 June 2010, page 10.
-[^48] Private hearing, 24 June 2010, pages 43-45.
+[^47]: Private hearing, 24 June 2010, page 10.
+[^48]: Private hearing, 24 June 2010, pages 43-45.
 
 280
 
-The Report of the Iraq Inquiry2  |  Decision-making within government
+
 
 79.  Sir David added that when, in crises, time was very short, there was a “tendency”, 
 if a message was being passed through an Agency, for that Agency to deliver it.[^49]
@@ -748,10 +748,10 @@ find … they really were having to bust a gut to generate the intelligence.
 “I think the Butler Committee really uncovered that the tradecraft at that point 
 wasn’t as good as it should have been for validation… that’s one of the background 
 
-[^49] Private hearing, 24 June 2010, page 46.
-[^50] Private hearing, 24 June 2010, pages 46-47.
-[^51] Private hearing, 24 June 2010, pages 120-121.
-[^52] Public hearing, 20 January 2010, pages 61-62.
+[^49]: Private hearing, 24 June 2010, page 46.
+[^50]: Private hearing, 24 June 2010, pages 46-47.
+[^51]: Private hearing, 24 June 2010, pages 120-121.
+[^52]: Public hearing, 20 January 2010, pages 61-62.
 
 281
 
@@ -794,16 +794,16 @@ timely advice reaches Ministers.[^58]
 
 90.  The PUS is the Secretary of the Defence Council.
 
-[^53] Public hearing, 20 January 2010, pages 63-64.
-[^54] Private hearing, 5 May 2010, page 36.
-[^55] Minute Tebbit to Secretary of State [MOD], 17 September 2002, ‘Iraq: Machinery of Government’.
-[^56] Ministry of Defence, The New Defence Operating Model, Version 3.0: December 2012, page 18.
-[^57] Ministry of Defence, Annual Report and Accounts 2002-03, page 145.
-[^58] Ministry of Defence, Defence Framework – How Defence Works, September 2008, pages 11-12.
+[^53]: Public hearing, 20 January 2010, pages 63-64.
+[^54]: Private hearing, 5 May 2010, page 36.
+[^55]: Minute Tebbit to Secretary of State [MOD], 17 September 2002, ‘Iraq: Machinery of Government’.
+[^56]: Ministry of Defence, The New Defence Operating Model, Version 3.0: December 2012, page 18.
+[^57]: Ministry of Defence, Annual Report and Accounts 2002-03, page 145.
+[^58]: Ministry of Defence, Defence Framework – How Defence Works, September 2008, pages 11-12.
 
 282
 
-The Report of the Iraq Inquiry2  |  Decision-making within government
+
 
 91.  The Defence Secretary is responsible for the direction and conduct of all operations 
 by UK Armed Forces.[^59] He provides strategic direction, endorses the allocation of 
@@ -844,14 +844,14 @@ Parliament for the expenditure of all public money voted for Defence purposes.[^
 99.  As professional head of the Armed Forces, the CDS is responsible for the delivery 
 of military capability, including the direction of military operations.[^66]
 
-[^59] Ministry of Defence, The New Operating Model: How Defence Works, April 2013.
-[^60] Ministry of Defence, Defence Framework – How Defence Works, September 2008, page 5.
-[^61] Ministry of Defence, Transforming Defence, Version 3.0: December 2012, page 24.
-[^62] Ministry of Defence, Annual Report and Accounts 2002-03.
-[^63] Ministry of Defence, The New Operating Model: How Defence Works, April 2013.
-[^64] Ministry of Defence intranet, ‘Responsibilities of PUS’.
-[^65] Ministry of Defence, Annual Report and Accounts 2002-03.
-[^66] Ministry of Defence, How Defence Works – Defence Framework, September 2008, page 3.
+[^59]: Ministry of Defence, The New Operating Model: How Defence Works, April 2013.
+[^60]: Ministry of Defence, Defence Framework – How Defence Works, September 2008, page 5.
+[^61]: Ministry of Defence, Transforming Defence, Version 3.0: December 2012, page 24.
+[^62]: Ministry of Defence, Annual Report and Accounts 2002-03.
+[^63]: Ministry of Defence, The New Operating Model: How Defence Works, April 2013.
+[^64]: Ministry of Defence intranet, ‘Responsibilities of PUS’.
+[^65]: Ministry of Defence, Annual Report and Accounts 2002-03.
+[^66]: Ministry of Defence, How Defence Works – Defence Framework, September 2008, page 3.
 
 283
 
@@ -897,15 +897,15 @@ were comfortable with where we were going.”[^71]
 107.  Mr Hoon added that “one of the great successes” of the MOD was the extent to 
 which it was “genuinely joined up” and the “real integration between the civil servants 
 
-[^67] Public hearing, 3 December 2009, page 76.
-[^68] Ministry of Defence, How Defence Works – Defence Framework, December 2010, page 14.
-[^69] Ministry of Defence, The New Operating Model: How Defence Works, April 2013, page 24.
-[^70] Ministry of Defence, How Defence Works – Defence Framework, December 2010, page 29.
-[^71] Public hearing, 19 January 2010, page 2.
+[^67]: Public hearing, 3 December 2009, page 76.
+[^68]: Ministry of Defence, How Defence Works – Defence Framework, December 2010, page 14.
+[^69]: Ministry of Defence, The New Operating Model: How Defence Works, April 2013, page 24.
+[^70]: Ministry of Defence, How Defence Works – Defence Framework, December 2010, page 29.
+[^71]: Public hearing, 19 January 2010, page 2.
 
 284
 
-The Report of the Iraq Inquiry2  |  Decision-making within government
+
 
 and the military”. He had “excellent relationship[s]” with each of the Chiefs of Defence 
 Staff with whom he worked, and “very regular … informal and formal meetings”. In 
@@ -944,14 +944,14 @@ is responsible.
 was led jointly by the VCDS and the Second Permanent Secretary (2nd PUS), supported 
 by a joint staff.
 
-[^72] Public hearing, 19 January 2010, page 3.
-[^73] Now known as Defence Intelligence (DI).
-[^74] Letter MOD to Iraq Inquiry, 29 April 2010, ‘MOD Evidence – Submission on Defence Intelligence 
-[^75] www.gov.uk, ‘Defence Intelligence’.
-[^76] Ministry of Defence, How Defence Works – Defence Framework, December 2010, page 14.
-[^77] House of Commons, Official Report, 16 November 2004, column 1290W.
-[^78] Ministry of Defence, Annual Report and Accounts 2002-03.
-[^79] Ministry of Defence, The New Operating Model: How Defence Works, April 2013.
+[^72]: Public hearing, 19 January 2010, page 3.
+[^73]: Now known as Defence Intelligence (DI).
+[^74]: Letter MOD to Iraq Inquiry, 29 April 2010, ‘MOD Evidence – Submission on Defence Intelligence 
+[^75]: www.gov.uk, ‘Defence Intelligence’.
+[^76]: Ministry of Defence, How Defence Works – Defence Framework, December 2010, page 14.
+[^77]: House of Commons, Official Report, 16 November 2004, column 1290W.
+[^78]: Ministry of Defence, Annual Report and Accounts 2002-03.
+[^79]: Ministry of Defence, The New Operating Model: How Defence Works, April 2013.
 
 285
 
@@ -995,17 +995,17 @@ a paper addressing potential UK support to US operations against Iraq.[^83]
 125.  From 19 September, the COS Committee met weekly, usually on a 
 Wednesday morning, to discuss Iraq, and other operational issues.
 
-[^80] The MOD confers the title Director General on personnel at two-star, or civilian Director level; 
-[^81] Public hearing, 16 December 2009, page 72.
-[^82] Public hearing, 3 December 2009, page 10.
-[^83] Minutes, 19 September 2002, Chiefs of Staff meeting.
+[^80]: The MOD confers the title Director General on personnel at two-star, or civilian Director level; 
+[^81]: Public hearing, 16 December 2009, page 72.
+[^82]: Public hearing, 3 December 2009, page 10.
+[^83]: Minutes, 19 September 2002, Chiefs of Staff meeting.
 
 286
 
-The Report of the Iraq Inquiry126.  The agenda for the weekly COS (Operations) meetings usually comprised a 
+126.  The agenda for the weekly COS (Operations) meetings usually comprised a 
 briefing from the Chief of Defence Intelligence, followed by:
 
-2  |  Decision-making within government
+
 
 *  “political/military overview”;
 *  operational planning;
@@ -1046,8 +1046,8 @@ before it went under my signature into the Chiefs of Staff Committee, and we had
 VTC [video conference] every morning … I was on regular VTCs for the op[erations] 
 Chiefs of Staff meetings and for the Ministerials.”[^85]
 
-[^84] Public hearing, 3 December 2009, page 80.
-[^85] Private hearing, 15 January 2010, pages 3-4.
+[^84]: Public hearing, 3 December 2009, page 80.
+[^85]: Private hearing, 15 January 2010, pages 3-4.
 
 287
 
@@ -1091,14 +1091,14 @@ of those had taken place “round the Cabinet table”.
 142.  DOP, formally a Sub Committee of the Cabinet, was created in 1963, with Terms of 
 Reference: “To keep under review the Government’s defence and overseas policy.”
 
-[^86] Email DFID to Iraq Inquiry [junior official], 19 June 2013, ‘Iraq Inquiry new queries’.
-[^87] Public hearing, 25 January 2011, page 11.
-[^88] Email Cabinet Office to Aldred, 5 July 2011, ‘FOI request for joint MOD/FCO memo on Iraq Policy 1999’.
-[^89] Public hearing, 25 January 2011, page 11.
+[^86]: Email DFID to Iraq Inquiry [junior official], 19 June 2013, ‘Iraq Inquiry new queries’.
+[^87]: Public hearing, 25 January 2011, page 11.
+[^88]: Email Cabinet Office to Aldred, 5 July 2011, ‘FOI request for joint MOD/FCO memo on Iraq Policy 1999’.
+[^89]: Public hearing, 25 January 2011, page 11.
 
 288
 
-The Report of the Iraq Inquiry2  |  Decision-making within government
+
 
 143.  DOP was chaired by the Prime Minister, and its membership included the 
 Chancellor of the Exchequer, the Foreign Secretary, the Defence Secretary and the 
@@ -1154,7 +1154,7 @@ Instructed the Secretaries …
 Invited the Chancellor of the Exchequer [or the Treasury in the case of an 
 Official Committee] to … (do not say ‘authorised’).
 
-[^90] Cabinet Office, Guide to Minute Taking, June 2001.
+[^90]: Cabinet Office, Guide to Minute Taking, June 2001.
 
 289
 
@@ -1201,12 +1201,12 @@ Sir David recommended that he or Mr Bowen should chair an inner group, to includ
 the JIC, the FCO, the MOD, SIS, the Security Service, GCHQ, the Home Office and 
 Sir David Omand, the Cabinet Office Permanent Secretary.
 
-[^91] Minute McKane to Manning, 2 September 2002, ‘Iraq’.
-[^92] Minute Manning to Prime Minister, 12 September 2002, ‘Iraq’.
+[^91]: Minute McKane to Manning, 2 September 2002, ‘Iraq’.
+[^92]: Minute Manning to Prime Minister, 12 September 2002, ‘Iraq’.
 
 290
 
-The Report of the Iraq Inquiry2  |  Decision-making within government
+
 
 150.  A wider group, chaired by OD Sec, would be “tasked as necessary by the inner 
 group”. The additional members would include DFID, the Metropolitan Police Service, 
@@ -1250,9 +1250,9 @@ had I would have listened to it, but I have to say to you in addition when I loo
 for example, at Mrs Thatcher’s War Cabinet, it didn’t have the Chancellor of the 
 Exchequer on it… you have there the people that you need there.”[^95]
 
-[^93] Manuscript note Blair on Minute Manning to Prime Minister, 12 September 2002, ‘Iraq’.
-[^94] Manuscript note Powell on Minute Manning to Prime Minister, 12 September 2002, ‘Iraq’.
-[^95] Public hearing, 21 January 2011, pages 26-27.
+[^93]: Manuscript note Blair on Minute Manning to Prime Minister, 12 September 2002, ‘Iraq’.
+[^94]: Manuscript note Powell on Minute Manning to Prime Minister, 12 September 2002, ‘Iraq’.
+[^95]: Public hearing, 21 January 2011, pages 26-27.
 
 291
 
@@ -1297,11 +1297,11 @@ an ‘Overnight Sitrep’ prepared early each morning “covering the main inter
 military developments”, and “a more detailed thematic ‘Evening Round-Up’ following the 
 Afghanistan model” were also proposed.
 
-[^96] Minute Gibbons to Manning, 30 January 2003, ‘Iraq: Crisis Management’.
+[^96]: Minute Gibbons to Manning, 30 January 2003, ‘Iraq: Crisis Management’.
 
 292
 
-The Report of the Iraq Inquiry2  |  Decision-making within government
+
 
 161.  The official also informed Sir David that the MOD was planning on the basis of 
 a daily press briefing at 1000, and the importance of striking a balance between the 
@@ -1347,9 +1347,9 @@ the weekend of 15/16 March, and therefore for a meeting after that.”[^99]
 165.  In a minute of 14 March, Mr Powell recorded that “we have agreed” that Mr Blair 
 would start to hold daily meetings of a ‘War Cabinet” from 0830 on 19 March. Mr Powell 
 
-[^97] Minute Gibbons to Manning, 30 January 2003, ‘Iraq: Crisis Management’.
-[^98] Manuscript note Manning to Powell, 2 February 2003, on Minute Gibbons to Manning, 30 January 2003, 
-[^99] Letter Tebbit to Turnbull, 5 March 2003, [untitled].
+[^97]: Minute Gibbons to Manning, 30 January 2003, ‘Iraq: Crisis Management’.
+[^98]: Manuscript note Manning to Powell, 2 February 2003, on Minute Gibbons to Manning, 30 January 2003, 
+[^99]: Letter Tebbit to Turnbull, 5 March 2003, [untitled].
 
 293
 
@@ -1400,13 +1400,13 @@ be limited and would need to be “rationed carefully”.[^102]
 Minister), Mr Gordon Brown (the Chancellor of the Exchequer), Mr Jack Straw (the  
 Foreign Secretary), Mr David Blunkett (the Home Secretary), Ms Clare Short (the 
 
-[^100] Minute Powell to Prime Minister, 14 March 2003, ‘War Cabinet’.
-[^101] Minute Turnbull to Heywood, 18 March 2003, ‘Iraq’.
-[^102] Minute Drummond to Rycroft, 19 March 2003, ‘Iraq Ministerial Meeting’.
+[^100]: Minute Powell to Prime Minister, 14 March 2003, ‘War Cabinet’.
+[^101]: Minute Turnbull to Heywood, 18 March 2003, ‘Iraq’.
+[^102]: Minute Drummond to Rycroft, 19 March 2003, ‘Iraq Ministerial Meeting’.
 
 294
 
-The Report of the Iraq Inquiry2  |  Decision-making within government
+
 
 International Development Secretary), Dr John Reid (Minister without Portfolio),[^103] and 
 Mr Geoff Hoon (the Defence Secretary).
@@ -1450,10 +1450,10 @@ in 1936, which has been part of the Cabinet Office since 1957.
 assessments on a range of issues of immediate and long-range importance to 
 national interests, primarily in the fields of security, defence and foreign affairs.”[^106]
 
-[^103] From 5 April 2003, Dr Reid’s role changed to President of the Council and Leader of the House 
-[^104] Minute Rycroft to Prime Minister, 19 March 2003, ‘Iraq: 0830 Ministerial Meeting”.
-[^105] Minute Blair to Powell, 30 March 2003, ‘Note’.
-[^106] Cabinet Office, National Intelligence Machinery, November 2010, pages 23-24.
+[^103]: From 5 April 2003, Dr Reid’s role changed to President of the Council and Leader of the House 
+[^104]: Minute Rycroft to Prime Minister, 19 March 2003, ‘Iraq: 0830 Ministerial Meeting”.
+[^105]: Minute Blair to Powell, 30 March 2003, ‘Note’.
+[^106]: Cabinet Office, National Intelligence Machinery, November 2010, pages 23-24.
 
 295
 
@@ -1504,12 +1504,12 @@ such security problems as may be referred to it”;
 
 assessments that appear to require operational, planning or policy action”: 
 
-[^107] Public hearing, 8 December 2009, page 12.
-[^108] Public hearing, 8 December 2009, page 4.
+[^107]: Public hearing, 8 December 2009, page 12.
+[^108]: Public hearing, 8 December 2009, page 4.
 
 296
 
-The Report of the Iraq Inquiry2  |  Decision-making within government
+
 
 the Chairman was “specifically charged with ensuring that the Committee’s 
 monitoring and warning role is discharged effectively”; and
@@ -1555,11 +1555,11 @@ produced by the Assessments Staff. Until the end of January 2003, the Updates we
 produced weekly. In February the frequency increased, rising to three a week by the end 
 of the month.
 
-[^109] Cabinet Office, National Intelligence Machinery, November 2010, page 26.
-[^110] Public hearing Webb, Ricketts and Patey, 24 November 2009, pages 51-54.
-[^111] Public hearing, 8 December 2009, page 10.
-[^112] Letter Rycroft to McDonald, 23 July 2002, ‘Iraq Prime Minister’s Meeting, 23 July: Follow Up’.
-[^113] Minute Scarlett to Manning, 26 July 2002, ‘Iraq: Weekly Intelligence Summary’
+[^109]: Cabinet Office, National Intelligence Machinery, November 2010, page 26.
+[^110]: Public hearing Webb, Ricketts and Patey, 24 November 2009, pages 51-54.
+[^111]: Public hearing, 8 December 2009, page 10.
+[^112]: Letter Rycroft to McDonald, 23 July 2002, ‘Iraq Prime Minister’s Meeting, 23 July: Follow Up’.
+[^113]: Minute Scarlett to Manning, 26 July 2002, ‘Iraq: Weekly Intelligence Summary’
 
 297
 
@@ -1600,15 +1600,15 @@ post-conflict Iraq.
 201.  The FCO produced a more substantial paper on the unintended consequences of 
 conflict for the region and beyond on 20 September (see Section 6.4).
 
-[^114] Public hearing, 8 December 2009, page 7.
-[^115] Minute Miller to Manning, 21 February 2003, ‘Iraq: Intelligence Updates’.
-[^116] Minute Webb to PS/Secretary of State [MOD], 26 June 2002, ‘Iraq’.
-[^117] Minute Drummond to McKane, 8 August 2002, ‘Iraq’.
-[^118] Minute Drummond to Manning, 30 August 2002, ‘Iraq: Unintended Consequences’ attaching Note 
+[^114]: Public hearing, 8 December 2009, page 7.
+[^115]: Minute Miller to Manning, 21 February 2003, ‘Iraq: Intelligence Updates’.
+[^116]: Minute Webb to PS/Secretary of State [MOD], 26 June 2002, ‘Iraq’.
+[^117]: Minute Drummond to McKane, 8 August 2002, ‘Iraq’.
+[^118]: Minute Drummond to Manning, 30 August 2002, ‘Iraq: Unintended Consequences’ attaching Note 
 
 298
 
-The Report of the Iraq Inquiry2  |  Decision-making within government
+
 
 202.  Also attached to Mr Drummond’s minute was a “list of headings for future work” 
 on unintended consequences, which included: “avoiding fragmentation of a failed state 
@@ -1657,10 +1657,10 @@ for a wider DOP Committee of officials to begin work, under Bowen’s
 chairmanship, which would be the vehicle for bringing in OGDs – DFID, 
 Customs etc.”[^122]
 
-[^119] Manuscript comment Sir David Manning on Minute Drummond to Manning, 30 August 2002, ‘Iraq: 
-[^120] Minute McKane to Manning, 2 September 2002, ‘Iraq’.
-[^121] Manuscript note Powell on Minute Manning to Prime Minister, 12 September 2002, ‘Iraq’.
-[^122] Minute Tebbit to Secretary of State [MOD], 17 September 2002, ‘Iraq: Machinery of Government’.
+[^119]: Manuscript comment Sir David Manning on Minute Drummond to Manning, 30 August 2002, ‘Iraq: 
+[^120]: Minute McKane to Manning, 2 September 2002, ‘Iraq’.
+[^121]: Manuscript note Powell on Minute Manning to Prime Minister, 12 September 2002, ‘Iraq’.
+[^122]: Minute Tebbit to Secretary of State [MOD], 17 September 2002, ‘Iraq: Machinery of Government’.
 
 299
 
@@ -1707,13 +1707,13 @@ Ministerial meetings at this stage, but that twice weekly Restricted COBR meetin
 chaired by Sir David Manning and a wider officials’ group under Mr Desmond Bowen 
 (Mr McKane’s successor), should begin their work.[^125] Sir Kevin commented:
 
-[^123] Public hearing, 7 December 2009, page 10.
-[^124] Minute Manning to Prime Minister, 12 September 2002, ‘Iraq’.
-[^125] Minute Tebbit to Secretary of State, 17 September 2002, ‘Iraq: Machinery of Government’.
+[^123]: Public hearing, 7 December 2009, page 10.
+[^124]: Minute Manning to Prime Minister, 12 September 2002, ‘Iraq’.
+[^125]: Minute Tebbit to Secretary of State, 17 September 2002, ‘Iraq: Machinery of Government’.
 
 300
 
-The Report of the Iraq Inquiry2  |  Decision-making within government
+
 
 “… we shall need to watch to ensure … that (c) [Restricted COBR] provides the 
 framework we need to link effectively with the contingency planning in the MOD … 
@@ -1753,16 +1753,16 @@ are fed to COBR(R) via the Ad Hoc Group (Action: FCO/OD Sec).”[^129]
 
 221.  There is no evidence of issues being formally escalated by the AHGI to COBR(R).
 
-[^126] Public hearing, 30 November 2009, pages 44-45.
-[^127] Agenda or Notes of Actions Cabinet Office, for COBR(R) meetings dated 20, 25, 27 September 2002; 
+[^126]: Public hearing, 30 November 2009, pages 44-45.
+[^127]: Agenda or Notes of Actions Cabinet Office, for COBR(R) meetings dated 20, 25, 27 September 2002; 
 2, 7, 9, 14, 16, 21, 25, 28 October; 1, 4, 6, 8, 13, 18, 27, 29 November 2002; 4, 6, 9, 11, 13, 16, 18, 
 20 December 2002; 3, 6, 8, 10, 13, 15, 17, 20 22, 24, 29, 31 January 2003; 3, 5, 7,10, 11, 12, 13, 14, 
 17, 19, 21, 24, 26, 28 February 2003; 3, 5, 7, 10, 13, 17, 29 March 2003; 7 April 2003; 4, 25 June 2003; 
 30 July 2003; 6, 13, 27 August 2003.
-[^128] Notes of Actions Cabinet Office, for COBR(R) meetings dated 20, 27 September 2002; 2, 9, 14, 
+[^128]: Notes of Actions Cabinet Office, for COBR(R) meetings dated 20, 27 September 2002; 2, 9, 14, 
 16 October 2002; 9, 11, 13, 20 December 2002; 3, 10 January 2003; 5, 7, 24, 26 February 2003; 
 29 March 2003; 4, 25 June 2003; 30 July 2003; 6, 27 August 2003.
-[^129] Note of Actions Cabinet Office, 5 February 2003, ‘COBR(R)’.
+[^129]: Note of Actions Cabinet Office, 5 February 2003, ‘COBR(R)’.
 
 301
 
@@ -1809,12 +1809,12 @@ sub-groups on WMD, OFF [the Oil-for-Food programme], SSR [Security Sector Reform
 humanitarian, reconstruction, judicial, possibly terrorism. All this to feed into and 
 influence the various aftermath groups in Washington.”
 
-[^130] Public hearing, 13 January 2010, pages 43-44.
-[^131] Minute Ehrman to Ricketts, 3 February 2003, ‘Pigott Group, 3 February’.
+[^130]: Public hearing, 13 January 2010, pages 43-44.
+[^131]: Minute Ehrman to Ricketts, 3 February 2003, ‘Pigott Group, 3 February’.
 
 302
 
-The Report of the Iraq Inquiry2  |  Decision-making within government
+
 
 230.  Mr Ricketts informed Mr Chaplin on 4 February that he had agreed with 
 Sir Michael Jay and Mr Ehrman that:
@@ -1859,8 +1859,8 @@ running from Monday 10 February … It will need staff who think strategically a
 operationally and have some background in state reconstruction from other cases 
 (in order to feed in the lessons of eg Kosovo and Afghanistan).”
 
-[^132] Minute Ricketts to Chaplin, 4 February 2003, ‘Iraq: Day After Planning’.
-[^133] Letter Bowen to Ehrman, 5 February 2003, ‘Iraq: Operational Policy Unit’.
+[^132]: Minute Ricketts to Chaplin, 4 February 2003, ‘Iraq: Day After Planning’.
+[^133]: Letter Bowen to Ehrman, 5 February 2003, ‘Iraq: Operational Policy Unit’.
 
 303
 
@@ -1907,13 +1907,13 @@ formed initially “to meet a UK military planning need for detailed policy guid
 occupation issues”.[^136] In the event of UK participation in the occupation of Iraq it was 
 likely to expand considerably.
 
-[^134] Minute Chilcott to Private Secretary [FCO], 20 February 2003, ‘Iraq: Day-After (Phase IV)’.
-[^135] Letter Jay to Turnbull, 17 February 2003, ‘Iraq Planning’ attaching ‘Proposed Terms of reference for the 
-[^136] Minute Dodd to Manning, 17 February 2003, ‘Ad Hoc Group on Iraq’.
+[^134]: Minute Chilcott to Private Secretary [FCO], 20 February 2003, ‘Iraq: Day-After (Phase IV)’.
+[^135]: Letter Jay to Turnbull, 17 February 2003, ‘Iraq Planning’ attaching ‘Proposed Terms of reference for the 
+[^136]: Minute Dodd to Manning, 17 February 2003, ‘Ad Hoc Group on Iraq’.
 
 304
 
-The Report of the Iraq Inquiry2  |  Decision-making within government
+
 
 238.  The record of the next meeting, on 21 February, described the co-ordinating role 
 of the AHGI:
@@ -1958,10 +1958,10 @@ officials would have had with their American counterparts.”[^140]
 242.  Mr Chilcott warned against being “dazzled” by the IPU’s late creation: “a lot of 
 the work that the IPU was able to bring together in a more intense atmosphere had 
 
-[^137] Minute Dodd to Manning, 25 February 2003, ‘Ad Hoc Group on Iraq’.
-[^138] Minute Dodd to Manning, 13 January 2003, ‘Ad Hoc Group on Iraq’.
-[^139] Public hearing, 8 December 2009, pages 7-8.
-[^140] Public hearing, 8 December 2009, pages 8-9.
+[^137]: Minute Dodd to Manning, 25 February 2003, ‘Ad Hoc Group on Iraq’.
+[^138]: Minute Dodd to Manning, 13 January 2003, ‘Ad Hoc Group on Iraq’.
+[^139]: Public hearing, 8 December 2009, pages 7-8.
+[^140]: Public hearing, 8 December 2009, pages 8-9.
 
 305
 
@@ -2001,15 +2001,15 @@ others, Sir David Manning’s agreement to a slightly revised version of the dra
 produced by Mr Bowen on 27 March.[^145] Sir Andrew advised that the revised draft had 
 already been agreed with Sir Michael Jay and Mr Chakrabarti.
 
-[^141] Public hearing, 8 December 2009, pages 17-18.
-[^142] Public hearing, 8 December 2009, pages 47-48.
-[^143] Public hearing, 8 December 2009, page 20.
-[^144] Minute Bowen to Turnbull, 27 March 2003, ‘Iraq: Reconstruction’ attaching draft minute Turnbull 
-[^145] Letter Turnbull to Tebbit, 31 March 2003, ‘Iraq: Rehabilitation’ attaching draft minute Turnbull 
+[^141]: Public hearing, 8 December 2009, pages 17-18.
+[^142]: Public hearing, 8 December 2009, pages 47-48.
+[^143]: Public hearing, 8 December 2009, page 20.
+[^144]: Minute Bowen to Turnbull, 27 March 2003, ‘Iraq: Reconstruction’ attaching draft minute Turnbull 
+[^145]: Letter Turnbull to Tebbit, 31 March 2003, ‘Iraq: Rehabilitation’ attaching draft minute Turnbull 
 
 306
 
-The Report of the Iraq Inquiry2  |  Decision-making within government
+
 
 247.  The draft minute proposed:
 
@@ -2053,9 +2053,9 @@ risks reducing the scope for informed collective political judgement.”[^148]
 254.  The Government accepted the Committee’s conclusions, and said: “where a small 
 group is brought together to work on operational military planning and developing the 
 
-[^146] Letter Turnbull to Straw, 7 April 2003, ‘Iraq: Rehabilitation’.
-[^147] Minutes, 10 April 2003, Ad Hoc Group on Iraq Rehabilitation meeting.
-[^148]  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
+[^146]: Letter Turnbull to Straw, 7 April 2003, ‘Iraq: Rehabilitation’.
+[^147]: Minutes, 10 April 2003, Ad Hoc Group on Iraq Rehabilitation meeting.
+[^148]:  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
 
 307
 
@@ -2093,19 +2093,19 @@ to meet until Mr Blair stood down as Prime Minister in June 2007.
 
 262.  DOP(I) replaced the AHGI, which ceased to meet.
 
-[^149] Cabinet Office, Review on Intelligence on Weapons of Mass Destruction: Implementation of its 
-[^150] Minutes, 16 September 2004, Ad Hoc Ministerial Group on Iraq meeting.
-[^151] Manuscript comment Blair on Minute Quarrey to Prime Minister, 25 February 2005, ‘Iraq Update’.
-[^152] Minutes, 10 March 2005, Ad Hoc Ministerial Group on Iraq meeting.
-[^153] Manuscript comment Blair on minute Quarrey to Prime Minister, 18 March 2005, ‘Iraq Update’.
-[^154] Held on 10 March 2005; 17 March 2005; 24 March 2005.
-[^155] Minute Straw to Prime Minister, 24 March 2005, ‘Iraq: Ad Hoc Ministerial Meetings’.
-[^156] Public hearing, 16 December 2009, page 12.
-[^157] Minutes, 26 May 2005, DOP(I) meeting.
+[^149]: Cabinet Office, Review on Intelligence on Weapons of Mass Destruction: Implementation of its 
+[^150]: Minutes, 16 September 2004, Ad Hoc Ministerial Group on Iraq meeting.
+[^151]: Manuscript comment Blair on Minute Quarrey to Prime Minister, 25 February 2005, ‘Iraq Update’.
+[^152]: Minutes, 10 March 2005, Ad Hoc Ministerial Group on Iraq meeting.
+[^153]: Manuscript comment Blair on minute Quarrey to Prime Minister, 18 March 2005, ‘Iraq Update’.
+[^154]: Held on 10 March 2005; 17 March 2005; 24 March 2005.
+[^155]: Minute Straw to Prime Minister, 24 March 2005, ‘Iraq: Ad Hoc Ministerial Meetings’.
+[^156]: Public hearing, 16 December 2009, page 12.
+[^157]: Minutes, 26 May 2005, DOP(I) meeting.
 
 308
 
-The Report of the Iraq Inquiry2  |  Decision-making within government
+
 
 ## NSID(OD)
 263.  After taking office as Prime Minister in June 2007, Mr Gordon Brown reorganised 
@@ -2134,8 +2134,8 @@ operational issues”.[^160]
 268.  Sir Nigel described both the ISG and the ISOG as “trying to feed into the Ministerial 
 discussions which were taking place”.
 
-[^158] Minute Cabinet Office [junior official] to Prime Minister, 5 October 2007, ‘NSID(OD) Iraq Meeting – 
-[^159] Public hearing, 16 December 2009, page 56.
-[^160] Public hearing, 16 December 2009, page 56.
+[^158]: Minute Cabinet Office [junior official] to Prime Minister, 5 October 2007, ‘NSID(OD) Iraq Meeting – 
+[^159]: Public hearing, 16 December 2009, page 56.
+[^160]: Public hearing, 16 December 2009, page 56.
 
 309

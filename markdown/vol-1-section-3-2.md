@@ -103,12 +103,12 @@ point. The axis … was the link between Governments that pursued WMD and the
 terrorists who could use those weapons. There was a larger point in the speech that 
 no one could miss. I was serious about dealing with Iraq.”[^2]
 
-[^1] The White House, 29 January 2002, The President’s State of the Union Address. 
-[^2] Bush GW. Decision Points. Virgin Books, 2010.
+[^1]: The White House, 29 January 2002, The President’s State of the Union Address. 
+[^2]: Bush GW. Decision Points. Virgin Books, 2010.
 
 388
 
-The Report of the Iraq Inquiry9.  Dr. Condoleezza Rice, President Bush’s National Security Advisor, wrote in 2011 that 
+9.  Dr. Condoleezza Rice, President Bush’s National Security Advisor, wrote in 2011 that 
 President Bush’s phrase, an “axis of evil”, was “overdramatized”. She and the President 
 were “stunned” when the media focused almost exclusively on it: 
 
@@ -151,12 +151,12 @@ counter-terrorism problem. UK officials thought that the interagency process wou
 probably result in a balanced approach. Military action was seen as a last resort. Action 
 against Iraq was not seen as imminent.
 
-[^3] Rice C. No Higher Honour. Simon & Schuster, 2011.
-[^4] Minutes, 1 February 2002, Overseas Sub-Committee of the Official Committee on Domestic and 
+[^3]: Rice C. No Higher Honour. Simon & Schuster, 2011.
+[^4]: Minutes, 1 February 2002, Overseas Sub-Committee of the Official Committee on Domestic and 
 
 389
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawford16.  Sir David Manning, Mr Blair’s Foreign Policy Adviser and the Head of the Overseas 
+16.  Sir David Manning, Mr Blair’s Foreign Policy Adviser and the Head of the Overseas 
 and Defence Secretariat (OD Sec), advised Mr Blair that a number of senior Americans, 
 both Republican and Democrat, were convinced that President Bush was determined on 
 war with Iraq; the doves in the US system were totally marginalised; it was impossible 
@@ -197,13 +197,13 @@ inevitable.”[^7]
 20.  During a telephone call with President Bush on a range of issues on 6 February 
 2002, Mr Blair said that “whatever President Bush may have read in the media, he 
 
-[^5] Minute Manning to Prime Minister, 5 February 2002, ‘US Policy Towards Iraq’.
-[^6] Manuscript comment Blair on Minute Manning to Prime Minister, 5 February 2002, ‘US Policy Towards 
-[^7] Statement, 9 January 2011, page 4. 
+[^5]: Minute Manning to Prime Minister, 5 February 2002, ‘US Policy Towards Iraq’.
+[^6]: Manuscript comment Blair on Minute Manning to Prime Minister, 5 February 2002, ‘US Policy Towards 
+[^7]: Statement, 9 January 2011, page 4. 
 
 390
 
-The Report of the Iraq Inquiryagreed on the importance of sending a strong signal” to the countries identified as part 
+agreed on the importance of sending a strong signal” to the countries identified as part 
 of an “axis of evil” that their behaviour needed to change.[^8]
 
 21.  FCO officials advised Mr Straw that, while the immediate US focus was on 
@@ -247,12 +247,12 @@ inspectors in then renege, the justification for any military action would be mu
 stronger. If, against all expectations, UNMOVIC were allowed to do their job this 
 would offer the best prospect of dealing with Saddam’s WMD.”
 
-[^8] Letter [Private Secretary No.10] to McDonald, 6 February 2002, ‘Telephone conversation with 
-[^9] Minute Patey to Goulty and PS [FCS], 12 February 2002, ‘Iraq: Next Steps’.
+[^8]: Letter [Private Secretary No.10] to McDonald, 6 February 2002, ‘Telephone conversation with 
+[^9]: Minute Patey to Goulty and PS [FCS], 12 February 2002, ‘Iraq: Next Steps’.
 
 391
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawford26.  Mr Alan Goulty, FCO Director Middle East and North Africa, commented to 
+26.  Mr Alan Goulty, FCO Director Middle East and North Africa, commented to 
 Mr Straw’s Private Secretary:
 
 “So far so good. But much will depend on how the US decide to pursue the regime 
@@ -296,13 +296,13 @@ would never comply.
 before the planned meeting between Mr Blair and President Bush at Crawford in 
 early April.
 
-[^10] Manuscript comment Goulty to PS [FCS], 12 February 2002, on Minute Patey to Goulty and PS [FCS], 
+[^10]: Manuscript comment Goulty to PS [FCS], 12 February 2002, on Minute Patey to Goulty and PS [FCS], 
 12 February 2002, ‘Iraq: Next Steps’.
-[^11] Letter Goulty to Westmacott, 15 February 2002, ‘Iraq’.
+[^11]: Letter Goulty to Westmacott, 15 February 2002, ‘Iraq’.
 
 392
 
-The Report of the Iraq Inquiry32.  On 11 February, Sir Christopher Meyer advised that President Bush’s reference to 
+32.  On 11 February, Sir Christopher Meyer advised that President Bush’s reference to 
 an “axis of evil” was:
 
 “… a warning to regimes which Bush sees as especially dangerous. It is not 
@@ -349,11 +349,11 @@ President Bush was “looking for a way to get rid of Saddam”.
 “It has been tough sometimes working with the Americans since 11 September. It will 
 be tougher still in 2002 …
 
-[^12] Telegram 196 Washington to FCO London, 11 February 2002, ‘US Foreign Policy: The Axis of Evil’.
+[^12]: Telegram 196 Washington to FCO London, 11 February 2002, ‘US Foreign Policy: The Axis of Evil’.
 
 393
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawford“The backdrop is growing US/European mutual disenchantment. This puts the UK 
+“The backdrop is growing US/European mutual disenchantment. This puts the UK 
 in an awkward spot … The Europeans are seen as burying their heads in the sand, 
 refusing to face up to an international threat which only the US, and maybe the UK, 
 have the guts and capability to tackle …
@@ -398,11 +398,11 @@ hawks, above all the perception that this would be easy to do quickly …
 appears to have spread across the Administration … officials and pundits alike 
 speculate that Cheney’s visit will be aimed at nailing the necessary support. 
 
-[^13] Telegram 197 Washington to FCO London, 13 February 2002, ‘US/IRAQ: The Momentum Builds’.
+[^13]: Telegram 197 Washington to FCO London, 13 February 2002, ‘US/IRAQ: The Momentum Builds’.
 
 394
 
-The Report of the Iraq Inquiry“What remains unclear is how the US will handle the UN track, above all the 
+“What remains unclear is how the US will handle the UN track, above all the 
 inspection regime. The Administration’s repeated high-profile demands for 
 inspections suggest that the US will want to issue some sort of ultimatum, but set 
 the bar so high that Iraq will never comply in practice (Armitage [Richard Armitage, 
@@ -447,11 +447,11 @@ would be required to authorise military action”; and that: “It seemed highly
 that the US would be willing to seek such a resolution or, even if they did, that they 
 would get it.”
 
-[^14] Minute Ehrman to Goulty, 13 February 2002, ‘US/Iraq’. 
+[^14]: Minute Ehrman to Goulty, 13 February 2002, ‘US/Iraq’. 
 
 395
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawford44.  Sir David Manning had asked Mr John Scarlett, Chairman of the Joint Intelligence 
+44.  Sir David Manning had asked Mr John Scarlett, Chairman of the Joint Intelligence 
 Committee (JIC), for “an analysis of the state of opinion in Iraq” and whether there were 
 “really segments of the population who might be willing to rise against Saddam … David 
 was sceptical. He also mentioned work … on the … INC [Iraqi National Congress].”[^15]
@@ -495,15 +495,15 @@ President at Crawford and received an assurance that they wouldn’t.”
 51.  The record of the discussion confirms that Sir David Manning told Dr Rice that US 
 policy on Iraq “continued to be a source of intense speculation in the British media, as 
 
-[^15] Minute Ehrman to Goulty, 13 February 2002, ‘US/Iraq’.
-[^16] Minutes, 13 February 2002, JIC meeting.
-[^17] Telegram 197 Washington to FCO London, 13 February 2002, ‘US/IRAQ: The Momentum Builds’.
-[^18] Public hearing, 30 November 2009, pages 10-11.
-[^19] Public hearing, 18 January 2010, pages 17-18.
+[^15]: Minute Ehrman to Goulty, 13 February 2002, ‘US/Iraq’.
+[^16]: Minutes, 13 February 2002, JIC meeting.
+[^17]: Telegram 197 Washington to FCO London, 13 February 2002, ‘US/IRAQ: The Momentum Builds’.
+[^18]: Public hearing, 30 November 2009, pages 10-11.
+[^19]: Public hearing, 18 January 2010, pages 17-18.
 
 396
 
-The Report of the Iraq Inquiryit had been since the President’s State of the Union Address”.[^20] Iraq was something that 
+it had been since the President’s State of the Union Address”.[^20] Iraq was something that 
 the US and UK “needed to think through very carefully together”. 
 
 52.  Sir David reported that there was no expectation that anything would be decided 
@@ -547,14 +547,14 @@ informed of SIS discussions with the US.
 from Sir Richard Wilson to Mr Andrew Smith, the Chief Secretary to the Treasury, 
 on 26 February.[^23]
 
-[^20] Letter Manning to McDonald, 14 February 2002, ‘Conversation with Condi Rice: Iraq’.
-[^21] Letter C to Manning, 12 February 2002, ‘Iraq Policy’ attaching Paper ‘Iraq Policy – SIS Contribution’. 
-[^22] Letter Private Secretary to C to Allberry, 19 February 2002, ‘SIS Funding of Operations […] in Iraq’. 
-[^23] Letter Wilson to Smith, 26 February 2002, ‘Iraq: Requirement for funding for […] Operations by SIS’. 
+[^20]: Letter Manning to McDonald, 14 February 2002, ‘Conversation with Condi Rice: Iraq’.
+[^21]: Letter C to Manning, 12 February 2002, ‘Iraq Policy’ attaching Paper ‘Iraq Policy – SIS Contribution’. 
+[^22]: Letter Private Secretary to C to Allberry, 19 February 2002, ‘SIS Funding of Operations […] in Iraq’. 
+[^23]: Letter Wilson to Smith, 26 February 2002, ‘Iraq: Requirement for funding for […] Operations by SIS’. 
 
 397
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawford62.  Mr Alastair Campbell, Mr Blair’s Director of Communications and Strategy, described 
+62.  Mr Alastair Campbell, Mr Blair’s Director of Communications and Strategy, described 
 a meeting in No.10 on 19 February as a “‘Phase 2’ war meeting” for Mr Blair with Sir 
 David Manning, Sir Richard Dearlove, Mr Peter Ricketts, FCO Political Director, Mr Tom 
 McKane, Deputy Head of OD Sec, Mr Powell and himself.[^24] 
@@ -594,16 +594,16 @@ for military action against Saddam Hussein. That was a “public persuasion” i
 which would be tackled “in the same way” as the unprecedented “indictment” against 
 Usama Bin Laden published in October 2001.[^28] 
 
-[^24] Campbell A & Hagerty B. The Alastair Campbell Diaries. Volume 4. The Burden of Power: Countdown 
-[^25] Public hearing, 19 January 2011, page 34.
-[^26] Minute McKane to Manning, 19 February 2002, ‘Papers for the Prime Minister’.
-[^27]  The Observer, 24 February 2002, Blair and Bush to plot war on Iraq.
-[^28] Paper No.10, 4 October 2001, ‘Responsibility for the Terrorist Atrocities in the United States, 
+[^24]: Campbell A & Hagerty B. The Alastair Campbell Diaries. Volume 4. The Burden of Power: Countdown 
+[^25]: Public hearing, 19 January 2011, page 34.
+[^26]: Minute McKane to Manning, 19 February 2002, ‘Papers for the Prime Minister’.
+[^27]:  The Observer, 24 February 2002, Blair and Bush to plot war on Iraq.
+[^28]: Paper No.10, 4 October 2001, ‘Responsibility for the Terrorist Atrocities in the United States, 
 11 September 2001’. 
 
 398
 
-The Report of the Iraq Inquiry68.  The Observer article also suggested that Iraq’s nuclear capabilities included 
+68.  The Observer article also suggested that Iraq’s nuclear capabilities included 
 investigating a way to launch “dirty” nuclear bombs – unsophisticated devices which 
 would nevertheless wreak havoc if used. 
 
@@ -649,11 +649,11 @@ which could include:
 to prevent military action. France was no longer pressing for an early discussion of 
 the Goods Review List but there was scepticism about the prospects for toughening 
 
-[^29] Telegram 100 Paris to FCO London, 11 February 2002, ‘Iraq: UK/French Talks’.
+[^29]: Telegram 100 Paris to FCO London, 11 February 2002, ‘Iraq: UK/French Talks’.
 
 399
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawfordenforcement of existing resolutions, “particularly the Syrian pipeline”. Tightening the 
+enforcement of existing resolutions, “particularly the Syrian pipeline”. Tightening the 
 sanctions regime would be “difficult to achieve and did little to prevent confrontation”, 
 which was now the “basic aim”. 
 
@@ -701,11 +701,11 @@ and military causes … [A]scribing them simply to a national or individual prop
 for wrongdoing is inadequate. There are reasons beyond mere wickedness why 
 bad regimes come to power and survive: simply keeping the lid on the ambitions of 
 
-[^30] Telegram 123 Paris to FCO London, 19 February 2002, ‘US Foreign Policy: France and the Axis of Evil’.
+[^30]: Telegram 123 Paris to FCO London, 19 February 2002, ‘US Foreign Policy: France and the Axis of Evil’.
 
 400
 
-The Report of the Iraq Inquirydangerous regimes by military repression, or removing them by military force, may 
+dangerous regimes by military repression, or removing them by military force, may 
 in the long run even make things worse.
 
 “So on most cases the French favour a policy of engagement …” 
@@ -751,11 +751,11 @@ well have hardened too far on both sides.”
 dangers of the Iraqi regime; to explain why they believe they can remove the 
 regime without setting the region on fire; and, once they have a plan, to explain 
 
-[^31] Telegram 123 Paris to FCO London, 19 February 2002, ‘US Foreign Policy: France and the Axis of Evil’.
+[^31]: Telegram 123 Paris to FCO London, 19 February 2002, ‘US Foreign Policy: France and the Axis of Evil’.
 
 401
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawfordwhy they think it can work”. The US instinct would be to share only with the 
+why they think it can work”. The US instinct would be to share only with the 
 UK but that would put “us in a particularly difficult position, increasing the 
 appearance of poodlism if we follow without being able to explain adequately 
 ourselves. We saw in the early stages of the Afghan crisis how bad the 
@@ -802,7 +802,7 @@ in power and allowed him to make maximum propaganda gains … In the current
 
 402
 
-The Report of the Iraq InquiryMiddle East climate, we would probably be faced with the collapse of sanctions and 
+Middle East climate, we would probably be faced with the collapse of sanctions and 
 the effective end of our containment policy.”[^32]
 
 96.  Addressing the “Legal position/UN route”, Mr Goulty wrote:
@@ -848,11 +848,11 @@ March tour”.
 “We would expect the Iranians, hitherto (privately) in favour of action to remove 
 Saddam Hussein, to be much less helpful in the light of President Bush’s ‘axis 
 
-[^32] Minute Goulty to Fry, 20 February 2002, ‘Military action against Iraq: Issues’.
+[^32]: Minute Goulty to Fry, 20 February 2002, ‘Military action against Iraq: Issues’.
 
 403
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawfordof evil’ speech. France and Germany … could probably be kept on side. The 
+of evil’ speech. France and Germany … could probably be kept on side. The 
 French position is not greatly different from our own. Their policy remains to keep 
 up pressure on Baghdad over inspectors and maintain P5 unity. But they accept 
 that US military action to remove Saddam is now very much on the cards. In this 
@@ -900,7 +900,7 @@ Foreign Affairs (see Section 1.2), responded to Mr Goulty’s minute with a tele
 
 404
 
-The Report of the Iraq Inquiryto Sir Michael Jay and senior colleagues offering his views on the direction of policy 
+to Sir Michael Jay and senior colleagues offering his views on the direction of policy 
 on Iraq.[^33] 
 
 105.  Mr Sawers began:
@@ -944,11 +944,11 @@ would never have to listen to another British legal opinion. Presenting Washingt
 with one now will both irritate and weaken him. We can look for the legal basis once 
 we have decided what to do, as we did in Kosovo.” 
 
-[^33] Teleletter Sawers to Jay, 21 February 2002, ‘Iraq: Policy’.
+[^33]: Teleletter Sawers to Jay, 21 February 2002, ‘Iraq: Policy’.
 
 405
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawford108.  Addressing “what should we be doing while Washington plans and we try to 
+108.  Addressing “what should we be doing while Washington plans and we try to 
 influence them”, Mr Sawers wrote:
 
 “Conventional advice will be to plough on in New York, get the Goods Review List 
@@ -992,14 +992,14 @@ of Mission who had been sent copies of his teleletter stating:
 assure you that thought is being given to them, necessarily on a highly restricted 
 basis. You will understand that correspondence, widely copied, on these issues 
 
-[^34] Teleletter Sawers to Jay, 21 February 2002, ‘Iraq: Policy’.
-[^35] Manuscript comment Manning to Powell, 22 February 2002, on Teleletter Sawers to Jay, 21 February 
+[^34]: Teleletter Sawers to Jay, 21 February 2002, ‘Iraq: Policy’.
+[^35]: Manuscript comment Manning to Powell, 22 February 2002, on Teleletter Sawers to Jay, 21 February 
 2002, ‘Iraq: Policy’.
-[^36] Manuscript comment Powell to Manning on Teleletter Sawers to Jay, 21 February 2002, ‘Iraq: Policy’.
+[^36]: Manuscript comment Powell to Manning on Teleletter Sawers to Jay, 21 February 2002, ‘Iraq: Policy’.
 
 406
 
-The Report of the Iraq Inquiryis to be avoided. If any addressees were intending to comment, grateful if this could 
+is to be avoided. If any addressees were intending to comment, grateful if this could 
 be in the form of personal letters to the PUS only.
 
 “We will of course give guidance for Posts on Iraq issues as and when we can.”[^37]
@@ -1045,12 +1045,12 @@ across.”
 117.  In their meeting, Mr Blair told Mr Annan that WMD were “the key” for the next 
 phase of the response to terrorism, “particularly acquisition by states that were not 
 
-[^37] Telegram 32 FCO London to Cairo, 22 February 2002, ‘Iraq’.
-[^38] Letter McDonald to Tatham, 21 February 2002, ‘Kofi Annan’s Call on the Prime Minister, 
+[^37]: Telegram 32 FCO London to Cairo, 22 February 2002, ‘Iraq’.
+[^38]: Letter McDonald to Tatham, 21 February 2002, ‘Kofi Annan’s Call on the Prime Minister, 
 
 407
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawforddemocratic, stable or progressive”, and “no final decisions had been taken on Iraq”: 
+democratic, stable or progressive”, and “no final decisions had been taken on Iraq”: 
 “He had been hoping there would be a new UN resolution and inspectors back in.”[^39]
 
 118.  In response to comments about the evidence of Iraqi activity, Mr Blair said the UK 
@@ -1089,14 +1089,14 @@ the best prospect of dealing with Iraq’s WMD”.
 uncertainty about US policy and the possibility of military action, or what the UK’s 
 response should be to that.
 
-[^39] Letter Rycroft to McDonald, 25 February 2002, ‘Prime Minister’s Meeting with UN Secretary General, 
+[^39]: Letter Rycroft to McDonald, 25 February 2002, ‘Prime Minister’s Meeting with UN Secretary General, 
 25 February’.
-[^40] Annan K. Interventions: A Life In War And Peace. Allen Lane, 2012.
-[^41] Letter Tatham to McDonald, 24 February 2002, ‘Stockholm Progressive Governance Summit: Iraq’.
+[^40]: Annan K. Interventions: A Life In War And Peace. Allen Lane, 2012.
+[^41]: Letter Tatham to McDonald, 24 February 2002, ‘Stockholm Progressive Governance Summit: Iraq’.
 
 408
 
-The Report of the Iraq Inquiry124.  Mr Straw’s Private Office advised Sir David Manning on 26 February that: 
+124.  Mr Straw’s Private Office advised Sir David Manning on 26 February that: 
 
 “In the absence of any decisions on wider Iraq policy and the post-11 September 
 situation, the immediate US focus is on getting the Goods Review List (GRL) agreed 
@@ -1137,12 +1137,12 @@ deliver). If we cross that bridge definitively, it will be difficult to pull bac
 in our Middle Eastern back yard … regimes may not fall in this part of the world, 
 but instability can manifest itself in different ways.”
 
-[^42] Letter Sedwill to Manning, 26 February 2002, ‘Iraq’.
-[^43] Letter Plumbly to Jay, 27 February 2002, ‘Iraq’.
+[^42]: Letter Sedwill to Manning, 26 February 2002, ‘Iraq’.
+[^43]: Letter Plumbly to Jay, 27 February 2002, ‘Iraq’.
 
 409
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawford131.  Sir Derek took “issue too with John [Sawers]’s caricature of ‘conventional advice’ 
+131.  Sir Derek took “issue too with John [Sawers]’s caricature of ‘conventional advice’ 
 in FCO”. He recognised:
 
 “… the need to frame our arguments within the US universe of facts. But we should 
@@ -1186,12 +1186,12 @@ would not be able to comply”.
 137.  Sir Richard reported that his team had told the US that the UK legal position would 
 need to be clarified before the UK could become engaged.
 
-[^44] Manuscript comments on Letter Plumbly to Jay, 27 February 2002, ‘Iraq’. 
-[^45] Letter C to Manning, 26 February 2002, ‘US Policy on Iraq’.
+[^44]: Manuscript comments on Letter Plumbly to Jay, 27 February 2002, ‘Iraq’. 
+[^45]: Letter C to Manning, 26 February 2002, ‘US Policy on Iraq’.
 
 410
 
-The Report of the Iraq Inquiry138.  Sir David Manning sent the letter to Mr Blair, commenting:
+138.  Sir David Manning sent the letter to Mr Blair, commenting:
 
 “Interesting account of the latest US thinking. Much as expected: […]”[^46]
 
@@ -1233,11 +1233,11 @@ beneficiary was likely to have been another Sunni general no better that the man
 replaced”. That “would not have been consistent with the Administration’s intent that 
 a new Iraq might serve as a beacon of democracy in the Middle East”. 
 
-[^46] Manuscript comment Manning to Prime Minister, 27 February 2002, on Letter C to Manning, 
+[^46]: Manuscript comment Manning to Prime Minister, 27 February 2002, on Letter C to Manning, 
 26 February 2002, ‘US Policy on Iraq’.
-[^47] Manuscript comment Blair to Manning on Letter C to Manning, 26 February 2002, ‘US Policy on Iraq’.
-[^48] SIS record, 6 March 2003.
-[^49] Tenet G & Harlow B. At the Center of the Storm: My Years at the CIA. HarperPress, 2007.
+[^47]: Manuscript comment Blair to Manning on Letter C to Manning, 26 February 2002, ‘US Policy on Iraq’.
+[^48]: SIS record, 6 March 2003.
+[^49]: Tenet G & Harlow B. At the Center of the Storm: My Years at the CIA. HarperPress, 2007.
 
 411
 
@@ -1280,13 +1280,13 @@ important area for policy discussions with the US. The Pentagon’s views on how
 soon Iraq might develop a nuclear capability did not quite match the UK’s, and it 
 would be useful for Ministers to know the JIC’s mind.”[^52] 
 
-[^50] JIC Assessment, 27 February 2002, ‘Iraq: Saddam Under the Spotlight’.
-[^51] Minutes, 27 February 2002, JIC meeting. 
-[^52] Minutes, 27 February 2002, JIC meeting.
+[^50]: JIC Assessment, 27 February 2002, ‘Iraq: Saddam Under the Spotlight’.
+[^51]: Minutes, 27 February 2002, JIC meeting. 
+[^52]: Minutes, 27 February 2002, JIC meeting.
 
 412
 
-The Report of the Iraq Inquiry155.  In the first of its Key Judgements, the JIC stated:
+155.  In the first of its Key Judgements, the JIC stated:
 
 “Saddam fears a US military attack which would threaten his regime by bringing 
 about the disintegration of his military and security apparatus. A force on the scale 
@@ -1333,11 +1333,11 @@ A “coup or military revolt” was “only a remote possibility”.
 jolt” to Saddam Hussein’s position. President Bush’s speech labelling Iraq as part of an 
 “axis of evil” would have “reinforced” Saddam Hussein’s concern.
 
-[^53] JIC Assessment, 27 February 2002, ‘Iraq: Saddam Under the Spotlight’.
+[^53]: JIC Assessment, 27 February 2002, ‘Iraq: Saddam Under the Spotlight’.
 
 413
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawford159.  In respect of developments at the UN, the Assessment stated:
+159.  In respect of developments at the UN, the Assessment stated:
 
 “In conjunction with pressure from the US, developments at the UN since November 
 2001 threaten to de-rail Saddam’s long-term strategy of refusing to comply with 
@@ -1386,7 +1386,7 @@ is no recent intelligence indicating that Iraq is pursuing such a course.”
 
 414
 
-The Report of the Iraq Inquiry163.  The Assessment stated that Saddam Hussein recognised the “greatest risk” was:
+163.  The Assessment stated that Saddam Hussein recognised the “greatest risk” was:
 
 “… that the Iraqi WMD programme and non-compliance with UNSCRs may be used 
 to justify a US attack to overthrow him. He would probably see a force on the scale 
@@ -1432,7 +1432,7 @@ the regime, or disintegrate, if subject to a strong US attack.”
 
 415
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawford167.  Looking to the future, the JIC judged that Saddam Hussein was “not yet convinced” 
+167.  Looking to the future, the JIC judged that Saddam Hussein was “not yet convinced” 
 that a US: 
 
 “… move to overthrow him is inevitable. While the Coalition campaign continues in 
@@ -1474,11 +1474,11 @@ successful outcome”.
 Secretary, advice on 27 February on how the UK might approach the three countries 
 referred to by President Bush as an “axis of evil”.[^54]
 
-[^54] Minute Webb to PS/Secretary of State [MOD], 27 February 2002, ‘Axis of Evil’.
+[^54]: Minute Webb to PS/Secretary of State [MOD], 27 February 2002, ‘Axis of Evil’.
 
 416
 
-The Report of the Iraq Inquiry172.  Mr Webb recommended that the UK should acknowledge that the countries posed 
+172.  Mr Webb recommended that the UK should acknowledge that the countries posed 
 “increasing” risks to international stability; and that the US should be persuaded to 
 explain why. The UK should:
 
@@ -1524,12 +1524,12 @@ about the next phase in the war against terrorism. The main decisions, including
 needed to be properly thought through and were some way off. The Cabinet should 
 discuss the next phase when the Foreign Secretary returned.[^56]
 
-[^55] Letter Ehrman to Webb, 27 February 2002, ‘Axis of Evil’. 
-[^56] Cabinet Conclusions, 28 February 2002.
+[^55]: Letter Ehrman to Webb, 27 February 2002, ‘Axis of Evil’. 
+[^56]: Cabinet Conclusions, 28 February 2002.
 
 417
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawford181.  Mr Campbell wrote that Mr David Blunkett, the Home Secretary, had referred 
+181.  Mr Campbell wrote that Mr David Blunkett, the Home Secretary, had referred 
 to “the unsettling speculation and said a lot of people had difficulty with Rumsfeld” 
 [Mr Donald Rumsfeld, US Secretary of Defense].[^57] Mr Blair had said President 
 “Bush was in charge, not Rumsfeld”. 
@@ -1569,15 +1569,15 @@ Iraq poses a threat, not just to the region but to the wider world.” President
 “When we’re ready to take action, then we’ll announce it. It is a real issue. It is a real 
 threat. How we deal with it is an open matter.”
 
-[^57] Campbell A & Hagerty B. The Alastair Campbell Diaries. Volume 4. The Burden of Power: Countdown to 
-[^58] Public hearing, 25 January 2011, page 40.
-[^59] Letter Rycroft to McDonald, 28 February 2002, ‘Prime Minister’s Phone Call with President Bush, 
+[^57]: Campbell A & Hagerty B. The Alastair Campbell Diaries. Volume 4. The Burden of Power: Countdown to 
+[^58]: Public hearing, 25 January 2011, page 40.
+[^59]: Letter Rycroft to McDonald, 28 February 2002, ‘Prime Minister’s Phone Call with President Bush, 
 28 February: Afghanistan, Iraq and Middle East’.
-[^60]  BBC News, 28 February 2002, Blair hints at Iraq action.
+[^60]:  BBC News, 28 February 2002, Blair hints at Iraq action.
 
 418
 
-The Report of the Iraq Inquiry190.  Mr Campbell wrote that Mr Blair had given an interview for ABC which was “very 
+190.  Mr Campbell wrote that Mr Blair had given an interview for ABC which was “very 
 forward on Iraq and pro GWB [President Bush]. He had decided that was the best 
 position to adopt to gain influence.”[^61] 
 
@@ -1619,14 +1619,14 @@ sense …”[^64]
 195.  Responding to Mr Murphy, Mr Ben Bradshaw, the Parliamentary Under Secretary 
 of State for Foreign and Commonwealth Affairs, encouraged Mr Murphy “and other 
 
-[^61] Campbell A & Hagerty B. The Alastair Campbell Diaries. Volume 4. The Burden of Power: Countdown 
-[^62]  The Telegraph, 1 March 2002, Blair backs Bush on ‘evil’ of Iraq.
-[^63]  BBC News, 3 March 2002, Blair gives Iraq new warning.
-[^64] House of Commons, Official Report, 4 March 2002, column 125.
+[^61]: Campbell A & Hagerty B. The Alastair Campbell Diaries. Volume 4. The Burden of Power: Countdown 
+[^62]:  The Telegraph, 1 March 2002, Blair backs Bush on ‘evil’ of Iraq.
+[^63]:  BBC News, 3 March 2002, Blair gives Iraq new warning.
+[^64]: House of Commons, Official Report, 4 March 2002, column 125.
 
 419
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to CrawfordMembers who support the Government on this issue” to make their views known in a 
+Members who support the Government on this issue” to make their views known in a 
 debate on Iraq which would take place on 6 March.[^65] 
 
 196.  Mr Bradshaw stated that the UK’s “European allies very much share our concern 
@@ -1670,13 +1670,13 @@ proper international inspection, he will have to live with the consequences.
 “No decisions have been taken, but let no one – especially Saddam – doubt 
 our resolve.”
 
-[^65] House of Commons, Official Report, 4 March 2002, column 128.
-[^66] House of Commons, Official Report, 4 March 2002, column 129.
-[^67]  The Times, 5 March 2002, Saddam must allow weapons inspectors into Iraq or suffer the 
+[^65]: House of Commons, Official Report, 4 March 2002, column 128.
+[^66]: House of Commons, Official Report, 4 March 2002, column 129.
+[^67]:  The Times, 5 March 2002, Saddam must allow weapons inspectors into Iraq or suffer the 
 
 420
 
-The Report of the Iraq Inquiry201.  The details provided by Mr Straw about Iraq’s programmes are addressed 
+201.  The details provided by Mr Straw about Iraq’s programmes are addressed 
 in Section 4.1.
 
 202.  A briefing paper prepared at Mr Straw’s request was sent to members of the 
@@ -1721,14 +1721,14 @@ highlighted” in his State of the Union speech on 29 January.
 
 weapons and will use them …”
 
-[^68] Statement, 9 January 2011, page 5.
-[^69] Paper Williams, 5 March 2002, ‘Iraq Briefing’.
-[^70] Letter Sedwill to Rycroft, 6 March 2002, ‘Iraq: Cabinet Discussion’.
-[^71]  Daily Express, 6 March 2002, Why Saddam is still a threat to Britain.
+[^68]: Statement, 9 January 2011, page 5.
+[^69]: Paper Williams, 5 March 2002, ‘Iraq Briefing’.
+[^70]: Letter Sedwill to Rycroft, 6 March 2002, ‘Iraq: Cabinet Discussion’.
+[^71]:  Daily Express, 6 March 2002, Why Saddam is still a threat to Britain.
 
 421
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawford*  The UN had “demanded” in 1991 “that its representatives should be allowed into 
+*  The UN had “demanded” in 1991 “that its representatives should be allowed into 
 Iraq to dismantle his weapons of mass destruction and ensure he did not replace 
 them” because Saddam had “used chemical weapons repeatedly against Iranian 
 soldiers”, and had used them “against his own citizens when he attacked Kurds 
@@ -1781,11 +1781,11 @@ of mass destruction without military action being taken.
 
 of a backlash in Muslim states. 
 
-[^72] House of Commons, Official Report, 6 March 2002, columns 69-88WH.
+[^72]: House of Commons, Official Report, 6 March 2002, columns 69-88WH.
 
 422
 
-The Report of the Iraq Inquiryobjectives that were capable of achievement.
+objectives that were capable of achievement.
 
 *  Nothing should be done without the full authority and approval of the UN. 
 *  Military action should never be taken without clear and realistic political 
@@ -1834,11 +1834,11 @@ action”.
 the issue and not shy away from it, as some would wish. His full support for 
 President Bush shows an appreciation of the gravity of the issue and we await 
 
-[^73] House of Commons, Official Report, 6 March 2002, column 74WH.
+[^73]: House of Commons, Official Report, 6 March 2002, column 74WH.
 
 423
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawfordthe outcome of their talks … There is a clear and present danger and we must 
+the outcome of their talks … There is a clear and present danger and we must 
 face it.”
 
 *  Saddam Hussein should tell the UN that he was prepared to admit inspection 
@@ -1886,13 +1886,13 @@ asked if Mr Blair was:
 towards war with Iraq? Does he accept that in the event that British troops are sent 
 into action, there should be a debate and a vote on the Floor of the House?”[^76]
 
-[^74] House of Commons, Official Report, 6 March 2002, columns 84-85WH.
-[^75] House of Commons, Official Report, 6 March 2002, column 87WH.
-[^76] House of Commons, Official Report, 6 March 2002, column 287.
+[^74]: House of Commons, Official Report, 6 March 2002, columns 84-85WH.
+[^75]: House of Commons, Official Report, 6 March 2002, column 87WH.
+[^76]: House of Commons, Official Report, 6 March 2002, column 287.
 
 424
 
-The Report of the Iraq Inquiry221.  Mr Blair replied:
+221.  Mr Blair replied:
 
 “Of course, were we ever to take action in respect of Iraq, there would be an 
 opportunity for the House to express its views … However … no decisions have yet 
@@ -1941,12 +1941,12 @@ regarded Saddam Hussein as a danger.
 
 to be in a position to shape policy and its presentation.
 
-[^77] House of Commons, Official Report, 6 March 2002, column 297.
-[^78] Minute Scarlett to Manning, 6 March 2002, ‘WMD Programmes of Concern – Unclassified’, attaching 
+[^77]: House of Commons, Official Report, 6 March 2002, column 297.
+[^78]: Minute Scarlett to Manning, 6 March 2002, ‘WMD Programmes of Concern – Unclassified’, attaching 
 
 425
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawford*  The international community should proceed in a measured and 
+*  The international community should proceed in a measured and 
 
 determined way to decide how to respond to the real threat represented 
 by the Iraqi regime. 
@@ -1989,11 +1989,11 @@ regime, but it was important to ensure that the British public and international
 opinion understood the true nature of the threat posed by the regime and the need 
 to respond effectively.”
 
-[^79] Cabinet Conclusions, 7 March 2002.
+[^79]: Cabinet Conclusions, 7 March 2002.
 
 426
 
-The Report of the Iraq Inquiry231.  Cabinet Ministers raised a number of points in the subsequent discussion, 
+231.  Cabinet Ministers raised a number of points in the subsequent discussion, 
 including:
 
 *  “it was important to distinguish between the campaign against international 
@@ -2049,7 +2049,7 @@ been taken and any action taken would be in accordance with international law.�
 
 427
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawford234.  In his diaries, Mr Campbell provided more detail of the discussion. The points 
+234.  In his diaries, Mr Campbell provided more detail of the discussion. The points 
 recorded by Mr Campbell included:
 
 Process.
@@ -2098,11 +2098,11 @@ play its role as I think the Cabinet should play its role.’”
 “… raised all sorts of issues, not political issues particularly, issues about the legal 
 position, about … what would be involved in military action, whether you could 
 
-[^80] Public hearing, 25 January 2011, pages 72-73.
+[^80]: Public hearing, 25 January 2011, pages 72-73.
 
 428
 
-The Report of the Iraq Inquirysucceed … about the importance of the United Nations, about the prior importance 
+succeed … about the importance of the United Nations, about the prior importance 
 of the Middle East Peace Process.” 
 
 237.  Lord Wilson also stated Mr Blair had finished the meeting by saying: “The concerns 
@@ -2141,16 +2141,16 @@ concern” about where policy on Iraq was going. It was not a “row” but it h
 been briefed to the press as one.[^86] The next day the papers were “full of division, threats 
 of resignation over Iraq”, which were “untrue”.
 
-[^81] Public hearing, 25 January 2011, page 73. 
-[^82] Public hearing, 25 January 2011, pages 73-74.
-[^83] Public hearing, 25 January 2011, pages 73-74.
-[^84] Public hearing, 8 February 2011, page 36.
-[^85] Public hearing, 8 February 2011, page 38.
-[^86] Campbell A & Hagerty B. The Alastair Campbell Diaries. Volume 4. The Burden of Power: Countdown 
+[^81]: Public hearing, 25 January 2011, page 73. 
+[^82]: Public hearing, 25 January 2011, pages 73-74.
+[^83]: Public hearing, 25 January 2011, pages 73-74.
+[^84]: Public hearing, 8 February 2011, page 36.
+[^85]: Public hearing, 8 February 2011, page 38.
+[^86]: Campbell A & Hagerty B. The Alastair Campbell Diaries. Volume 4. The Burden of Power: Countdown 
 
 429
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawford242.  In questions to Mr Cook later that day, Mr Dalyell asked for confirmation that the 
+242.  In questions to Mr Cook later that day, Mr Dalyell asked for confirmation that the 
 House of Commons would be consulted before a commitment to military action, not 
 after.[^87] Mr Cook responded that Mr Blair had said no decision had been taken, and no 
 one anticipated one being taken in the near or medium future. Mr Cook added:
@@ -2192,12 +2192,12 @@ Nobody likes military action.’
 honourable records in opposing proliferation and demanding strong action’ against 
 transgressors. That may have been a hint to colleagues that they should not be 
 
-[^87] House of Commons, Official Report, 7 March 2002, column 423.
-[^88] House of Commons, Official Report, 7 March 2002, column 424.
+[^87]: House of Commons, Official Report, 7 March 2002, column 423.
+[^88]: House of Commons, Official Report, 7 March 2002, column 424.
 
 430
 
-The Report of the Iraq Inquiryundermining efforts to keep Saddam nervous about the West’s intentions while 
+undermining efforts to keep Saddam nervous about the West’s intentions while 
 efforts are made to re-open weapon inspections.”[^89] 
 
 246.  The article also reported “Signs of real unease” had begun to emerge “last night” 
@@ -2240,12 +2240,12 @@ threat to peace and a strategy of engaging closely with the US Government in
 order to shape policy and its presentation. But it did not discuss how that might 
 be achieved.
 
-[^89]  The Guardian, 8 March 2002, Cabinet concern grows over Blair’s tough talk on Iraq. 
-[^90] Public hearing, 25 January 2011, page 88.
+[^89]:  The Guardian, 8 March 2002, Cabinet concern grows over Blair’s tough talk on Iraq. 
+[^90]: Public hearing, 25 January 2011, page 88.
 
 431
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawford255.  Mr Blair had committed the UK to support the US in the fight against 
+255.  Mr Blair had committed the UK to support the US in the fight against 
 international terrorism, but given the absence of evidence of any Iraqi support 
 for Islamic extremists, it is hard to see how that would have applied to US policy 
 on Iraq.
@@ -2283,13 +2283,13 @@ co-ordinated by the Overseas and Defence Secretariat, was sent to Mr Blair by Si
 Manning on 8 March, as part of the collection of “background briefs that you asked for”, 
 for the meeting with President Bush in April.[^93]
 
-[^91]  The Guardian, 8 March 2002, Cabinet concern grows over Blair’s tough talk on Iraq.
-[^92] Minute Dodd to Manning, 5 April 2002, ‘Iraq’.
-[^93] Minute Manning to Prime Minister, 8 March 2002, ‘Briefing for the US’.
+[^91]:  The Guardian, 8 March 2002, Cabinet concern grows over Blair’s tough talk on Iraq.
+[^92]: Minute Dodd to Manning, 5 April 2002, ‘Iraq’.
+[^93]: Minute Manning to Prime Minister, 8 March 2002, ‘Briefing for the US’.
 
 432
 
-The Report of the Iraq Inquiry261.  The Cabinet Office paper described the UK’s policy objectives on Iraq as:
+261.  The Cabinet Office paper described the UK’s policy objectives on Iraq as:
 
 “Within our objectives of preserving peace and stability in the Gulf and ensuring 
 energy security, our current objectives towards Iraq are:
@@ -2332,12 +2332,12 @@ which was a cause of instability.
 the Permanent Five and the majority of the Security Council that Iraq was in 
 breach of its obligations on WMD and ballistic missiles.
 
-[^94] Paper Cabinet Office, 8 March 2002, ‘Iraq: Options Paper’.
-[^95] Paper Cabinet Office, 8 March 2002, ‘Iraq: Options Paper’.
+[^94]: Paper Cabinet Office, 8 March 2002, ‘Iraq: Options Paper’.
+[^95]: Paper Cabinet Office, 8 March 2002, ‘Iraq: Options Paper’.
 
 433
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawford265.  Reflecting the JIC Assessment of 27 February, that Iraq continued to pursue the 
+265.  Reflecting the JIC Assessment of 27 February, that Iraq continued to pursue the 
 development of weapons of mass destruction, the Cabinet Office paper stated that 
 Iraq continued “to develop WMD, although our intelligence is poor”. There was no 
 greater threat now that Saddam would use WMD than there had been in recent years. 
@@ -2391,7 +2391,7 @@ as it offered little prospect of removing Saddam Hussein.
 
 434
 
-The Report of the Iraq Inquiry*  Iraq had progressively increased its international engagement and while the 
+*  Iraq had progressively increased its international engagement and while the 
 
 GRL might make sanctions more sustainable, the sanctions regime could 
 collapse in the long term.
@@ -2443,7 +2443,7 @@ address how a broadly representative government would not be Shia-led.
 
 435
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawford276.  The paper noted that even a representative government could seek to acquire 
+276.  The paper noted that even a representative government could seek to acquire 
 WMD and build up its conventional forces, as long as Iran and Israel retained their WMD 
 and conventional armouries.
 
@@ -2497,7 +2497,7 @@ Saddam. That would require fewer forces than Operation Desert Storm because
 
 436
 
-The Report of the Iraq InquiryIraqi forces were considerably weaker than they had been in 1991. The paper 
+Iraqi forces were considerably weaker than they had been in 1991. The paper 
 added: “The greater investment of western forces, the greater our control of 
 Iraq’s future, but the greater the cost and the longer we would need to stay. The 
 only certain means to remove Saddam and his elite is to invade and impose a 
@@ -2544,7 +2544,7 @@ circulated as an annex to the Cabinet Office paper, set out the general legal ba
 
 437
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to CrawfordIraq’s obligations in the relevant Security Council resolutions, and the potential 
+Iraq’s obligations in the relevant Security Council resolutions, and the potential 
 difficulties in relying in 2002 on existing resolutions to support the further use of force.[^96] 
 
 287.  As well as examining the legal base for the No-Fly Zones, the Security Council 
@@ -2584,12 +2584,12 @@ decisions of the Council; there has now not been any significant decision by the
 Council since 1998. Our interpretation of resolution 1205 was controversial anyway; 
 many of our partners did not think the legal basis was sufficient as the authority 
 
-[^96] Paper FCO, [undated], ‘Iraq: Legal Background’, attached to Cabinet Office Paper, 8 March 2002, ‘Iraq: 
-[^97] UN Security Council, ‘Letter dated 16 December 1998 from the Permanent Representative of the United 
+[^96]: Paper FCO, [undated], ‘Iraq: Legal Background’, attached to Cabinet Office Paper, 8 March 2002, ‘Iraq: 
+[^97]: UN Security Council, ‘Letter dated 16 December 1998 from the Permanent Representative of the United 
 
 438
 
-The Report of the Iraq Inquiryto use force was not explicit. Reliance on it now would be unlikely to receive 
+to use force was not explicit. Reliance on it now would be unlikely to receive 
 any support.”[^98]
 
 293.  The FCO also identified a difference in the view of the UK and US about the role of 
@@ -2635,12 +2635,12 @@ regarding WMD, and ballistic missiles. Such proof would need to be
 incontrovertible and of large-scale activity. Current intelligence is insufficiently 
 robust to meet this criterion …; or
 
-[^98] Paper FCO, [undated], ‘Iraq: Legal Background’, attached to Paper Cabinet Office, 8 March 2002, 
-[^99] Public hearing, 26 January 2010, pages 12-14.
+[^98]: Paper FCO, [undated], ‘Iraq: Legal Background’, attached to Paper Cabinet Office, 8 March 2002, 
+[^99]: Public hearing, 26 January 2010, pages 12-14.
 
 439
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawford*  … Iraq refused to admit UN inspectors after a clear ultimatum by the Security 
+*  … Iraq refused to admit UN inspectors after a clear ultimatum by the Security 
 *  the UN inspectors were re-admitted to Iraq and found sufficient evidence of 
 
 Council; or
@@ -2692,11 +2692,11 @@ poses and to prepare public opinion both in the UK and abroad.”
 301.  The Cabinet Office paper ended with a statement that the US should be 
 encouraged to consult widely on its plans.
 
-[^100] Paper Cabinet Office, 8 March 2002, ‘Iraq: Options Paper’.
+[^100]: Paper Cabinet Office, 8 March 2002, ‘Iraq: Options Paper’.
 
 440
 
-The Report of the Iraq Inquiry302.  The Cabinet Office also provided a paper, produced by the FCO, on the attitudes 
+302.  The Cabinet Office also provided a paper, produced by the FCO, on the attitudes 
 of selected third countries, which is addressed in the Box below.[^101]
 
 Attitudes of selected third countries, March 2002
@@ -2766,12 +2766,12 @@ careful attention from Washington and depending on the degree of UN cover”.
 Overt criticism was more likely from Italy. Spain did not want an open breach 
 with the US.
 
-[^101] Paper FCO, March 2002, ‘Military Action Against Iraq: Attitudes of Selected Third Countries’.
-[^102] Paper FCO, March 2002, ‘Military Action Against Iraq: Attitudes of Selected Third Countries’.
+[^101]: Paper FCO, March 2002, ‘Military Action Against Iraq: Attitudes of Selected Third Countries’.
+[^102]: Paper FCO, March 2002, ‘Military Action Against Iraq: Attitudes of Selected Third Countries’.
 
 441
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawford303.  SIS10 sent Sir David Manning an Annex to the Cabinet Office paper, outlining 
+303.  SIS10 sent Sir David Manning an Annex to the Cabinet Office paper, outlining 
 options for SIS activity, on 8 March.[^103] 
 
 304.  Addressing the options examined in the Cabinet Office paper, Mr Blair told the 
@@ -2814,13 +2814,13 @@ not think would get rid of Saddam, or “bomb and invade”.
 impact” on Saddam Hussein’s WMD efforts; and the military option would present 
 legal difficulties. 
 
-[^103] Letter [SIS10] to Manning, 8 March 2002, ‘[title redacted]’.
-[^104] Public hearing, 21 January 2011, pages 39-40.
-[^105] Minute Drummond to Manning, 15 February 2002, ‘Iraq’.
+[^103]: Letter [SIS10] to Manning, 8 March 2002, ‘[title redacted]’.
+[^104]: Public hearing, 21 January 2011, pages 39-40.
+[^105]: Minute Drummond to Manning, 15 February 2002, ‘Iraq’.
 
 442
 
-The Report of the Iraq Inquiry311.  Mr Drummond added:
+311.  Mr Drummond added:
 
 “The US position is critical. There is plenty of press speculation and third hand 
 reporting from embassies about US intentions. Probably they do not yet have a plan, 
@@ -2859,16 +2859,16 @@ meeting on 7 March, at which the draft ‘Options Paper’ was discussed.[^110]
 reading … (rather than fully worked up policy positions)”; and informed him that the 
 “current text” had not been agreed by the MOD.[^111]
 
-[^106] Letter Ehrman to Webb, 27 February 2002, ‘Axis of Evil’.
-[^107] Minute Webb to PS/Hoon, 27 February 2002, ‘Axis of Evil’.
-[^108] Minute Dodd to McKane, 6 March 2002, ‘Iraq’.
-[^109] Minute McKane to Manning, 6 March 2002, ‘Papers for the Prime Minister’.
-[^110] Letter Cabinet Office [junior official] to Iraq Inquiry, 22 July 2015, [untitled].
-[^111] Minute Cholerton to APS/SofS [MOD], 8 March 2002, ‘Iraq: OD Secretariat Options Paper’.
+[^106]: Letter Ehrman to Webb, 27 February 2002, ‘Axis of Evil’.
+[^107]: Minute Webb to PS/Hoon, 27 February 2002, ‘Axis of Evil’.
+[^108]: Minute Dodd to McKane, 6 March 2002, ‘Iraq’.
+[^109]: Minute McKane to Manning, 6 March 2002, ‘Papers for the Prime Minister’.
+[^110]: Letter Cabinet Office [junior official] to Iraq Inquiry, 22 July 2015, [untitled].
+[^111]: Minute Cholerton to APS/SofS [MOD], 8 March 2002, ‘Iraq: OD Secretariat Options Paper’.
 
 443
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawford319.  A minute from Mr Simon McDonald, Mr Straw’s Principal Private Secretary, 
+319.  A minute from Mr Simon McDonald, Mr Straw’s Principal Private Secretary, 
 recorded that:
 
 *  The ‘Options Paper’, and the (Assessments Staff) paper on WMD Programmes 
@@ -2906,17 +2906,17 @@ the previous year is not really producing the results that had been hoped for it
 or a tougher form of containment or should start to shift more towards looking at regime 
 change and military intervention”. 
 
-[^112] Minute McDonald to Ricketts, 11 March 2002, ‘Iraq’.
-[^113] Letter Rycroft to Bowman, 26 March 2002, ‘Papers on Iraq’.
-[^114] JIC Assessment, 27 February 2002, ‘Iraq: Saddam Under the Spotlight’.
-[^115] CIG Assessment, 15 March 2002, ‘The Status of Iraqi WMD Programmes’.
-[^116] Private hearing, 24 June 2010, page 23.
-[^117] Public hearing, 19 January 2011, page 33.
-[^118] Public hearing, 19 January 2011, page 34.
+[^112]: Minute McDonald to Ricketts, 11 March 2002, ‘Iraq’.
+[^113]: Letter Rycroft to Bowman, 26 March 2002, ‘Papers on Iraq’.
+[^114]: JIC Assessment, 27 February 2002, ‘Iraq: Saddam Under the Spotlight’.
+[^115]: CIG Assessment, 15 March 2002, ‘The Status of Iraqi WMD Programmes’.
+[^116]: Private hearing, 24 June 2010, page 23.
+[^117]: Public hearing, 19 January 2011, page 33.
+[^118]: Public hearing, 19 January 2011, page 34.
 
 444
 
-The Report of the Iraq Inquiry326.  Mr McKane told the Inquiry that the Cabinet Office ‘Options Paper’: 
+326.  Mr McKane told the Inquiry that the Cabinet Office ‘Options Paper’: 
 
 “… was prepared in the same kind of way as the previous one; that is a framework 
 for the paper was produced and different elements were commissioned from 
@@ -2959,15 +2959,15 @@ had offered to produce an options paper as background”. The paper had to be pr
 quickly in time for Mr Blair’s return from the Commonwealth Heads of Government 
 Meeting which ended on 5 March. 
 
-[^119] Public hearing, 19 January 2011, page 35.
-[^120] Public hearing, 25 January 2011, page 15.
-[^121] Public hearing, 25 January 2011, page 41.
-[^122] Public hearing, 25 January 2011, pages 83-84.
-[^123] Statement, 28 March 2013, pages 1-2. 
+[^119]: Public hearing, 19 January 2011, page 35.
+[^120]: Public hearing, 25 January 2011, page 15.
+[^121]: Public hearing, 25 January 2011, page 41.
+[^122]: Public hearing, 25 January 2011, pages 83-84.
+[^123]: Statement, 28 March 2013, pages 1-2. 
 
 445
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawford333.  Drafts were commissioned at a meeting on 21 February from the:
+333.  Drafts were commissioned at a meeting on 21 February from the:
 
 *  FCO on policy objectives towards Iraq and the wider region, a tightened policy 
 of containment, and legal advice on regime change;
@@ -3013,11 +3013,11 @@ had held bilateral discussions.
 by JIC judgements of the state of the threat posed by Saddam Hussein”. The policy 
 judgements had been “formulated in the first instance” by himself and Mr Drummond, 
 
-[^124] Statement, 3 April 2013, pages 1-2.
+[^124]: Statement, 3 April 2013, pages 1-2.
 
 446
 
-The Report of the Iraq Inquirythen “endorsed or mutated in group discussion”. Sir David Manning had suggested 
+then “endorsed or mutated in group discussion”. Sir David Manning had suggested 
 some changes to the draft paper, but “they were not major”.
 
 341.  Mr Dodd remembered:
@@ -3060,14 +3060,14 @@ that Lord Goldsmith:
 “… wanted to be in a position to engage constructively with this issue. This meant 
 keeping you in the loop from a very early stage, as policy was being formulated, 
 
-[^125] Minute McKane to Manning, 8 March 2002, ‘Iraq’. 
-[^126] Minute McKane to Manning, 8 March 2002, ‘Iraq’. 
-[^127] Manuscript comment Manning to McKane, 8 March 2002, on Minute McKane to Manning, 
+[^125]: Minute McKane to Manning, 8 March 2002, ‘Iraq’. 
+[^126]: Minute McKane to Manning, 8 March 2002, ‘Iraq’. 
+[^127]: Manuscript comment Manning to McKane, 8 March 2002, on Minute McKane to Manning, 
 8 March 2002, ‘Iraq’. 
 
 447
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawfordso that your advice could be factored into the development of different options. It 
+so that your advice could be factored into the development of different options. It 
 would not be helpful for you, or Ministerial colleagues, if you were presented at the 
 last moment with a request for a ‘yes or no’ answer. You [were] always available to 
 discuss these matters with Ministerial colleagues.” [^128] 
@@ -3113,12 +3113,12 @@ in power. Need to ratchet up the pressure on Iraq.”
 could provide opportunities for enhanced containment, but cannot bring about 
 regime change.”
 
-[^128] Minute Berman to Attorney General, 11 March 2002, ‘Iraq’. 
-[^129] Letter McDonald to Rycroft, 8 March 2002, ‘US Vice President’s Call on the Prime Minister, 11 March’.
+[^128]: Minute Berman to Attorney General, 11 March 2002, ‘Iraq’. 
+[^129]: Letter McDonald to Rycroft, 8 March 2002, ‘US Vice President’s Call on the Prime Minister, 11 March’.
 
 448
 
-The Report of the Iraq Inquiry*  “Military action requires key allies, particularly in the region, to be on board. 
+*  “Military action requires key allies, particularly in the region, to be on board. 
 
 That is why we see continuing with the UN route – i.e. ratcheting up pressure on 
 Iraq to comply with UN resolutions and allow weapons inspectors back in as a 
@@ -3169,11 +3169,11 @@ objectives.
 356.  In his public statement after the meeting, Mr Blair emphasised that no 
 decisions had been taken. 
 
-[^130] Note FCO, ‘Visit of US Vice President Dick Cheney 11 March: Iraq’, attached to Letter McDonald to 
+[^130]: Note FCO, ‘Visit of US Vice President Dick Cheney 11 March: Iraq’, attached to Letter McDonald to 
 
 449
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawford357.  The record of the meeting between Mr Blair and Vice President Cheney confirms 
+357.  The record of the meeting between Mr Blair and Vice President Cheney confirms 
 that most of the discussion addressed US concerns, in the context of Al Qaida’s pursuit 
 of WMD, about the need for action to deal with the threat posed by Iraq and the potential 
 link between terrorism and WMD.[^131] 
@@ -3218,11 +3218,11 @@ was not looking for other help. Mr Blair also said that:
 avoid giving any appearance of having taken a decision and then making everything 
 else fit round it.” 
 
-[^131] Letter Manning to McDonald, 11 March 2002, ‘Conversation between the Prime Minister and 
+[^131]: Letter Manning to McDonald, 11 March 2002, ‘Conversation between the Prime Minister and 
 
 450
 
-The Report of the Iraq Inquiry360.  Mr Blair concluded that “one argument worth stressing” was that we “had paid a 
+360.  Mr Blair concluded that “one argument worth stressing” was that we “had paid a 
 terrible price” by failing to act on warnings about Al Qaida and the Taliban:
 
 “We should not make the same mistakes again ignoring warnings about the 
@@ -3267,11 +3267,11 @@ negate the need for military action, Vice President Cheney replied:
 no limitations on it … so … the outside world can have confidence that he is not 
 hiding material that he has promised to give up.” 
 
-[^132] The National Archives, 11 March 2002, Press Conference – PM and Vice President Dick Cheney.
+[^132]: The National Archives, 11 March 2002, Press Conference – PM and Vice President Dick Cheney.
 
 451
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawford367.  Mr Powell told the Inquiry that the meeting with Vice President Cheney constituted 
+367.  Mr Powell told the Inquiry that the meeting with Vice President Cheney constituted 
 the first “face to face” discussions with the US.[^133] Mr Cheney wanted to discuss Iraq with 
 Mr Blair before he consulted Middle East leaders about what should be done in Iraq and 
 “their tolerance … for action”. 
@@ -3314,13 +3314,13 @@ discuss the objectives of US and UK policy.
 373.  Sir David set out a list of concerns that would need to be addressed if the 
 US wanted allies to participate in military action. 
 
-[^133] Public hearing, 18 January 2010, pages 18. The transcript incorrectly records the date of the meeting 
-[^134] Private hearing, 24 June 2010, pages 26.
-[^135] Private hearing, 24 June 2010, pages 27-28.
+[^133]: Public hearing, 18 January 2010, pages 18. The transcript incorrectly records the date of the meeting 
+[^134]: Private hearing, 24 June 2010, pages 26.
+[^135]: Private hearing, 24 June 2010, pages 27-28.
 
 452
 
-The Report of the Iraq Inquiry374.  Sir David reported that President Bush wanted to hear Mr Blair’s views 
+374.  Sir David reported that President Bush wanted to hear Mr Blair’s views 
 before taking decisions, and that Mr Blair would have real influence.
 
 375.  Sir David also warned that there was a risk that the US Administration was 
@@ -3368,11 +3368,11 @@ opinion that it was Saddam who was at fault if he flouted the conditions and blo
 the inspectors … we should find ways of getting him to speak out publicly about 
 what his inspection team would need if they were to function effectively.”
 
-[^136] Letter Manning to McDonald, 14 March 2002, ‘Discussions with Condi Rice on 12-13 March’.
+[^136]: Letter Manning to McDonald, 14 March 2002, ‘Discussions with Condi Rice on 12-13 March’.
 
 453
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawford381.  Sir David Manning told Dr Rice that the Israel/Palestine crisis, “where we 
+381.  Sir David Manning told Dr Rice that the Israel/Palestine crisis, “where we 
 were accused of double standards”, would be “critical to Washington’s prospects of 
 constructing a coalition against Iraq”. If the crisis “went on spiralling down, it could lead 
 to a sharp divergence of view between Washington and the Europeans”. That would 
@@ -3410,11 +3410,11 @@ necessary and justified;
 *  how to co-ordinate a US/allied military campaign with internal opposition …
 *  what happens on the morning after?” 
 
-[^137] Minute Manning to Prime Minister, 14 March 2002, ‘Your Trip to the US’.
+[^137]: Minute Manning to Prime Minister, 14 March 2002, ‘Your Trip to the US’.
 
 454
 
-The Report of the Iraq Inquiry386.  Sir David advised Mr Blair that President Bush would want “to pick your brains”. He 
+386.  Sir David advised Mr Blair that President Bush would want “to pick your brains”. He 
 would “also want to hear whether we can expect coalition support”. Sir David wrote that 
 he had told Dr Rice that if the US:
 
@@ -3460,11 +3460,11 @@ was to “take soundings”.[^138] The UK had been clear by then that Iraq would
 agenda and he had wanted to establish “where they [the US] had got to in reviewing 
 Iraq policy”. 
 
-[^138] Public hearing, 30 November 2009, pages 11-12.
+[^138]: Public hearing, 30 November 2009, pages 11-12.
 
 455
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawford389.  Sir David stated that he had also wanted to reflect Mr Blair’s “preoccupations” 
+389.  Sir David stated that he had also wanted to reflect Mr Blair’s “preoccupations” 
 and thinking. He told Dr Rice that if the US “was thinking about reviewing its policy 
 and … wanted the participation of its allies … it would have to address allies’ concerns 
 … including obviously our own”. He had set out the issues which would need to be 
@@ -3509,12 +3509,12 @@ opposition and “well documented” debate inside the Administration about supp
 Iraqi National Congress or a wider coalition of opposition groups. Mr Wolfowitz seemed 
 to prefer the former and “brushed over” Sir Christopher’s reference to the absence 
 
-[^139] Cabinet Conclusions, 14 March 2002.
-[^140] Letter Meyer to Manning, 18 March 2002, ‘Iraq and Afghanistan: Conversation with Wolfowitz’.
+[^139]: Cabinet Conclusions, 14 March 2002.
+[^140]: Letter Meyer to Manning, 18 March 2002, ‘Iraq and Afghanistan: Conversation with Wolfowitz’.
 
 456
 
-The Report of the Iraq Inquiryof Sunni in the INC and argued for replacing Saddam Hussein with a functioning 
+of Sunni in the INC and argued for replacing Saddam Hussein with a functioning 
 democracy not another military officer. 
 
 397.  Sir Christopher and Mr Wolfowitz also discussed developments in Afghanistan, 
@@ -3557,13 +3557,13 @@ waste of time, therefore … if we were going to be able to work with the Americ
 to … say, ‘We can’t support it [regime change]’ … the attempt was made to square 
 the circle … was actually … so to contextualise it, that regime change, if and when 
 
-[^141] Manuscript note Manning to Prime Minister on Letter Meyer to Manning, 18 March 2002, ‘Iraq and 
-[^142] Public hearing, 26 November 2009, pages 38-39.
-[^143] Public hearing, 26 November 2009, page 39.
+[^141]: Manuscript note Manning to Prime Minister on Letter Meyer to Manning, 18 March 2002, ‘Iraq and 
+[^142]: Public hearing, 26 November 2009, pages 38-39.
+[^143]: Public hearing, 26 November 2009, page 39.
 
 457
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawfordit happened, would be with the benefit of the support of the international community 
+it happened, would be with the benefit of the support of the international community 
 in the framework of UN action, quite possibly through a Security Council resolution. 
 
 “… What we said was, ‘Let’s do this cleverly … and that means … go to the UN and 
@@ -3607,14 +3607,14 @@ public flinching by Bush et al from tackling Saddam”; and that “No attempt i
 by the Administration to counter the media supposition that it is no longer a question of 
 whether, but when and how to take action against Saddam.”[^147] Public support for US 
 
-[^144] Public hearing, 26 November 2009, pages 41-42.
-[^145] Public hearing, 26 November 2009, page 44.
-[^146] Private hearing, 24 June 2010, pages 28-29.
-[^147] Telegram 386 Washington to FCO London, 20 March 2002, ‘US/Iraq: The Current Mood’.
+[^144]: Public hearing, 26 November 2009, pages 41-42.
+[^145]: Public hearing, 26 November 2009, page 44.
+[^146]: Private hearing, 24 June 2010, pages 28-29.
+[^147]: Telegram 386 Washington to FCO London, 20 March 2002, ‘US/Iraq: The Current Mood’.
 
 458
 
-The Report of the Iraq Inquiryaction against Iraq was strong. A CNN poll earlier that week had shown 70 percent were 
+action against Iraq was strong. A CNN poll earlier that week had shown 70 percent were 
 in favour of military action.
 
 406.  Sir Christopher also reported that in discussions between the Foreign Affairs 
@@ -3657,12 +3657,12 @@ opposition.
 “Various opposition groups … have told us of plans involving a national liberation 
 movement in which Iraqis, backed from the outside, would launch a series of attacks 
 
-[^148] Letter McDonald to Manning, 15 March 2002, ‘Iraq’.
-[^149] Paper Research Analysts [FCO], 14 March 2002, ‘Iraq: The Nature and Role of the Opposition to 
+[^148]: Letter McDonald to Manning, 15 March 2002, ‘Iraq’.
+[^149]: Paper Research Analysts [FCO], 14 March 2002, ‘Iraq: The Nature and Role of the Opposition to 
 
 459
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawfordon Saddam’s forces with the intention of occupying specific territory. Allied air 
+on Saddam’s forces with the intention of occupying specific territory. Allied air 
 support would be required …
 
 “In any case, we do not assess the external opposition to be capable of leading 
@@ -3707,11 +3707,11 @@ as entrenched as they were during … negotiations, there is little prospect of 
 situation changing, which is why clarification has not been attempted sooner. But 
 SCR 1382 [2001] now commits the Security Council to trying.”
 
-[^150] Note, [undated], ‘Iraq: Weapons Inspectors’, attached to Letter McDonald to Manning, 15 March 2002, 
+[^150]: Note, [undated], ‘Iraq: Weapons Inspectors’, attached to Letter McDonald to Manning, 15 March 2002, 
 
 460
 
-The Report of the Iraq Inquiry416.  The FCO reminded Mr Blair that the US was “reluctant to go down the road 
+416.  The FCO reminded Mr Blair that the US was “reluctant to go down the road 
 of clarification” because of fears it represented a “slippery slope towards a weaker 
 inspections regime”. No Security Council member had “yet challenged this”, although 
 the FCO predicted that “pressure may increase” following the talks between Iraq and 
@@ -3811,12 +3811,12 @@ biological agents within days.
 Iraq’s CBW production capability is designed to survive a military attack and 
 UN inspectors.”
 
-[^151] CIG Assessment, 15 March 2002, ‘The Status of Iraqi WMD Programmes’.
-[^152] Minutes, 6 March 2002, JIC meeting.
+[^151]: CIG Assessment, 15 March 2002, ‘The Status of Iraqi WMD Programmes’.
+[^152]: Minutes, 6 March 2002, JIC meeting.
 
 462
 
-The Report of the Iraq Inquiry425.  In the main text, but not in the Key Judgements, the Assessment warned that 
+425.  In the main text, but not in the Key Judgements, the Assessment warned that 
 the intelligence on Iraq’s WMD and ballistic missile programmes was “sporadic and 
 patchy”. It added , however, that Iraq was:
 
@@ -3866,7 +3866,7 @@ worse than 3 years ago.
 
 463
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawford“So we have to re-order our story and message. Increasingly I think it should 
+“So we have to re-order our story and message. Increasingly I think it should 
 be about the nature of the regime. We do intervene – as per the Chicago 
 speech. We have no inhibitions – where we reasonably can – about nation-
 building ie we must come to our conclusion on Saddam from our own position, 
@@ -3912,13 +3912,13 @@ the Security Service, wrote to Mr John Gieve, the Permanent Secretary of the Hom
 Office, about the “possible terrorist consequences should the US, possibly with UK 
 support, seek to topple Saddam Hussein’s regime in Iraq”.[^155]
 
-[^153] Minute Blair to Powell, 17 March 2002, ‘Iraq’.
-[^154] Public hearing, 21 January 2011, pages 43-45. 
-[^155] Letter Manningham-Buller to Gieve, 22 March 2002, ‘Iraq: Possible Terrorist Response to a US Attack’.
+[^153]: Minute Blair to Powell, 17 March 2002, ‘Iraq’.
+[^154]: Public hearing, 21 January 2011, pages 43-45. 
+[^155]: Letter Manningham-Buller to Gieve, 22 March 2002, ‘Iraq: Possible Terrorist Response to a US Attack’.
 
 464
 
-The Report of the Iraq Inquiry435.  The letter stated that since 1991, Iraq had been “implicated” in “only one terrorist 
+435.  The letter stated that since 1991, Iraq had been “implicated” in “only one terrorist 
 plan directed against a Western target – a planned car bomb attack on ex-President 
 Bush in Kuwait in 1993”. The letter reflected the JIC Assessment, of 21 November 2001 
 (see Section 3.1), that Saddam Hussein was likely to order terrorist attacks only if he 
@@ -3960,9 +3960,9 @@ UK and to British interests”.[^157]
 judgement that Saddam Hussein did not have the capability to do anything much in the 
 UK, had “turned out to be the right judgement”.[^158]
 
-[^156] Public hearing, 20 January 2010, page 37.
-[^157] Public hearing, 20 July 2010, page 6.
-[^158] Public hearing, 20 July 2010, page 9
+[^156]: Public hearing, 20 January 2010, page 37.
+[^157]: Public hearing, 20 July 2010, page 6.
+[^158]: Public hearing, 20 July 2010, page 9
 
 
 
@@ -4007,12 +4007,12 @@ before forces were committed to military action, including the need for a
 comprehensive public handling strategy convincingly to explain why such drastic 
 action against Iraq’s WMD was needed now.
 
-[^159] Cabinet Conclusions, 21 March 2002.
-[^160] House of Commons, Official Report, 18 March 2002, columns 37-48.
+[^159]: Cabinet Conclusions, 21 March 2002.
+[^160]: House of Commons, Official Report, 18 March 2002, columns 37-48.
 
 466
 
-The Report of the Iraq Inquiry449.  Following a discussion with key officials, which is addressed in Section 6.1, 
+449.  Following a discussion with key officials, which is addressed in Section 6.1, 
 Mr Hoon wrote to Mr Blair, on 22 March, stating:
 
 “The key strategic problem is the spread of WMD – of which Saddam is only one 
@@ -4056,11 +4056,11 @@ basis to hold back if the US cannot find a sensible scheme … I suggest one of 
 objectives at Crawford should be to secure agreement to the UK’s participation in 
 US military planning …”
 
-[^161] Letter Hoon to Prime Minister, 22 March 2002, ‘Iraq’.
+[^161]: Letter Hoon to Prime Minister, 22 March 2002, ‘Iraq’.
 
 467
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawford452.  Finally, Mr Hoon proposed that Mr Blair might raise with Present Bush “the need for 
+452.  Finally, Mr Hoon proposed that Mr Blair might raise with Present Bush “the need for 
 a comprehensive public handling strategy, so that we can explain convincingly why we 
 need to take such drastic action against Iraq’s WMD now”. 
 
@@ -4104,12 +4104,12 @@ force with the objective of changing the Iraqi regime would be unlawful.[^163] B
 change would not be unlawful if it was a consequence of the use of force permitted 
 by international law.
 
-[^162] Minute Sedwill to Patey, 18 March 2002, ‘Iraq’.
-[^163] Minute Grainger to PS [FCO], 21 March 2002, ‘Iraq: Regime Change’.
+[^162]: Minute Sedwill to Patey, 18 March 2002, ‘Iraq’.
+[^163]: Minute Grainger to PS [FCO], 21 March 2002, ‘Iraq: Regime Change’.
 
 468
 
-The Report of the Iraq Inquiry462.  Mr Ricketts sent a personal minute advising Mr Straw that: 
+462.  Mr Ricketts sent a personal minute advising Mr Straw that: 
 
 “By sharing Bush’s broad objective, the Prime Minister can help shape how it is 
 defined and the approach to achieving it. In the process he can bring home … some 
@@ -4155,11 +4155,11 @@ in charge of an active Iraqi WMD programme would be a bad outcome (not least
 because it would be almost impossible to maintain UN sanctions on a new leader 
 who came in promising a fresh start).”
 
-[^164] Minute Ricketts to Secretary of State [FCO], 22 March 2002, ‘Iraq: Advice for the Prime Minister’.
+[^164]: Minute Ricketts to Secretary of State [FCO], 22 March 2002, ‘Iraq: Advice for the Prime Minister’.
 
 469
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawford466.  Mr Ricketts added:
+466.  Mr Ricketts added:
 
 “As with the fight against UBL, Bush would do well to de-personalise the objective, 
 focus on elimination of WMD, and show that he is serious about UN Inspectors as 
@@ -4204,11 +4204,11 @@ between Israel and the Palestinians is so acute …”
 neighbours, and therefore to international security” but, from “the documents so far 
 presented it has been hard to glean whether the threat from Iraq is so significantly 
 
-[^165] Minute Straw to Prime Minister, 25 March 2002, ‘Crawford/Iraq’.
+[^165]: Minute Straw to Prime Minister, 25 March 2002, ‘Crawford/Iraq’.
 
 470
 
-The Report of the Iraq Inquirydifferent” as to justify military action. Without the attacks of 11 September, it was 
+different” as to justify military action. Without the attacks of 11 September, it was 
 “doubtful that the US would now be considering military action against Iraq”. There was:
 
 “… no credible evidence to link Iraq with UBL and Al Qaida … 
@@ -4260,7 +4260,7 @@ credibly to assert that regime change is an essential part of the strategy by
 
 471
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawfordwhich we have to achieve our ends – that of the elimination of Iraq’s WMD 
+which we have to achieve our ends – that of the elimination of Iraq’s WMD 
 capacity; but the latter has to be the goal;
 
 (ii)  on whether any military action would require a fresh UNSC mandate (Desert 
@@ -4304,13 +4304,13 @@ hunting, why not on war?”
 477.  An undated manuscript note from Mr Powell to Mr Blair suggested that Mr Straw 
 wanted to discuss his advice.[^168]
 
-[^166] Minute Straw to Prime Minister, 25 March 2002, ‘Crawford/Iraq’.
-[^167] Minute Patey to Goulty, 25 March 2002, ‘Iraq: Military Action’.
-[^168] Manuscript comment Powell to PM, [undated], on Minute Straw to Prime Minister, 25 March 2002, 
+[^166]: Minute Straw to Prime Minister, 25 March 2002, ‘Crawford/Iraq’.
+[^167]: Minute Patey to Goulty, 25 March 2002, ‘Iraq: Military Action’.
+[^168]: Manuscript comment Powell to PM, [undated], on Minute Straw to Prime Minister, 25 March 2002, 
 
 472
 
-The Report of the Iraq Inquiry478.  There is no No.10 record of that discussion.
+478.  There is no No.10 record of that discussion.
 
 479.  Mr Straw told the Inquiry that his recommendation was:
 
@@ -4352,14 +4352,14 @@ behind whatever course of action we took.”[^171]
 reminded Mr Straw that a further decision by the Security Council was likely to be 
 needed to revive the authorisation to use force in Iraq.[^172]
 
-[^169] Public hearing, 21 January 2010, pages 17-18.
-[^170] Public hearing, 21 January 2010, pages 20-21.
-[^171] Telegram 194 FCO London to Washington, 25 March 2002, ‘Iraq: Foreign Secretary’s Conversation 
-[^172] Minute Wood to Private Secretary [FCO], 26 March 2002, ‘Iraq’.
+[^169]: Public hearing, 21 January 2010, pages 17-18.
+[^170]: Public hearing, 21 January 2010, pages 20-21.
+[^171]: Telegram 194 FCO London to Washington, 25 March 2002, ‘Iraq: Foreign Secretary’s Conversation 
+[^172]: Minute Wood to Private Secretary [FCO], 26 March 2002, ‘Iraq’.
 
 473
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawford484.  Having seen the telegram reporting the conversation between Mr Straw and 
+484.  Having seen the telegram reporting the conversation between Mr Straw and 
 Secretary Powell, Mr Wood wrote to Mr Straw’s office to remind him of the advice in the 
 FCO paper, ‘Iraq: Legal Background’, including that:
 
@@ -4401,14 +4401,14 @@ protected publicly, and that was why I used the words that I did.”[^176]
 488.  Preliminary discussions on the US and UK interpretations of the legal authorities 
 for the use of force took place at the end of March.
 
-[^173] Minute Wood to Private Secretary [FCO], 26 March 2002, ‘Iraq’.
-[^174] Public hearing, 26 January 2010, page 16.
-[^175] Public hearing, 26 January 2010, page 17.
-[^176] Public hearing, 8 February 2010, pages 3-4.
+[^173]: Minute Wood to Private Secretary [FCO], 26 March 2002, ‘Iraq’.
+[^174]: Public hearing, 26 January 2010, page 16.
+[^175]: Public hearing, 26 January 2010, page 17.
+[^176]: Public hearing, 8 February 2010, pages 3-4.
 
 474
 
-The Report of the Iraq Inquiry489.  In late March 2002, Lord Goldsmith, Attorney General, informed Mr Hoon and 
+489.  In late March 2002, Lord Goldsmith, Attorney General, informed Mr Hoon and 
 Mr Straw that there could be considerable difficulties in justifying the use of force 
 without further action by the Security Council.
 
@@ -4453,12 +4453,12 @@ correct to say that it was not tolerable to act militarily against Saddam Hussei
 a UN mandate, Mr Hoon replied: “well what I am saying is that legally we would be 
 perfectly entitled to use force without a specific United Nations resolution”.
 
-[^177]  BBC Breakfast with Frost, 24 March 2002.
-[^178]  Jonathan Dimbleby ITV, 24 March 2002.
+[^177]:  BBC Breakfast with Frost, 24 March 2002.
+[^178]:  Jonathan Dimbleby ITV, 24 March 2002.
 
 475
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawford495.  In answer to a further question about what kind of necessity there might be to go 
+495.  In answer to a further question about what kind of necessity there might be to go 
 back to the UN, Mr Hoon responded that would “depend on the circumstances on the 
 ground, the nature of the information we had about the regime and crucially the extent to 
 which Saddam Hussein was or was not prepared to accede to existing … resolutions.” 
@@ -4500,12 +4500,12 @@ you and Jack Straw at any time”.
 that he had been speaking “in principle” about acting in self defence “if it were shown 
 that Iraq had weapons of mass destruction which were capable of posing a threat to the 
 
-[^179] Minute Patey to Goulty, 25 March 2002, ‘Iraq: Military Action’.
-[^180] Letter Goldsmith to Hoon, 28 March 2002, [untitled]. 
+[^179]: Minute Patey to Goulty, 25 March 2002, ‘Iraq: Military Action’.
+[^180]: Letter Goldsmith to Hoon, 28 March 2002, [untitled]. 
 
 476
 
-The Report of the Iraq InquiryUK”.[^181] He did not think that curtailed Lord Goldsmith’s “ability to offer an opinion about 
+UK”.[^181] He did not think that curtailed Lord Goldsmith’s “ability to offer an opinion about 
 the legal position in due course”. Mr Hoon added in manuscript that he was “sure that 
 we can discuss this further”. 
 
@@ -4544,16 +4544,16 @@ and arguing that before the UK lent its support for action the Government must
 be satisfied that there was no other course of action open to the international 
 community.
 
-[^181] Letter Hoon to Goldsmith, 11 April 2002, [untitled]. 
-[^182] Public hearing, 19 January 2010, pages 65-66.
-[^183] Public hearing, 27 January 2010, page 19.
-[^184] Minute Grainger to Wood, 8 April 2002, ‘Meetings at US State Department’. 
-[^185] Manuscript comment Berman to Goldsmith and Brummell, 12 April 2002, on Minute Grainger to Wood, 
+[^181]: Letter Hoon to Goldsmith, 11 April 2002, [untitled]. 
+[^182]: Public hearing, 19 January 2010, pages 65-66.
+[^183]: Public hearing, 27 January 2010, page 19.
+[^184]: Minute Grainger to Wood, 8 April 2002, ‘Meetings at US State Department’. 
+[^185]: Manuscript comment Berman to Goldsmith and Brummell, 12 April 2002, on Minute Grainger to Wood, 
 8 April 2002, ‘Meetings at US State Department’. 
 
 477
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawford508.  Mr Charles Kennedy wrote to Mr Blair on 26 March “in advance of your meeting 
+508.  Mr Charles Kennedy wrote to Mr Blair on 26 March “in advance of your meeting 
 with President Bush to express the concern that many feel with regard to the possibility 
 of military action against Iraq”.[^186] 
 
@@ -4597,11 +4597,11 @@ military commitments against Iraq.”
 Bush were to “agree sensible plans” on both Iraq and the MEPP; and to 
 “capitalise” on his standing in the US and support for the US Administration. 
 
-[^186] Letter Kennedy to Blair, 26 March 2002, [untitled].
+[^186]: Letter Kennedy to Blair, 26 March 2002, [untitled].
 
 478
 
-The Report of the Iraq Inquiry511.  In relation to the tactics on Iraq, Mr Powell suggested making the case 
+511.  In relation to the tactics on Iraq, Mr Powell suggested making the case 
 against Saddam Hussein and then setting an ultimatum seeking the return of 
 weapons inspectors. 
 
@@ -4649,11 +4649,11 @@ Mr Blair needed “warm words from him [President Bush] on MEPP in return for wa
 words from you on Iraq”. Mr Blair could use the speech at College Station, “to put Iraq 
 into the wider context”. 
 
-[^187] Minute Powell to Prime Minister, 28 March 2002, ‘Crawford’.
+[^187]: Minute Powell to Prime Minister, 28 March 2002, ‘Crawford’.
 
 479
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawford515.  Mr Powell told the Inquiry:
+515.  Mr Powell told the Inquiry:
 
 “I actually put a note to the Prime Minister setting out what I thought we should focus 
 on … This is not Kosovo. This is not Afghanistan. If you are thinking about Iraq, you 
@@ -4698,13 +4698,13 @@ Sir Christopher Meyer advised that President Bush needed to:
 “… show if not victory, at least momentum, and he has raised expectations that this 
 means taking the war to Iraq. Until recently, the overwhelming tide of opinion inside 
 
-[^188] Public hearing, 18 January 2010, pages 19-20.
-[^189] Public hearing, 18 January 2010, pages 22-23.
-[^190] Public hearing, 18 January 2010, pages 30-31. 
+[^188]: Public hearing, 18 January 2010, pages 19-20.
+[^189]: Public hearing, 18 January 2010, pages 22-23.
+[^190]: Public hearing, 18 January 2010, pages 30-31. 
 
 480
 
-The Report of the Iraq Inquirythe Administration and out, was that the only decision still to be taken on Iraq was 
+the Administration and out, was that the only decision still to be taken on Iraq was 
 how to do it. Now, the question on everyone’s lips is how far Iraq has been pushed 
 back by the Palestinian conflict: by the outcome of Cheney’s tour: and by a longer 
 prognosis for operations in Afghanistan.
@@ -4745,13 +4745,13 @@ the deployment of 45 Commando Royal Marines to:
 proportionately far more ground forces in Afghanistan than the Americans. If we are 
 not careful, the US will try to pass to us lead responsibility for Afghan stability for the 
 
-[^191] Telegram 451 from Washington to FCO London, 1 April 2002, ‘PM’s Visit to Texas: Bush and the War 
-[^192] Note British Embassy Washington, 26 March 2002, ‘US Public Opinion on Operations Against Iraq’.
-[^193] Telegram 451 from Washington to FCO London, 1 April 2002, ‘PM’s Visit to Texas: Bush and the War 
+[^191]: Telegram 451 from Washington to FCO London, 1 April 2002, ‘PM’s Visit to Texas: Bush and the War 
+[^192]: Note British Embassy Washington, 26 March 2002, ‘US Public Opinion on Operations Against Iraq’.
+[^193]: Telegram 451 from Washington to FCO London, 1 April 2002, ‘PM’s Visit to Texas: Bush and the War 
 
 481
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawfordforeseeable future. Keeping us on as … lead nation until the end of June is exactly 
+foreseeable future. Keeping us on as … lead nation until the end of June is exactly 
 what the Americans wanted from the start.”
 
 525.  Sir Christopher told the Inquiry that he had advised Mr Blair to focus on three 
@@ -4796,14 +4796,14 @@ oil exports.
 
 the Russians to resist UK/US proposals on revised sanctions.
 
-[^194] Public hearing, 26 November 2009, pages 27-28.
-[^195] Minute Prime Minister to Powell, 17 March 2002, ‘Iraq’.
-[^196] Letter Arthur to Manning, 26 March 2002, ‘Iraq: Back Pocket Economics’.
-[^197] Minute Scarlett to Manning, 4 April 2002, ‘Iraq: Oil’.
+[^194]: Public hearing, 26 November 2009, pages 27-28.
+[^195]: Minute Prime Minister to Powell, 17 March 2002, ‘Iraq’.
+[^196]: Letter Arthur to Manning, 26 March 2002, ‘Iraq: Back Pocket Economics’.
+[^197]: Minute Scarlett to Manning, 4 April 2002, ‘Iraq: Oil’.
 
 482
 
-The Report of the Iraq Inquiryto regime survival”.
+to regime survival”.
 
 threat to the regime”.
 
@@ -4847,11 +4847,11 @@ Chief of the Defence Staff (Commitments), Lieutenant General Cedric Delves, seni
 UK liaison officer at CENTCOM, Sir Richard Dearlove, Mr Powell, Sir David Manning 
 and Mr Scarlett were present. 
 
-[^198] Minute No.10 [junior official] to Prime Minister, 8 April 2002, ‘Iraq Suspends Oil Exports; Impact 
+[^198]: Minute No.10 [junior official] to Prime Minister, 8 April 2002, ‘Iraq Suspends Oil Exports; Impact 
 
 483
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawford537.  Mr Straw was overseas at the UK/Caribbean Summit at that time, but no FCO 
+537.  Mr Straw was overseas at the UK/Caribbean Summit at that time, but no FCO 
 representative was present.[^199]
 
 538.  Lt Gen Pigott produced a set of briefing slides at the meeting.[^200] They identified a 
@@ -4892,16 +4892,16 @@ as “outstandingly important”, though he recollected that “things accelerat
 quarter of the year”.[^204] There had been a similar meeting on Afghanistan which had 
 explored the feasibility of military action. 
 
-[^199] FCO Daily Bulletin, 2 April 2002.
-[^200] Email DCDS(C)/MA2 to CDS REGISTRY-5 and PS/PUS, 28 March 2002, ‘Iraq Briefing Slides’.
-[^201] Minute Cholerton to PS/PUS [MOD], 8 April 2002 [date is incorrect], ‘Iraq: Meeting with Prime Minister 
-[^202] Blair T. A Journey. Hutchinson, 2010. 
-[^203] Public hearing, 18 January 2010, page 19.
-[^204] Private hearing, 24 June 2010, pages 34-35.
+[^199]: FCO Daily Bulletin, 2 April 2002.
+[^200]: Email DCDS(C)/MA2 to CDS REGISTRY-5 and PS/PUS, 28 March 2002, ‘Iraq Briefing Slides’.
+[^201]: Minute Cholerton to PS/PUS [MOD], 8 April 2002 [date is incorrect], ‘Iraq: Meeting with Prime Minister 
+[^202]: Blair T. A Journey. Hutchinson, 2010. 
+[^203]: Public hearing, 18 January 2010, page 19.
+[^204]: Private hearing, 24 June 2010, pages 34-35.
 
 484
 
-The Report of the Iraq Inquiry544.  Sir Richard Dearlove had discussed the Chequers meeting with colleagues on 
+544.  Sir Richard Dearlove had discussed the Chequers meeting with colleagues on 
 4 April.[^205] In response to questions from the Inquiry, Sir Richard confirmed that regime 
 change didn’t necessarily mean military action and could, at that stage, have meant a 
 variety of things. 
@@ -4944,14 +4944,14 @@ described it as:
 “… a repeat of the smaller meeting we’d had on Afghanistan. Boyce … mainly set 
 out why it was hard to do anything …
 
-[^205] Private hearing, 16 June 2010, pages 38-43.
-[^206] Private hearing, 16 June 2010, pages 27-28.
-[^207] Private hearing, 16 June 2010, pages 28-29.
-[^208] Private hearing, 16 June 2010, page 29.
+[^205]: Private hearing, 16 June 2010, pages 38-43.
+[^206]: Private hearing, 16 June 2010, pages 27-28.
+[^207]: Private hearing, 16 June 2010, pages 28-29.
+[^208]: Private hearing, 16 June 2010, page 29.
 
 485
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawford“TB [Tony Blair] wanted to be in a position to give GWB [President Bush] a strategy 
+“TB [Tony Blair] wanted to be in a position to give GWB [President Bush] a strategy 
 and influence it. He believed Bush was in the same position as him, that it would 
 be great to get rid of Saddam and could it be done without terrible unforeseen 
 circumstances? … 
@@ -4991,11 +4991,11 @@ regime change that they wanted … There was a discussion about who would
 replace Saddam and how could we guarantee it would be better. Scarlett said it 
 couldn’t be worse …”[^209] 
 
-[^209] Campbell A & Hagerty B. The Alastair Campbell Diaries. Volume 4. The Burden of Power: Countdown 
+[^209]: Campbell A & Hagerty B. The Alastair Campbell Diaries. Volume 4. The Burden of Power: Countdown 
 
 486
 
-The Report of the Iraq InquiryPresidential Finding in early 2002
+Presidential Finding in early 2002
 
 In an article in The Washington Post on 16 June 2002, Mr Bob Woodward wrote that 
 President Bush had signed an intelligence order earlier in the year “directing the CIA 
@@ -5046,12 +5046,12 @@ development”.[^211]
 terrorism and Iraq. He will present to you the strategic, tactical and public affairs 
 lines that he believes will strengthen global support for our common cause. […]
 
-[^210]  The Washington Post, 16 June 2002, President Broadens Anti-Hussein Order.
-[^211] Memorandum Powell to Bush, 28 March 2002, ‘Your Meeting with United Kingdom Prime Minister 
+[^210]:  The Washington Post, 16 June 2002, President Broadens Anti-Hussein Order.
+[^211]: Memorandum Powell to Bush, 28 March 2002, ‘Your Meeting with United Kingdom Prime Minister 
 
 487
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawford“Blair and the UK are in Afghanistan with us for the long haul. He readily committed 
+“Blair and the UK are in Afghanistan with us for the long haul. He readily committed 
 to deploy 1700 commandos, even though his experts warn that British forces are 
 overstretched … […]. 
 
@@ -5094,11 +5094,11 @@ on 26 January, Mr Blair’s Government “essentially kept quiet on whether it a
 That had “changed at the end of February” when Mr Blair “spoke out forcefully” at the 
 Commonwealth Heads of Government Meeting in Australia. 
 
-[^212] Telegram 7579 from AMEMBASSY London to SECSTATE Washington, 2 April 2002, ‘Iraq 
+[^212]: Telegram 7579 from AMEMBASSY London to SECSTATE Washington, 2 April 2002, ‘Iraq 
 
 488
 
-The Report of the Iraq Inquiry558.  The Embassy reported that the Government had a week later released a Foreign 
+558.  The Embassy reported that the Government had a week later released a Foreign 
 Office briefing paper to the Parliamentary Labour Party “that outlined the case against 
 Iraq”. That had been followed by the article in The Times by Mr Straw [on 5 March] and 
 a similar piece by Mr Blair the following day. The subsequent “debate” on the issue in the 
@@ -5147,7 +5147,7 @@ especially careful about when to launch a ramped-up campaign to build support
 
 489
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawfordfor action against Iraq. He will want neither to be too far in front, or behind, US 
+for action against Iraq. He will want neither to be too far in front, or behind, US 
 policy. As one FCO official pointed out to us, if Blair unleashes a full scale campaign 
 in Parliament and with the general public when Parliament returns from the Easter 
 recess, and the US policy turns out to be on a longer-term trajectory, when the time 
@@ -5182,14 +5182,14 @@ to Mr Blair on 4 April.[^216] For Iraq, that comprised:
 
 and 
 
-[^213] Letter Watkins to Manning, 4 April 2002, ‘Iraq’. 
-[^214] Manuscript comment Manning to PM, 5 April 2002 on Letter Watkins to Manning, 4 April 2002, ‘Iraq’. 
-[^215] Campbell A & Hagerty B. The Alastair Campbell Diaries. Volume 4. The Burden of Power: Countdown 
-[^216] Minute Rycroft to Prime Minister, 4 April 2002, ‘Texas’. 
+[^213]: Letter Watkins to Manning, 4 April 2002, ‘Iraq’. 
+[^214]: Manuscript comment Manning to PM, 5 April 2002 on Letter Watkins to Manning, 4 April 2002, ‘Iraq’. 
+[^215]: Campbell A & Hagerty B. The Alastair Campbell Diaries. Volume 4. The Burden of Power: Countdown 
+[^216]: Minute Rycroft to Prime Minister, 4 April 2002, ‘Texas’. 
 
 490
 
-The Report of the Iraq Inquiry566.  Sir David Manning provided a separate checklist of topics which described the 
+566.  Sir David Manning provided a separate checklist of topics which described the 
 objective on Iraq as:
 
 “Commitment from Bush to transparency and consultation. (The model is 
@@ -5230,14 +5230,14 @@ about “many other things as well as Iraq” particularly the Middle East Peace
 571.  A three-page record of the discussions on Iraq was circulated on a secret and 
 strictly personal basis by Sir David Manning in a letter to Mr McDonald which was sent 
 
-[^217] Minute Manning to Prime Minister, 4 April 2002, ‘Crawford Checklist’. 
-[^218] Minute Dodd to Manning, 5 April 2002, ‘Iraq’. 
-[^219] Campbell A & Hagerty B. The Alastair Campbell Diaries. Volume 4. The Burden of Power: Countdown 
-[^220] Public hearing, 30 November 2009, pages 14-15.
+[^217]: Minute Manning to Prime Minister, 4 April 2002, ‘Crawford Checklist’. 
+[^218]: Minute Dodd to Manning, 5 April 2002, ‘Iraq’. 
+[^219]: Campbell A & Hagerty B. The Alastair Campbell Diaries. Volume 4. The Burden of Power: Countdown 
+[^220]: Public hearing, 30 November 2009, pages 14-15.
 
 491
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawfordonly to Mr Watkins (for Mr Hoon), Admiral Boyce, Sir Michael Jay, Sir Richard Dearlove, 
+only to Mr Watkins (for Mr Hoon), Admiral Boyce, Sir Michael Jay, Sir Richard Dearlove, 
 Sir Christopher Meyer and Mr Powell.[^221] 
 
 572.  Much of the discussion took place privately between the two leaders. Sir David 
@@ -5284,11 +5284,11 @@ European public opinion and helping to construct an international coalition.
 576.  Mr Blair said he would emphasise that Saddam was being given an opportunity to 
 co-operate. If “as he expected” Saddam failed to do so, it would be “very much harder 
 
-[^221] Letter Manning to McDonald, 8 April 2002, ‘Prime Minister’s Visit to the United States: 5-7 April’. 
+[^221]: Letter Manning to McDonald, 8 April 2002, ‘Prime Minister’s Visit to the United States: 5-7 April’. 
 
 492
 
-The Report of the Iraq Inquiryto resist the logic that we must take action to deal with an evil regime that threatened 
+to resist the logic that we must take action to deal with an evil regime that threatened 
 us with its WMD programme”. 
 
 577.  Mr Blair considered that the US and UK would “still face the question of why 
@@ -5333,13 +5333,13 @@ to be done to make action against Iraq successful:
 “The first was to put the Middle East peace process in a different place … That 
 strikes me as a fundamental point that he repeated again and again subsequent 
 
-[^222] Letter Meyer to Manning, 15 May 2002, ‘Your Visit to Washington’.
-[^223] Public hearing, 18 January 2010, page 24.
-[^224] Public hearing, 18 January 2010, pages 24-25.
+[^222]: Letter Meyer to Manning, 15 May 2002, ‘Your Visit to Washington’.
+[^223]: Public hearing, 18 January 2010, page 24.
+[^224]: Public hearing, 18 January 2010, pages 24-25.
 
 493
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawfordto that meeting. He talked about what would happen on the day after … so … 
+to that meeting. He talked about what would happen on the day after … so … 
 he … listed all the right questions …” [^225] 
 
 585.  The issue of conditions for military action and how those were interpreted by 
@@ -5381,15 +5381,15 @@ developing WMD.
 
 up” with a terrorist network.
 
-[^225] Public hearing, 18 January 2010, page 26.
-[^226] Public hearing, 19 January 2010, page 30.
-[^227] Public hearing, 29 January 2010, page 59.
-[^228] Bush GW. Decision Points. Virgin Books, 2010. 
-[^229] Rice C. No Higher Honour. Simon & Schuster, 2011. 
+[^225]: Public hearing, 18 January 2010, page 26.
+[^226]: Public hearing, 19 January 2010, page 30.
+[^227]: Public hearing, 29 January 2010, page 59.
+[^228]: Bush GW. Decision Points. Virgin Books, 2010. 
+[^229]: Rice C. No Higher Honour. Simon & Schuster, 2011. 
 
 494
 
-The Report of the Iraq Inquiry592.  Mr Blair stated that “doing nothing” was not an option; the threat of WMD 
+592.  Mr Blair stated that “doing nothing” was not an option; the threat of WMD 
 was real and had to be dealt with. The lesson of 11 September was to ensure that 
 “groups” were not allowed to develop a capability they might use.
 
@@ -5431,11 +5431,11 @@ developing … [WMD]
 “I explained … the policy of my government is the removal of Saddam and that all 
 options are on the table.”
 
-[^230] The White House, 6 April 2002, President Bush, Prime Minister Blair Hold Press Conference.
+[^230]: The White House, 6 April 2002, President Bush, Prime Minister Blair Hold Press Conference.
 
 495
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawford597.  Mr Blair said that:
+597.  Mr Blair said that:
 
 “… any sensible person … asking the question, would the region, the world, and not 
 least the ordinary Iraqi people be better off without the regime of Saddam Hussein, 
@@ -5485,7 +5485,7 @@ called us into action. The thing I admire about the Prime Minister is he doesn�
 
 496
 
-The Report of the Iraq Inquirya poll or focus group to convince him the difference between right and wrong. And 
+a poll or focus group to convince him the difference between right and wrong. And 
 it’s refreshing to see leaders speak with moral clarity when it comes to the defense 
 of freedom.
 
@@ -5530,12 +5530,12 @@ on 7 April to argue for an internationalist approach in dealing with Iraq.
 605.  Mr Blair advocated a policy of “an enlightened self interest that put fighting 
 for our values at the heart of the policies necessary to protect our nations”. 
 
-[^231] Blair T. A Journey. Hutchinson, 2010.
-[^232] Public hearing, 18 January 2010, page 35.
+[^231]: Blair T. A Journey. Hutchinson, 2010.
+[^232]: Public hearing, 18 January 2010, page 35.
 
 497
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawford606.  Leaving Iraq to develop WMD in breach of its obligations to the Security 
+606.  Leaving Iraq to develop WMD in breach of its obligations to the Security 
 Council was “not an option”, although the moment for decision on how to act had 
 not yet been reached. Saddam Hussein had to let the weapons inspectors back in 
 with unrestricted access.
@@ -5578,11 +5578,11 @@ them”. Four “policy positions” should guide those responses.
 “… The international coalition matters. Where it operates the unintended 
 consequences of action are limited, the diplomatic parameters better fixed …”
 
-[^233] The National Archives, 7 April 2002, Prime Minister’s Speech at the George Bush Senior 
+[^233]: The National Archives, 7 April 2002, Prime Minister’s Speech at the George Bush Senior 
 
 498
 
-The Report of the Iraq Inquiry614.  Secondly: 
+614.  Secondly: 
 
 “… we must be prepared to act where terrorism or weapons of mass destruction 
 threaten us. The fight against international terrorism is right. We should pursue it 
@@ -5632,7 +5632,7 @@ Afghanistan once we had finished militarily, is that if it drifts back into inst
 
 499
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawfordsame old problems will re-emerge. Stick at it and we can show, eventually, as in the 
+same old problems will re-emerge. Stick at it and we can show, eventually, as in the 
 Balkans, the unstable starts to become stable.”
 
 617.  In the concluding section of his speech, Mr Blair stated that an integrated approach 
@@ -5675,14 +5675,14 @@ invited them to draw on it.[^236]
 to develop a new policy on Iraq; and that there was “no intention of changing policy on 
 regime change in Iraq”. He added that the comments on regime change were in the 
 
-[^234] Campbell A & Hagerty B. The Alastair Campbell Diaries. Volume 4. The Burden of Power: Countdown 
-[^235] Campbell A & Hagerty B. The Alastair Campbell Diaries. Volume 4. The Burden of Power: Countdown 
-[^236] Telegram 73 FCO London to Madrid, 10 April 2002, ‘The Prime Minister’s Meeting with President Bush, 
+[^234]: Campbell A & Hagerty B. The Alastair Campbell Diaries. Volume 4. The Burden of Power: Countdown 
+[^235]: Campbell A & Hagerty B. The Alastair Campbell Diaries. Volume 4. The Burden of Power: Countdown 
+[^236]: Telegram 73 FCO London to Madrid, 10 April 2002, ‘The Prime Minister’s Meeting with President Bush, 
 5-7 April’.
 
 500
 
-The Report of the Iraq Inquirycontext of a need for the international community “to take action where we need to take 
+context of a need for the international community “to take action where we need to take 
 action, but you can’t do that just on the basis of the wish for regime change”.[^237] 
 
 622.  A brief account of the outcome of the visit was provided in a telegram from the 
@@ -5728,13 +5728,13 @@ adjournment. This was “quite a point of principle with many in the PLP”.
 would “greatly help in making the argument for military action if (as I suspect) 
 Iraq fails properly to comply”.
 
-[^237] Public hearing, 18 January 2010, pages 34-36.
-[^238] Telegram 73 FCO London to Madrid, 10 April 2002, ‘The Prime Minister’s Meeting with President Bush, 
+[^237]: Public hearing, 18 January 2010, pages 34-36.
+[^238]: Telegram 73 FCO London to Madrid, 10 April 2002, ‘The Prime Minister’s Meeting with President Bush, 
 5-7 April’. 
 
 501
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawford*  But it drew the UK and the US “inexorably into questions of cover in international 
+*  But it drew the UK and the US “inexorably into questions of cover in international 
 law for any such military action”. Lord Goldsmith had expressed “serious doubt” 
 that any existing resolution would provide “sufficient cover”.
 
@@ -5785,12 +5785,12 @@ not just about supporting our allies”; and
 those who refused to accept the need to act “misunderstand the nature of the 
 threat, or that they will simply refuse to accept any evidence they are given”. 
 
-[^239] Minute Straw to Prime Minister, 9 April 2002, ‘Your Commons’ Statement’.
-[^240] House of Commons, Official Report, 10 April 2002, columns 11-18.
+[^239]: Minute Straw to Prime Minister, 9 April 2002, ‘Your Commons’ Statement’.
+[^240]: House of Commons, Official Report, 10 April 2002, columns 11-18.
 
 502
 
-The Report of the Iraq Inquiry631.  In response, Mr Blair stated:
+631.  In response, Mr Blair stated:
 
 *  “The time for military action has not yet arisen. However, there is no doubt at 
 all that the development of weapons of mass destruction by Saddam Hussein 
@@ -5839,7 +5839,7 @@ comply with the resolutions.”
 
 503
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawford633.  Mr Blair’s subsequent statement to the House of Commons focused on the 
+633.  Mr Blair’s subsequent statement to the House of Commons focused on the 
 discussions with President Bush on the crisis in the Middle East. 
 
 634.  On Iraq, Mr Blair reiterated his statements that decisions would be 
@@ -5882,11 +5882,11 @@ Government are seeking to do so, there is a need for discernment. Many of us hop
 that the Government may be able to temper some of the ideas of the American 
 Administration …”
 
-[^241] House of Commons, Official Report, 10 April 2002, columns 22-38.
+[^241]: House of Commons, Official Report, 10 April 2002, columns 22-38.
 
 504
 
-The Report of the Iraq Inquiry639.  Mr Kennedy welcomed the fact that “if decisions on Iraq have to be reached at 
+639.  Mr Kennedy welcomed the fact that “if decisions on Iraq have to be reached at 
 some point in the future”, Mr Blair had confirmed the House of Commons would have 
 “an opportunity to debate the matter fully”. 
 
@@ -5936,7 +5936,7 @@ Mr Blair that he had taken “the thuggish young Vice-President of Iraq” [Sadd
 
 505
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawfordto the “French equivalent of Aldermaston”; and that it was to his (Mr Dalyell’s) discredit 
+to the “French equivalent of Aldermaston”; and that it was to his (Mr Dalyell’s) discredit 
 that he “like many others, turned a blind eye to the huge amount of arms being poured 
 into Iraq in the 1980s by our country and others”. He also stated that Iraq had been 
 given a “clean bill of health on nuclear capacity” by the International Atomic Energy 
@@ -5983,7 +5983,7 @@ of their own accord; the difficulty now is to get them back in.”
 
 506
 
-The Report of the Iraq Inquiry649.  Mr Blair replied:
+649.  Mr Blair replied:
 
 “Of course, the policy is to protect ourselves against weapons of mass destruction, 
 but obviously that cannot be divorced from the regime, because it is the regime that 
@@ -6079,11 +6079,11 @@ the international community if he were to abide by those resolutions.
 to take account of the concerns of the international community, including the 
 Secretary-General of the UN.
 
-[^242] Cabinet Conclusions, 11 April 2002. 
+[^242]: Cabinet Conclusions, 11 April 2002. 
 
 508
 
-The Report of the Iraq Inquiry*  The impact of events in the Middle East on attitudes among the ethnic minorities 
+*  The impact of events in the Middle East on attitudes among the ethnic minorities 
 in the UK, and the encouragement that could give to political extremists, should 
 not be under-estimated. 
 
@@ -6126,14 +6126,14 @@ direction of the United [Nations].” [^246]
 667.  Lord Wilson added that he did not think “anyone would have gone away thinking 
 they had authorised a course of action likely to lead to military action”.
 
-[^243] Statement, 14 January 2011, page 4.
-[^244] Public hearing, 21 January 2011, pages 13-14.
-[^245] Public hearing, 25 January 2011, pages 74-76.
-[^246] Public hearing, 25 January 2011, pages 75-76.
+[^243]: Statement, 14 January 2011, page 4.
+[^244]: Public hearing, 21 January 2011, pages 13-14.
+[^245]: Public hearing, 25 January 2011, pages 74-76.
+[^246]: Public hearing, 25 January 2011, pages 75-76.
 
 509
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawford668.  Mr Straw continued to make clear, as he had suggested in his letter of 
+668.  Mr Straw continued to make clear, as he had suggested in his letter of 
 25 March, that action in support of regime change in Iraq would be justified only 
 as a means to remove the threat from WMD.
 
@@ -6178,12 +6178,12 @@ decision to support regime change, though he was discreet about saying so
 in public. It would be fruitless to challenge a fixed … policy that had bipartisan 
 support in the US. It was hard to see how Saddam could be de-fanged without 
 
-[^247] Minute McDonald to [SIS10], 12 April 2002, ‘[Name of Operation]’.
-[^248] Meyer C. DC Confidential: The Controversial Memoirs of Britain’s Ambassador to the U.S. at the Time 
+[^247]: Minute McDonald to [SIS10], 12 April 2002, ‘[Name of Operation]’.
+[^248]: Meyer C. DC Confidential: The Controversial Memoirs of Britain’s Ambassador to the U.S. at the Time 
 
 510
 
-The Report of the Iraq Inquirybeing removed from power. Blair was also wedded to the proposition that, to have 
+being removed from power. Blair was also wedded to the proposition that, to have 
 influence in Washington, it was necessary to hug the Americans close …”
 
 675.  Sir Christopher wrote that “Support for regime change caused deep concern inside 
@@ -6228,12 +6228,12 @@ up its mind where it stood.”[^250]
 “I was aware of the theoretical option to promote regime change through the use 
 of force; but it was not until February or March 2002 that I heard that serious 
 
-[^249] Public hearing, 26 November 2009, pages 29-30.
-[^250] Public hearing, 26 November 2009, page 37.
+[^249]: Public hearing, 26 November 2009, pages 29-30.
+[^250]: Public hearing, 26 November 2009, page 37.
 
 511
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawfordpreparations might have begun in Washington for an attack on Iraq. Even 
+preparations might have begun in Washington for an attack on Iraq. Even 
 then I gave these relatively little credence … my conception of the difficulties 
 and downsides of taking on such a task outweighed my understanding of the 
 determination of the Bush Administration to undertake such an initiative.”[^251]
@@ -6277,14 +6277,14 @@ that disarmament might not be achieved through the UN route.
 “But I don’t think he felt … that these were moments of decision in February and 
 March before he went to Crawford. I think he saw that much more as an attempt 
 
-[^251] Statement, November 2009, page 5.
-[^252] Public hearing, 27 November 2009, pages 24-25.
-[^253] Public hearing, 30 November 2009, page 24
-[^254] Public hearing, 30 November 2009, page 58.
+[^251]: Statement, November 2009, page 5.
+[^252]: Public hearing, 27 November 2009, pages 24-25.
+[^253]: Public hearing, 30 November 2009, page 24
+[^254]: Public hearing, 30 November 2009, page 58.
 
 512
 
-The Report of the Iraq Inquiryto find out where the Americans had got to, but to impress on them his own 
+to find out where the Americans had got to, but to impress on them his own 
 conviction that we needed to ensure that inspections were continued.”[^255]
 
 685.  Asked whether the US had already changed tack, Sir David replied: 
@@ -6327,14 +6327,14 @@ that in turn was the best way of managing the Iraq crisis that had been given a 
 prominence by an American Administration that was no longer willing to settle for 
 containment.”[^258]
 
-[^255] Public hearing, 30 November 2009, pages 75-76.
-[^256] Public hearing, 30 November 2009, pages 76-77.
-[^257] Public hearing, 30 November 2009, page 78.
-[^258] Public hearing, 30 November 2009, pages 78-79.
+[^255]: Public hearing, 30 November 2009, pages 75-76.
+[^256]: Public hearing, 30 November 2009, pages 76-77.
+[^257]: Public hearing, 30 November 2009, page 78.
+[^258]: Public hearing, 30 November 2009, pages 78-79.
 
 513
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawford688.  Mr Campbell told the Inquiry that he disagreed with Sir Christopher Meyer’s 
+688.  Mr Campbell told the Inquiry that he disagreed with Sir Christopher Meyer’s 
 analysis that Mr Blair’s position had shifted from a policy of containment and 
 disarmament to one of regime change.[^259] He described Mr Blair’s policy, before 
 Crawford, at Crawford and afterwards as “to pursue disarmament of Saddam Hussein 
@@ -6373,14 +6373,14 @@ very strongly with him that we needed more time.”
 693.  Sir David added, “that’s what you are paid for”. Mr Blair had wanted to know what 
 he thought. 
 
-[^259] Public hearing, 12 January 2010, pages 22-23.
-[^260] Public hearing, 18 January 2010, page 67.
-[^261] Private hearing, 24 June 2010, page 30.
-[^262] Private hearing, 24 June 2010, page 29.
+[^259]: Public hearing, 12 January 2010, pages 22-23.
+[^260]: Public hearing, 18 January 2010, page 67.
+[^261]: Private hearing, 24 June 2010, page 30.
+[^262]: Private hearing, 24 June 2010, page 29.
 
 514
 
-The Report of the Iraq Inquiry694.  Asked about the rationale for focusing on Iraq first, Sir David responded that he 
+694.  Asked about the rationale for focusing on Iraq first, Sir David responded that he 
 thought there were a number of reasons. One was:
 
 “… that the Americans were determined to focus on it. We weren’t given a choice 
@@ -6424,14 +6424,14 @@ argument and didn’t hold it against you. But I think this is part of a deep co
 that there are moments when you can change things, you’ve got to have the 
 courage to do it, and he was up for that.”[^266]
 
-[^263] Private hearing, 24 June 2010, page 31.
-[^264] Private hearing, 24 June 2010, pages 32-33.
-[^265] Private hearing, 24 June 2010, pages 32-33.
-[^266] Private hearing, 24 June 2010, page 33.
+[^263]: Private hearing, 24 June 2010, page 31.
+[^264]: Private hearing, 24 June 2010, pages 32-33.
+[^265]: Private hearing, 24 June 2010, pages 32-33.
+[^266]: Private hearing, 24 June 2010, page 33.
 
 515
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawford698.  Sir David described Mr Blair’s objectives at Crawford as:
+698.  Sir David described Mr Blair’s objectives at Crawford as:
 
 “I think it was to find out where Bush was going [on Iraq] … What did Bush really 
 think and what were Bush’s intentions […]
@@ -6473,15 +6473,15 @@ determined by the policy over the coming months.”[^270]
 we were going to go down the military intervention route, then … the aftermath 
 would be many years.”[^271]
 
-[^267] Private hearing, 24 June 2010, pages 37-38.
-[^268] Private hearing, 24 June 2010, page 39.
-[^269] Private hearing, 24 June 2010, page 66.
-[^270] Private hearing, 10 September 2010, page 3.
-[^271] Private hearing, 10 September 2010, page 12.
+[^267]: Private hearing, 24 June 2010, pages 37-38.
+[^268]: Private hearing, 24 June 2010, page 39.
+[^269]: Private hearing, 24 June 2010, page 66.
+[^270]: Private hearing, 10 September 2010, page 3.
+[^271]: Private hearing, 10 September 2010, page 12.
 
 516
 
-The Report of the Iraq Inquiry704.  Mr Rycroft added that Mr Blair would have seen the advice he had received from 
+704.  Mr Rycroft added that Mr Blair would have seen the advice he had received from 
 the Defence and Foreign Secretaries as “caution verging on sort of unnecessarily 
 pessimistic”.[^272]
 
@@ -6524,16 +6524,16 @@ other option is regime change.”[^277]
 of the discussion that was going on in Cabinet. Now you can say, and I would be 
 perfectly happy if you did say, look it is better to disclose all those or give everybody 
 
-[^272] Private hearing, 10 September 2010, pages 12-13.
-[^273] Public hearing, 29 January 2010, page 14.
-[^274] Public hearing, 29 January 2010, pages 18-19.
-[^275] Public hearing, 29 January 2010, pages 21-22.
-[^276] Public hearing, 29 January 2010, page 23.
-[^277] Public hearing, 21 January 2011, page 12.
+[^272]: Private hearing, 10 September 2010, pages 12-13.
+[^273]: Public hearing, 29 January 2010, page 14.
+[^274]: Public hearing, 29 January 2010, pages 18-19.
+[^275]: Public hearing, 29 January 2010, pages 21-22.
+[^276]: Public hearing, 29 January 2010, page 23.
+[^277]: Public hearing, 21 January 2011, page 12.
 
 517
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawforda copy of those papers. I certainly didn’t say they shouldn’t be, but the content of 
+a copy of those papers. I certainly didn’t say they shouldn’t be, but the content of 
 those papers, that is something that was very, very adequately discussed and the 
 issue was clear in the end. There was not a great dispute about what we thought 
 about the facts. The facts were he is continuing to develop WMD. He has the 
@@ -6576,15 +6576,15 @@ Minister and the President of the US and being able to discuss what the issues w
 “in a very frank way”. His conversation with President Bush had been “less to do with 
 the specifics about what we were going to do on Iraq” or the Middle East. The principal 
 
-[^278] Public hearing, 29 January 2010, page 38.
-[^279] Blair T. A Journey. Hutchinson, 2010.
-[^280] Public hearing, 29 January 2010, pages 36-37.
-[^281] Public hearing, 29 January 2010, page 25.
-[^282] Public hearing, 29 January 2010, page 40.
+[^278]: Public hearing, 29 January 2010, page 38.
+[^279]: Blair T. A Journey. Hutchinson, 2010.
+[^280]: Public hearing, 29 January 2010, pages 36-37.
+[^281]: Public hearing, 29 January 2010, page 25.
+[^282]: Public hearing, 29 January 2010, page 40.
 
 518
 
-The Report of the Iraq Inquirypart of the conversation had been about his view that “dealing with the various different 
+part of the conversation had been about his view that “dealing with the various different 
 dimensions” of the “whole issue … to do with unrepresentative extremism within Islam in 
 a different way”. He “wanted to persuade President Bush, but also get a sense from him 
 where he was on that broader issue”.[^283]
@@ -6623,15 +6623,15 @@ with Saddam several times … the fact is that force was always an option. What
 changed after September 11 was this, if necessary, and there was no other way of 
 dealing with this threat, we were going to remove him.”[^287] 
 
-[^283] Public hearing, 29 January 2010, pages 40-41.
-[^284] Public hearing, 29 January 2010, page 42.
-[^285] Public hearing, 29 January 2010, pages 42-43.
-[^286] Public hearing, 29 January 2010, pages 43-44.
-[^287] Public hearing, 29 January 2010, pages 47-48.
+[^283]: Public hearing, 29 January 2010, pages 40-41.
+[^284]: Public hearing, 29 January 2010, page 42.
+[^285]: Public hearing, 29 January 2010, pages 42-43.
+[^286]: Public hearing, 29 January 2010, pages 43-44.
+[^287]: Public hearing, 29 January 2010, pages 47-48.
 
 519
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawford722.  Asked whether the commitment had been given for tactical reasons, 
+722.  Asked whether the commitment had been given for tactical reasons, 
 Mr Blair replied:
 
 “It wasn’t so much for tactical reasons … I believed if you wanted to make a real 
@@ -6673,15 +6673,15 @@ on you did not defy the international community on WMD.” [^291]
 726.  Mr Blair added that when a regime was brutal and oppressive it was a bigger threat 
 when it possessed WMD than “otherwise benign” regimes.[^292] 
 
-[^288] Public hearing, 29 January 2010, pages 48-49.
-[^289] Public hearing, 29 January 2010, page 50.
-[^290] Public hearing, 29 January 2010, page 50.
-[^291] Public hearing, 29 January 2010, pages 27-28.
-[^292] Public hearing, 29 January 2010, page 29.
+[^288]: Public hearing, 29 January 2010, pages 48-49.
+[^289]: Public hearing, 29 January 2010, page 50.
+[^290]: Public hearing, 29 January 2010, page 50.
+[^291]: Public hearing, 29 January 2010, pages 27-28.
+[^292]: Public hearing, 29 January 2010, page 29.
 
 520
 
-The Report of the Iraq Inquiry727.  Mr Blair said that Iraq posed a “conjoined” threat, “it was an appalling regime and 
+727.  Mr Blair said that Iraq posed a “conjoined” threat, “it was an appalling regime and 
 we couldn’t run the risk of such a regime being allowed to develop WMD”.[^293]
 
 728.  Mr Blair told the Inquiry that the American position, after the passage of the Iraq 
@@ -6726,13 +6726,13 @@ concerned, a vital strategic asset for Britain.
 that did see us genuinely as at war together, with a common interest in a successful 
 outcome … our job as an ally … should be to be with them in their hour of need. 
 
-[^293] Public hearing, 29 January 2010, page 35.
-[^294] Public hearing, 29 January 2010, page 36.
-[^295] Blair T. A Journey. Hutchinson, 2010. 
+[^293]: Public hearing, 29 January 2010, page 35.
+[^294]: Public hearing, 29 January 2010, page 36.
+[^295]: Blair T. A Journey. Hutchinson, 2010. 
 
 521
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to CrawfordI know all this can be made to sound corny or even … self-deceiving in terms of our 
+I know all this can be made to sound corny or even … self-deceiving in terms of our 
 effect on US decision-making. I was well aware that ultimately the US would take its 
 own decisions in its own interests. But I was also aware that … Britain and Europe 
 were going to face a much more uncertain future without America … our alliance 
@@ -6776,12 +6776,12 @@ direction in which policy should go.” [^297]
 about the nature of the Saddam government, its risk to security and also the 
 wider problems of the region. My concern then and subsequently was to locate 
 
-[^296] Blair T. A Journey. Hutchinson, 2010. 
-[^297] Blair T. A Journey. Hutchinson, 2010. 
+[^296]: Blair T. A Journey. Hutchinson, 2010. 
+[^297]: Blair T. A Journey. Hutchinson, 2010. 
 
 522
 
-The Report of the Iraq Inquirythe question of Saddam in the broader context of the Middle East as a region in 
+the question of Saddam in the broader context of the Middle East as a region in 
 transition. Even then, though less clearly than today, I saw the disparate issues 
 as essentially part of the same picture. Therefore I made a major part of my pitch 
 to George the issue of the Israeli-Palestine peace process. To me this was the 
@@ -6826,12 +6826,12 @@ of political pressure, i.e. I was going to be steadfast as an ally … I sent th
 both because I believed in the substance and because we would be right alongside 
 the US thinking from the outset.
 
-[^298] Blair T. A Journey. Hutchinson, 2010.
-[^299] Inquiry request for a witness statement, 13 December 2010, Q2 page 1.
+[^298]: Blair T. A Journey. Hutchinson, 2010.
+[^299]: Inquiry request for a witness statement, 13 December 2010, Q2 page 1.
 
 523
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawford“My public pronouncements – especially at Crawford … and in the speech the next 
+“My public pronouncements – especially at Crawford … and in the speech the next 
 day, could have left no-one in any doubt as to my position.”[^300] 
 
 735.  In his statement, Mr Blair wrote that there had been “a full Cabinet discussion” after 
@@ -6873,13 +6873,13 @@ to remove Saddam Hussein.
 2002, Mr Blair and Mr Straw set out the view that Iraq was a threat which had to 
 be dealt with. 
 
-[^300] Statement, 14 January 2011, pages 3-4.
-[^301] Statement, 14 January 2011, page 4.
-[^302] Public hearing, 21 January 2011, page 8.
+[^300]: Statement, 14 January 2011, pages 3-4.
+[^301]: Statement, 14 January 2011, page 4.
+[^302]: Public hearing, 21 January 2011, page 8.
 
 524
 
-The Report of the Iraq Inquiry742.  Iraq needed to disarm or be disarmed in accordance with the obligations 
+742.  Iraq needed to disarm or be disarmed in accordance with the obligations 
 imposed by the UN; and that it was important to agree to the return of UN 
 inspectors to Iraq. 
 
@@ -6929,7 +6929,7 @@ for action (see Section 3.3).
 
 525
 
-3.2 | Development of UK strategy and options, January to April 2002 – “axis of evil” to Crawford753.  Following his meeting with President Bush, Mr Blair stated that Saddam 
+753.  Following his meeting with President Bush, Mr Blair stated that Saddam 
 Hussein had to be confronted and brought back into compliance with the UN.
 
 754.  The statements made in public by Mr Blair clearly implied the use of force 

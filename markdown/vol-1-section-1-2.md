@@ -51,7 +51,7 @@ concluded in July 2004 that there was a “progressive reduction” in the Joint
 Committee’s (JIC’s) estimates of Iraq’s capabilities in the period to 1994/1995 but 
 “growing suspicions and concerns” between 1995 and 1998.1 Those suspicions and 
 
-[^1]  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898.
+[^1]:  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898.
 
 188
 
@@ -98,8 +98,8 @@ divisions among the Permanent Five[^3]…
 as regarding the United Nations as unable to deal with the threat in a way which was 
 required. 
 
-[^2] Statement, 20 November 2009, page 2.
-[^3] The five Permanent Members of the UN Security Council – China, France, Russia, the UK and the US. 
+[^2]: Statement, 20 November 2009, page 2.
+[^3]: The five Permanent Members of the UN Security Council – China, France, Russia, the UK and the US. 
 
 189
 
@@ -142,14 +142,14 @@ weapons inspectors on the ground in Iraq and “with a collapse in international
 enforce, or even merely to sustain, a sanctions regime, ‘containing’ the Iraqi regime 
 became a challenge”.[^7]
 
-[^4] Public hearing, 27 November 2009, pages 4-7.
-[^5] Public hearing, 19 January 2010, pages 6-7.
-[^6] Public hearing, 24 November 2009, pages 18 and 160.
-[^7] Statement, 4 May 2011, pages 1-2. 
+[^4]: Public hearing, 27 November 2009, pages 4-7.
+[^5]: Public hearing, 19 January 2010, pages 6-7.
+[^6]: Public hearing, 24 November 2009, pages 18 and 160.
+[^7]: Statement, 4 May 2011, pages 1-2. 
 
 190
 
-The Report of the Iraq Inquiry1.2  |  Development of UK strategy and options, September 2000 to September 2001
+
 
 The Inquiry asked Sir William Patey why it appeared that the countries neighbouring Iraq 
 were becoming less concerned about the threat from Iraq and more willing to allow trade 
@@ -167,7 +167,7 @@ unaware of the threat.”
 
 Sir William also told the Inquiry that the complexity of the sanctions regime itself, 
 including the Oil-for-Food (OFF) programme, meant that Iraq was able to evade the 
-controls.9
+controls.[^9]
 While sanctions on civilian trade were eroding, the UK assessed that the arms embargo 
 on Iraq remained broadly effective. 
 Mr Simon Webb, MOD Director General Operational Policy from July 1999 to September 
@@ -186,10 +186,10 @@ the Inquiry:
 “While there were serious sanctions breaches, it was not the UK judgement that 
 these permitted significant rearmament, which was our major concern.”[^11]
 
-[^8] Public hearing, 24 November 2009, pages 42-43.
-[^9] Public hearing, 24 November 2009, page 160.
-[^10] Public hearing, 24 November 2009, page 19. 
-[^11] Statement, 12 July 2010, page 2.
+[^8]: Public hearing, 24 November 2009, pages 42-43.
+[^9]: Public hearing, 24 November 2009, page 160.
+[^10]: Public hearing, 24 November 2009, page 19. 
+[^11]: Statement, 12 July 2010, page 2.
 
 191
 
@@ -231,15 +231,15 @@ stem the flow of non-approved flights to Iraq. Above all, we must resist a resum
 of commercial flights which would be a far greater challenge to our position and to 
 the sanctions regime than the present flurry of non-commercial flights.”[^16]
 
-[^12] Joint Memorandum Secretary of State for Foreign and Commonwealth Affairs and the Secretary of State 
-[^13] JIC Assessment, 19 April 2000, ‘Iraq: Chemical and Biological Weapons Programmes’. 
-[^14] JIC Assessment, 28 June 2000, ‘Iraq: No let up in the No-Fly Zones’.
-[^15] Minute FCO [junior official] to PS [FCO], 22 September 2000, ‘Iraq: French Flight’. 
-[^16] Telegram FCO London to Moscow, 3 October 2000, ‘Iraq: Flights’. 
+[^12]: Joint Memorandum Secretary of State for Foreign and Commonwealth Affairs and the Secretary of State 
+[^13]: JIC Assessment, 19 April 2000, ‘Iraq: Chemical and Biological Weapons Programmes’. 
+[^14]: JIC Assessment, 28 June 2000, ‘Iraq: No let up in the No-Fly Zones’.
+[^15]: Minute FCO [junior official] to PS [FCO], 22 September 2000, ‘Iraq: French Flight’. 
+[^16]: Telegram FCO London to Moscow, 3 October 2000, ‘Iraq: Flights’. 
 
 192
 
-The Report of the Iraq Inquiry1.2  |  Development of UK strategy and options, September 2000 to September 2001
+
 
 Challenges to the ban on air travel 
 
@@ -283,10 +283,10 @@ discussions with a new US Administration, the UK reviewed its policy on Iraq.
 (OD Sec) in the Cabinet Office from September 1999 to September 2002, described  
 in his statement to the Inquiry how:
 
-[^17] Minute FCO [junior official] to PS [FCO], 8 February 2001, ‘Iraq: UK/French Summit: Briefing for 
-[^18] Minute FCO [junior official] to PS [FCO], 22 September 2000, ‘Iraq: French Flight’. 
-[^19] Minute FCO [junior official] to PS [FCO], 8 February 2001, ‘Iraq: UK/French Summit: Briefing for 
-[^20] Statement, 4 May 2011, page 3. 
+[^17]: Minute FCO [junior official] to PS [FCO], 8 February 2001, ‘Iraq: UK/French Summit: Briefing for 
+[^18]: Minute FCO [junior official] to PS [FCO], 22 September 2000, ‘Iraq: French Flight’. 
+[^19]: Minute FCO [junior official] to PS [FCO], 8 February 2001, ‘Iraq: UK/French Summit: Briefing for 
+[^20]: Statement, 4 May 2011, page 3. 
 
 193
 
@@ -334,14 +334,14 @@ vulnerability we faced in terms of the monitoring of the No-Fly Zones.”[^24]
 “The reason, in 2001, that people were looking at smart sanctions was because 
 sanctions weren’t working. They were hurting the wrong people. People were really 
 
-[^21] Statement, 8 December 2010, page 2.
-[^22] Public hearing, 24 November 2009, page 13.
-[^23] Public hearing, 24 November 2009, pages 14-15.
-[^24] Public hearing, 10 December 2009, page 22.
+[^21]: Statement, 8 December 2010, page 2.
+[^22]: Public hearing, 24 November 2009, page 13.
+[^23]: Public hearing, 24 November 2009, pages 14-15.
+[^24]: Public hearing, 10 December 2009, page 22.
 
 194
 
-The Report of the Iraq Inquiry1.2  |  Development of UK strategy and options, September 2000 to September 2001
+
 
 suffering in Iraq as a result. Saddam was cheating and getting what he needed out 
 of it [the sanctions regime]. Support for sanctions was disappearing. There was no 
@@ -384,10 +384,10 @@ sanctions as long as Saddam remains in power” and that there was a “percepti
 the US is less than wholly committed to implementation of SCR 1284 and the concept of 
 suspension of sanctions, thus undermining the credibility of the approach”.
 
-[^25] Public hearing, 18 January 2010, page 21.
-[^26] Letter McKane to Goulty, 29 September 2000, ‘Iraq’.
-[^27] JIC Assessment, 11 October 2000, ‘Iraq After Saddam’.
-[^28] Letter Goulty to McKane, 20 October 2000, ‘Iraq’, attaching Paper [draft], [undated], ‘Iraq: Future 
+[^25]: Public hearing, 18 January 2010, page 21.
+[^26]: Letter McKane to Goulty, 29 September 2000, ‘Iraq’.
+[^27]: JIC Assessment, 11 October 2000, ‘Iraq After Saddam’.
+[^28]: Letter Goulty to McKane, 20 October 2000, ‘Iraq’, attaching Paper [draft], [undated], ‘Iraq: Future 
 
 195
 
@@ -440,7 +440,7 @@ level of confrontation was maintained; that we had other means of monitoring the
 
 196
 
-The Report of the Iraq Inquiry1.2  |  Development of UK strategy and options, September 2000 to September 2001
+
 
 situation on the ground; and that, in the event of evidence of renewed oppression 
 of the Shia, we would resume patrolling (although, in reality, this is most unlikely). 
@@ -485,9 +485,9 @@ such as abolishing the ceiling on approved oil exports and increasing the humani
 programme, had been implemented. But Iraq continued publicly to reject the resolution 
 and UNMOVIC. Unless UNMOVIC inspectors were allowed into Iraq, there could be no 
 
-[^29] Letter Webb to McKane, 30 October 2000, ‘Iraq’. 
-[^30] Letter McKane to Goulty, 31 October 2000, ‘Iraq: Future Strategy’. 
-[^31] JIC Assessment, 1 November 2000, ‘Iraq: Prospects for Co-operation with UNSCR 1284’.
+[^29]: Letter Webb to McKane, 30 October 2000, ‘Iraq’. 
+[^30]: Letter McKane to Goulty, 31 October 2000, ‘Iraq: Future Strategy’. 
+[^31]: JIC Assessment, 1 November 2000, ‘Iraq: Prospects for Co-operation with UNSCR 1284’.
 
 197
 
@@ -544,11 +544,11 @@ chemical weapons against his own people.”[^32]
 40.  The US Presidential election was held on 7 November. The result was not declared 
 until 12 December, after a recount in Florida. 
 
-[^32] House of Commons, Official Report, 1 November 2000, column 511W.
+[^32]: House of Commons, Official Report, 1 November 2000, column 511W.
 
 198
 
-The Report of the Iraq Inquiry1.2  |  Development of UK strategy and options, September 2000 to September 2001
+
 
 41.  Mr Goulty sent a revised paper, entitled ‘Iraq: Options Paper’, to Mr McKane on 
 15 November.[^33] 
@@ -597,8 +597,8 @@ later there will be an UNSCOM-style [UN Special Commission] confrontation. Unles
 we want to leave Saddam’s finger on the trigger, we should not regard UNMOVIC as 
 a long-term solution.”
 
-[^33] Letter Goulty to McKane, 15 November 2000, ‘Iraq’ attaching Paper, [undated], ‘Iraq: Options Paper’.
-[^34] Letter McKane to Goulty, 20 November 2000, ‘Iraq: Future Strategy’.
+[^33]: Letter Goulty to McKane, 15 November 2000, ‘Iraq’ attaching Paper, [undated], ‘Iraq: Options Paper’.
+[^34]: Letter McKane to Goulty, 20 November 2000, ‘Iraq: Future Strategy’.
 
 199
 
@@ -654,11 +654,11 @@ crisis in Israel continues …”
 
 *  Relations between Iraq and Iran were “unlikely to change dramatically”. 
 
-[^35] JIC Assessment, 23 November 2000, ‘Iraq: Regional Rapprochement’. 
+[^35]: JIC Assessment, 23 November 2000, ‘Iraq: Regional Rapprochement’. 
 
 200
 
-The Report of the Iraq Inquiry1.2  |  Development of UK strategy and options, September 2000 to September 2001
+
 
 51.  The JIC stated that “Arab rapprochement with Iraq” was “being driven by trade 
 and political factors over which the UK has little or no control”. The implication of that 
@@ -709,7 +709,7 @@ cons of all the options.”
 “My own view is that we ought to use the arrival of a new Administration to put Iraq 
 policy on a more sustainable footing. We do not want Saddam to develop WMD or 
 
-[^36] Minute Sawers to Prime Minister, 24 November 2000, ‘Iraq’.
+[^36]: Minute Sawers to Prime Minister, 24 November 2000, ‘Iraq’.
 
 201
 
@@ -756,14 +756,14 @@ the Cabinet Secretary, and to Mr McKane.
 62.  Mr Sawers described Mr Blair as feeling “uncomfortably positioned on Iraq policy  
 at present”, and continued:
 
-[^37] Public hearing, 10 December 2009, page 16. 
-[^38] Manuscript comment Blair on Minute Sawers to Prime Minister, 24 November 2000, ‘Iraq’. 
-[^39] Minute McKane to Sawers, 27 November 2000, ‘Iraq’.
-[^40] Letter Sawers to Cowper-Coles, 27 November 2000, ‘Iraq’.
+[^37]: Public hearing, 10 December 2009, page 16. 
+[^38]: Manuscript comment Blair on Minute Sawers to Prime Minister, 24 November 2000, ‘Iraq’. 
+[^39]: Minute McKane to Sawers, 27 November 2000, ‘Iraq’.
+[^40]: Letter Sawers to Cowper-Coles, 27 November 2000, ‘Iraq’.
 
 202
 
-The Report of the Iraq Inquiry1.2  |  Development of UK strategy and options, September 2000 to September 2001
+
 
 “The preferred option by far would be to implement SCR 1284, enabling the inspectors 
 to return and sanctions to be suspended. But there does not seem to be much 
@@ -817,7 +817,7 @@ This is unlikely while Saddam remains in power. But if it happened, it would tak
 several years at least before Iraq’s capabilities increased to a level which would 
 alter significantly the military balance in the region.”
 
-[^41] JIC Assessment, 1 December 2000, ‘Iraq’s Military Capabilities’.
+[^41]: JIC Assessment, 1 December 2000, ‘Iraq’s Military Capabilities’.
 
 203
 
@@ -865,12 +865,12 @@ the “ambiguities” in resolution 1284, in particular those concerning the pro
 lifting sanctions. The timing was not ideal (between US Administrations), but a package 
 that had the support of the P5 would be hard for Iraq to ignore. Reaching agreement 
 
-[^42] Public hearing, 26 November 2009, pages 4-5.
-[^43] Letter Barrow to Sawers, 15 December 2000, ‘Iraq’.
+[^42]: Public hearing, 26 November 2009, pages 4-5.
+[^43]: Letter Barrow to Sawers, 15 December 2000, ‘Iraq’.
 
 204
 
-The Report of the Iraq Inquiry1.2  |  Development of UK strategy and options, September 2000 to September 2001
+
 
 within the P5 on a package of measures would “require some painful adjustments for 
 ourselves and, even more so, for the Americans”. 
@@ -916,8 +916,8 @@ priorities for the incoming Bush Administration.[^45]
 tougher action on Iraq since 1998. Some of those politicians became senior members  
 of President Bush’s team. 
 
-[^44] Public hearing, 12 July 2010, pages 35-36.
-[^45] Woodward B. Plan of Attack. Simon & Schuster UK, 2004; Haass RN. War of Necessity, 
+[^44]: Public hearing, 12 July 2010, pages 35-36.
+[^45]: Woodward B. Plan of Attack. Simon & Schuster UK, 2004; Haass RN. War of Necessity, 
 
 205
 
@@ -960,17 +960,17 @@ approach to promoting them.[^51] The UK’s interests included:
 
 resolutions and non-proliferation;
 
-[^46] Public hearing, 24 November 2009, pages 26-27.
-[^47] Public hearing, 24 November 2009, page 28.
-[^48] Statement, 27 November 2009, page 4.
-[^49] Meyer C. DC Confidential: The Controversial Memoirs of Britain’s Ambassador to the US at the Time of 
+[^46]: Public hearing, 24 November 2009, pages 26-27.
+[^47]: Public hearing, 24 November 2009, page 28.
+[^48]: Statement, 27 November 2009, page 4.
+[^49]: Meyer C. DC Confidential: The Controversial Memoirs of Britain’s Ambassador to the US at the Time of 
 9/11 and the Run-up to the Iraq War. Phoenix, 2006.
-[^50] Public hearing, 10 December 2009, pages 5-6.
-[^51] Paper FCO, January 2001, ‘Iraq: A Fresh Look at UK Interests’. 
+[^50]: Public hearing, 10 December 2009, pages 5-6.
+[^51]: Paper FCO, January 2001, ‘Iraq: A Fresh Look at UK Interests’. 
 
 206
 
-The Report of the Iraq Inquiry1.2  |  Development of UK strategy and options, September 2000 to September 2001
+
 
 84.  The paper identified the UK’s aims for Iraq and the Gulf Region and concluded  
 that a number of them were “unachievable” while Saddam Hussein’s regime remained  
@@ -1013,9 +1013,9 @@ working intensively to put up advice on policy options.[^54] Mr Donald Rumsfeld,
 US Defense Secretary, and his Deputy, Mr Paul Wolfowitz, would incline towards more 
 vigorous action to topple Saddam Hussein. 
 
-[^52] Letter FCO [junior official] to Pattison, 29 January 2001, ‘UN Issues: Sir Jeremy Greenstock’s Call on 
-[^53] Telegram 115 Washington to FCO London, 2 February 2001, ‘Your Visit to Washington: Key Issues’. 
-[^54] Telegram 117 Washington to FCO London, 1 February 2001, ‘Your Visit to Washington: Iraq’. 
+[^52]: Letter FCO [junior official] to Pattison, 29 January 2001, ‘UN Issues: Sir Jeremy Greenstock’s Call on 
+[^53]: Telegram 115 Washington to FCO London, 2 February 2001, ‘Your Visit to Washington: Key Issues’. 
+[^54]: Telegram 117 Washington to FCO London, 1 February 2001, ‘Your Visit to Washington: Iraq’. 
 
 207
 
@@ -1060,16 +1060,16 @@ integrated approach” which offered “additional lures to Iraq to comply with 
 1284”, but also increased “the cost to the regime of not doing so”, while “getting the 
 Security Council back on the moral high ground”. 
 
-[^55] Telegram 121 Washington to FCO London, 3 February 2001, ‘Your Visit to Washington: Iraq’; Telegram 
+[^55]: Telegram 121 Washington to FCO London, 3 February 2001, ‘Your Visit to Washington: Iraq’; Telegram 
 117 Washington to FCO London, 1 February 2001, ‘Your Visit to Washington: Iraq’. 
-[^56] Minute FCO [junior official] to PS [FCO], 2 February 2001, ‘Iraq: Secretary of State’s Visit to Washington: 
+[^56]: Minute FCO [junior official] to PS [FCO], 2 February 2001, ‘Iraq: Secretary of State’s Visit to Washington: 
 5-7 February 2001’ attaching Brief FCO, [undated], ‘Iraq: Secretary of State’s Visit to Washington: 
 5-7 February 2001’.
-[^57] Minute Westmacott to Private Secretary [FCO], 5 February 2001, ‘Visit to Washington: Iraq’, attaching 
+[^57]: Minute Westmacott to Private Secretary [FCO], 5 February 2001, ‘Visit to Washington: Iraq’, attaching 
 
 208
 
-The Report of the Iraq Inquiry1.2  |  Development of UK strategy and options, September 2000 to September 2001
+
 
 97.  Devising such a package should allow P5 unity to be restored, but was likely to 
 mean persuading the US “that some of their ideas for punishing/over-throwing Saddam 
@@ -1119,7 +1119,7 @@ US taking a less restrictive approach on contract “holds”;
 
 reconstruction of Iraqi infrastructure, in particular the oil industry;
 
-[^58] Letter Gooderham to Westmacott, 5 February 2001, ‘Iraq: Policy Review: Foreign Secretary’s Visit’.
+[^58]: Letter Gooderham to Westmacott, 5 February 2001, ‘Iraq: Policy Review: Foreign Secretary’s Visit’.
 
 209
 
@@ -1164,13 +1164,13 @@ return, we must bring smuggling under control, in particular by bringing the Tur
 within Oil-for-Food.” Mr Cook pointed out that the US would have to “reduce drastically” 
 the number of holds it had placed on Iraqi contracts. 
 
-[^59] Manuscript comment Kerr on Letter Gooderham to Westmacott, 5 February 2001, ‘Iraq: Policy Review: 
-[^60] Public hearing, 24 November 2009, page 27. 
-[^61] Telegram 126 Washington to FCO London, 7 February 2001, ‘Foreign Secretary’s Meeting with Colin 
+[^59]: Manuscript comment Kerr on Letter Gooderham to Westmacott, 5 February 2001, ‘Iraq: Policy Review: 
+[^60]: Public hearing, 24 November 2009, page 27. 
+[^61]: Telegram 126 Washington to FCO London, 7 February 2001, ‘Foreign Secretary’s Meeting with Colin 
 
 210
 
-The Report of the Iraq Inquiry1.2  |  Development of UK strategy and options, September 2000 to September 2001
+
 
 107.  Mr Cook stated that re-establishing inspections “should not be a test of the success 
 of our policy, as this would require Saddam’s agreement”. 
@@ -1207,13 +1207,13 @@ as “useless”.[^65]
 116.  In their meeting, Mr Cook encouraged Mr Vedrine to work with the US and the UK 
 on Iraq.[^66] 
 
-[^62] Telegram 135 Washington to FCO London, 7 February 2001, ‘Meeting with Vice President Cheney,  
+[^62]: Telegram 135 Washington to FCO London, 7 February 2001, ‘Meeting with Vice President Cheney,  
 6 February’. 
-[^63] Cabinet Conclusions, 8 February 2001. 
-[^64] Letter Sedwill to Sawers, 8 February 2001, ‘UK/French Summit, Cahors: Iraq’. 
-[^65] Minute FCO [junior official] to PS [FCO], 8 February 2001, ‘Iraq: UK/French Summit: Briefing for 
+[^63]: Cabinet Conclusions, 8 February 2001. 
+[^64]: Letter Sedwill to Sawers, 8 February 2001, ‘UK/French Summit, Cahors: Iraq’. 
+[^65]: Minute FCO [junior official] to PS [FCO], 8 February 2001, ‘Iraq: UK/French Summit: Briefing for 
 9 February’. 
-[^66] Telegram 036 FCO London to Paris, 9 February 2001, ‘Foreign Secretary’s Tete-a-Tete with French 
+[^66]: Telegram 036 FCO London to Paris, 9 February 2001, ‘Foreign Secretary’s Tete-a-Tete with French 
 
 211
 
@@ -1267,14 +1267,14 @@ where civilian casualties were expected.[^69] By March 2001, UK forces no longer
 delegated authority in cases where the risk of collateral damage to civilian buildings was 
 considered higher than “low”.[^70]
 
-[^67] Telegram 69 FCO London to Washington, 12 February 2001, ‘Foreign Secretary’s Telephone 
-[^68] Email SEC(O)1-S to PS/Hd of MoDLA-S, 9 July 2001, ‘ROs’. 
-[^69] Letter Hemming to Brummell, 19 December 2001, ‘Iraq NFZs: Response Option Triggers’. 
-[^70] Letter Hemming to Berman, 6 March 2001, ‘Iraq – RO5 Target’. 
+[^67]: Telegram 69 FCO London to Washington, 12 February 2001, ‘Foreign Secretary’s Telephone 
+[^68]: Email SEC(O)1-S to PS/Hd of MoDLA-S, 9 July 2001, ‘ROs’. 
+[^69]: Letter Hemming to Brummell, 19 December 2001, ‘Iraq NFZs: Response Option Triggers’. 
+[^70]: Letter Hemming to Berman, 6 March 2001, ‘Iraq – RO5 Target’. 
 
 212
 
-The Report of the Iraq Inquiry1.2  |  Development of UK strategy and options, September 2000 to September 2001
+
 
 120.  Sir Christopher Meyer told the Inquiry that, throughout 2000, concern grew about 
 how long the NFZs could legally be sustained and about how to respond if an aircraft 
@@ -1323,8 +1323,8 @@ questions.
 124.  On 21 December, Lord Williams’ Private Office wrote to Mr Patey asking for further 
 information and clarification on a number of points relating to the situation in the areas 
 
-[^71] Public hearing, 26 November 2009, pages 19-20.
-[^72] JIC Assessment, 13 December 2000, ‘Impact of the NFZs on Iraqi Persecution’. 
+[^71]: Public hearing, 26 November 2009, pages 19-20.
+[^72]: JIC Assessment, 13 December 2000, ‘Impact of the NFZs on Iraqi Persecution’. 
 
 213
 
@@ -1370,15 +1370,15 @@ the Kurdish area … would be very difficult for the British Government to ignor
 interests … are likely to argue strongly in favour of a response. This would however 
 depend to a large extent on the circumstances …”
 
-[^73] Letter Berman to Patey, 21 December 2000, ‘Iraq: No Fly Zones’. 
-[^74] Letter Webb to McKane, 11 January 2001, ‘Iraq: Future Military Options’ attaching Paper MOD, 
+[^73]: Letter Berman to Patey, 21 December 2000, ‘Iraq: No Fly Zones’. 
+[^74]: Letter Webb to McKane, 11 January 2001, ‘Iraq: Future Military Options’ attaching Paper MOD, 
 11 January 2001, ‘Containing Iraq: Future Military Options’.
-[^75] Letter McKane to Goulty, 17 January 2001, ‘Iraq’; Brummell to McKane, 22 January 2001, ‘Iraq’.
-[^76] Letter Patey to Berman, 29 January 2001, ‘Iraq: No-Fly Zones’. 
+[^75]: Letter McKane to Goulty, 17 January 2001, ‘Iraq’; Brummell to McKane, 22 January 2001, ‘Iraq’.
+[^76]: Letter Patey to Berman, 29 January 2001, ‘Iraq: No-Fly Zones’. 
 
 214
 
-The Report of the Iraq Inquiry1.2  |  Development of UK strategy and options, September 2000 to September 2001
+
 
 130.  The detailed work on whether there were alternative means of achieving UK 
 objectives in the NFZs, which had been undertaken in early 2000 and endorsed by 
@@ -1424,7 +1424,7 @@ north. A UK tanker would be used to refuel US aircraft.
 system (IADS), to provide secure links between early warning radars outside the 
 southern NFZ and missile and anti-aircraft artillery batteries within the NFZ, could  
 
-[^77] Minute FCO [junior official] to PS [FCO], 30 January 2001, ‘Iraq: No Fly Zones; Proposed RO 4’. 
+[^77]: Minute FCO [junior official] to PS [FCO], 30 January 2001, ‘Iraq: No Fly Zones; Proposed RO 4’. 
 
 215
 
@@ -1468,13 +1468,13 @@ assurance, the Attorney General would not have felt able to advise as …
 above. If that assurance no longer holds firm, he declines to approve  
 the target.”
 
-[^78] Public hearing, 24 November 2009, page 141.
-[^79] Letter Brummell to Hemming, 30 January 2001, ‘Iraq: Target’. 
-[^80] Letter Brummell to Hemming, 30 January 2001, ‘Iraq: Target’. 
+[^78]: Public hearing, 24 November 2009, page 141.
+[^79]: Letter Brummell to Hemming, 30 January 2001, ‘Iraq: Target’. 
+[^80]: Letter Brummell to Hemming, 30 January 2001, ‘Iraq: Target’. 
 
 216
 
-The Report of the Iraq Inquiry1.2  |  Development of UK strategy and options, September 2000 to September 2001
+
 
 140.  Mr Patey responded to Mr Brummell the following day, stating:
 
@@ -1521,8 +1521,8 @@ the target, and the SofS [Secretary of State] would get the removal of the risk 
 just as he has his first meeting with [Secretary] Powell, politico-military Washington 
 believes the UK has gone soft on Iraq.” 
 
-[^81] Letter Patey to Brummell, 31 January 2001, [untitled]. 
-[^82] Minute Goulty to PS/PUS [FCO] and PS [FCO], 1 February 2001, ‘Iraq: Southern No Fly Zone’.
+[^81]: Letter Patey to Brummell, 31 January 2001, [untitled]. 
+[^82]: Minute Goulty to PS/PUS [FCO] and PS [FCO], 1 February 2001, ‘Iraq: Southern No Fly Zone’.
 
 217
 
@@ -1568,14 +1568,14 @@ scale of 1991 and 1992, Mr Sawers wrote: “Ludicrously high standard.”
 151.  Officials from the Cabinet Office, the MOD and the FCO made strenuous efforts in 
 the days immediately following the receipt of Mr Brummell’s letter to agree the terms of 
 
-[^83] Letter Brummell to Patey, 2 February 2001, ‘Iraq’. 
-[^84] Note (handwritten) Sawers to Blair, [undated], [untitled]. 
-[^85] Manuscript comment Sawers on Letter Brummell to Patey, 2 February 2001, ‘Iraq’. 
-[^86] Manuscript comment Blair on Note Sawers to Blair, [undated], [untitled]. 
+[^83]: Letter Brummell to Patey, 2 February 2001, ‘Iraq’. 
+[^84]: Note (handwritten) Sawers to Blair, [undated], [untitled]. 
+[^85]: Manuscript comment Sawers on Letter Brummell to Patey, 2 February 2001, ‘Iraq’. 
+[^86]: Manuscript comment Blair on Note Sawers to Blair, [undated], [untitled]. 
 
 218
 
-The Report of the Iraq Inquiry1.2  |  Development of UK strategy and options, September 2000 to September 2001
+
 
 a joint response. Officials met on 2 and 5 February and draft responses were prepared 
 and circulated.[^87] 
@@ -1618,10 +1618,10 @@ has been put back a second time”.
 Mr Patey of 2 February.[^90] Mr McKane advised that the response had been “endorsed  
 by the Foreign and Defence Secretaries”, and stated that:
 
-[^87] Letter McKane to Goulty, 2 February 2001, ‘Iraq’; Letter McKane to Webb, 2 February 2001, ‘Iraq’;  
-[^88] Minute McKane to Abel, 2 February 2001, ‘Iraq’. 
-[^89] Minute Sawers to Prime Minister, 7 February 2001, ‘Iraq’. 
-[^90] Letter McKane to Brummell, 8 February 2001, ‘Iraq’. 
+[^87]: Letter McKane to Goulty, 2 February 2001, ‘Iraq’; Letter McKane to Webb, 2 February 2001, ‘Iraq’;  
+[^88]: Minute McKane to Abel, 2 February 2001, ‘Iraq’. 
+[^89]: Minute Sawers to Prime Minister, 7 February 2001, ‘Iraq’. 
+[^90]: Letter McKane to Brummell, 8 February 2001, ‘Iraq’. 
 
 219
 
@@ -1670,12 +1670,12 @@ more questionable.
 views.[^92] Mr Brummell reiterated a number of points made in previous letters.  
 He also wrote: 
 
-[^91] Letter McKane to Cowper-Coles, 6 February 2001, ‘Iraq’. 
-[^92] Letter Brummell to McKane, 12 February 2001, ‘Iraq: No Fly Zones (NFZs)’. 
+[^91]: Letter McKane to Cowper-Coles, 6 February 2001, ‘Iraq’. 
+[^92]: Letter Brummell to McKane, 12 February 2001, ‘Iraq: No Fly Zones (NFZs)’. 
 
 220
 
-The Report of the Iraq Inquiry1.2  |  Development of UK strategy and options, September 2000 to September 2001
+
 
 “… the Law Officers have previously accepted that a respectable legal argument that 
 force is justified on grounds of overwhelming humanitarian necessity can be made if:
@@ -1772,13 +1772,13 @@ have a clear sense of what we want if we are to shape US thinking.”[^95]
 *  The objective of the policy. Mr Jones Parry’s recent talks in Washington had 
 identified “Saddam and weapons of mass destruction as the main issues … 
 
-[^93] Note (handwritten) Sawers to Prime Minister, [undated], ‘Iraq: NFZ’. 
-[^94] JIC Assessment, 9 February 2001, ‘Long Range Ballistic Missile Threat’. 
-[^95] Letter Sawers to Jones Parry, 8 February 2001, ‘Iraq: UK/US Talks’. 
+[^93]: Note (handwritten) Sawers to Prime Minister, [undated], ‘Iraq: NFZ’. 
+[^94]: JIC Assessment, 9 February 2001, ‘Long Range Ballistic Missile Threat’. 
+[^95]: Letter Sawers to Jones Parry, 8 February 2001, ‘Iraq: UK/US Talks’. 
 
 222
 
-The Report of the Iraq Inquiry1.2  |  Development of UK strategy and options, September 2000 to September 2001
+
 
 Containing the threat against Iraq’s neighbours, seen from here, should be at 
 least as important as the WMD factor. That was the original casus belli …”
@@ -1828,8 +1828,8 @@ or a monitoring regime based outside Iraq …
 
 iii)   Humanitarian relief …”
 
-[^96] Letter McKane to Goulty, 12 February 2001, ‘Iraq’ attaching Note [draft], [undated], ‘Iraq (A Note by 
-[^97] Minute Sawers to McKane, 12 February 2001, ‘Iraq’. 
+[^96]: Letter McKane to Goulty, 12 February 2001, ‘Iraq’ attaching Note [draft], [undated], ‘Iraq (A Note by 
+[^97]: Minute Sawers to McKane, 12 February 2001, ‘Iraq’. 
 
 223
 
@@ -1886,12 +1886,12 @@ there had been a “significant increase in the erosion of sanctions over the la
 The JIC estimated that, in 2001, oil smuggling could generate up to US$650m and abuse 
 of the OFF programme through bribes, surcharges and “commissions” up to US$600m. 
 
-[^98] Minute Day to McKane, 15 February 2001, ‘Iraq’.
-[^99] JIC Assessment, 14 February 2001, ‘Iraq: Economic Sanctions Eroding’. 
+[^98]: Minute Day to McKane, 15 February 2001, ‘Iraq’.
+[^99]: JIC Assessment, 14 February 2001, ‘Iraq: Economic Sanctions Eroding’. 
 
 224
 
-The Report of the Iraq Inquiry1.2  |  Development of UK strategy and options, September 2000 to September 2001
+
 
 The Jordan/Iraq trade protocol was worth around US$400m. Smuggling of non-oil goods 
 could produce up to US$150m. 
@@ -1940,7 +1940,7 @@ diverting revenue to conventional or WMD re-armament …
 
 *  Military containment, including through the No-Fly Zones (NFZs).” 
 
-[^100] Minute McKane to Sawers, 15 February 2001, ‘Iraq’, attaching Note Cabinet Office, 15 February 2001, 
+[^100]: Minute McKane to Sawers, 15 February 2001, ‘Iraq’, attaching Note Cabinet Office, 15 February 2001, 
 
 225
 
@@ -1987,11 +1987,11 @@ US/UK information campaign, and more work with the Iraqi opposition in exile
 also consider more support for INDICT’s campaign[^101] to bring Saddam and some of 
 his cronies to justice for war crimes.”
 
-[^101] INDICT was established in 1996 to campaign for the creation of an ad hoc International Criminal 
+[^101]: INDICT was established in 1996 to campaign for the creation of an ad hoc International Criminal 
 
 226
 
-The Report of the Iraq Inquiry1.2  |  Development of UK strategy and options, September 2000 to September 2001
+
 
 185.  The note concluded:
 
@@ -2036,9 +2036,9 @@ policy review and wanted to “get a new policy in place in the next month”. N
 were yet needed, but Mr Sawers suggested Mr Blair would want to familiarise himself 
 with the subject as President Bush would ask for his views. 
 
-[^102] Public hearing, 10 December 2009, page 11.
-[^103] Letter Sedwill to Sawers, 20 February 2001, ‘Iraq: Policy Review’. 
-[^104] Minute Sawers to Prime Minister, 16 February 2001, ‘Iraq: Policy Review’. 
+[^102]: Public hearing, 10 December 2009, page 11.
+[^103]: Letter Sedwill to Sawers, 20 February 2001, ‘Iraq: Policy Review’. 
+[^104]: Minute Sawers to Prime Minister, 16 February 2001, ‘Iraq: Policy Review’. 
 
 227
 
@@ -2084,13 +2084,13 @@ his own people mercilessly, including by using helicopter gunships as he did in 
 1992”. The attack by coalition aircraft had been “a limited operation” with the sole purpose 
 of defending the aircrew patrolling the NFZs.
 
-[^105] Letter Benn to Blair, 16 February 2001, [untitled]. 
-[^106] Gov.uk, 17 February 2001, Statement by the Prime Minister, Tony Blair, London, Saturday 17 February 
+[^105]: Letter Benn to Blair, 16 February 2001, [untitled]. 
+[^106]: Gov.uk, 17 February 2001, Statement by the Prime Minister, Tony Blair, London, Saturday 17 February 
 2001. 
 
 228
 
-The Report of the Iraq Inquiry1.2  |  Development of UK strategy and options, September 2000 to September 2001
+
 
 An MOD press statement on the same day stated that the attacks were conducted in 
 self-defence in response to repeated Iraqi threats to coalition aircraft.[^107] Iraqi air defences 
@@ -2139,9 +2139,9 @@ it up.”
 199.  An internal FCO minute on the 16 February attack, which was produced later 
 that month, stated that the Pentagon’s decision to play up the operation was a serious 
 
-[^107] Gov.uk, 17 February 2001, Air attacks on Iraq: Statement by the Ministry of Defence. 
-[^108] House of Commons, Official Report, 26 February 2001, column 620.
-[^109] Minute Sawers to Prime Minister, 20 February 2001, ‘Iraq: After the Bombing’. 
+[^107]: Gov.uk, 17 February 2001, Air attacks on Iraq: Statement by the Ministry of Defence. 
+[^108]: House of Commons, Official Report, 26 February 2001, column 620.
+[^109]: Minute Sawers to Prime Minister, 20 February 2001, ‘Iraq: After the Bombing’. 
 
 229
 
@@ -2186,14 +2186,14 @@ towards [Iraq] …
 “So I think in the Foreign Office we were worried that this might be misinterpreted as 
 a sort of military assault on Iraq, and that was not the intention.”[^113] 
 
-[^110] Minute FCO [junior official] to Patey, 27 February 2001, ‘Iraq: NFZs: RO4’.
-[^111] Rice C. No Higher Honour: A Memoir of My Years in Washington. Simon & Schuster, 2011. 
-[^112] Public hearing, 24 November 2009, page 142.
-[^113] Public hearing, 24 November 2009, pages 143-144.
+[^110]: Minute FCO [junior official] to Patey, 27 February 2001, ‘Iraq: NFZs: RO4’.
+[^111]: Rice C. No Higher Honour: A Memoir of My Years in Washington. Simon & Schuster, 2011. 
+[^112]: Public hearing, 24 November 2009, page 142.
+[^113]: Public hearing, 24 November 2009, pages 143-144.
 
 230
 
-The Report of the Iraq Inquiry1.2  |  Development of UK strategy and options, September 2000 to September 2001
+
 
 203.  Sir John Sawers told the Inquiry that No.10 had, perhaps, not been as involved as 
 it might have been in discussion of the 16 February attack: 
@@ -2233,12 +2233,12 @@ Camp David:
 “… not because it was the most important but because Colin Powell … was about 
 to depart for the region and … he [President Bush] wanted to deal with Iraq first so 
 
-[^114] Public hearing, 15 December 2009, page 48.
-[^115] Statement, 9 January 2011, page 3.
-[^116] The White House Archive, 22 February 2001, Press Conference by the President.
-[^117] Letter Sawers to Cowper-Coles, 24 February 2001, ‘Prime Minister’s Meeting with Vice President 
-[^118] Public hearing, 29 January 2010, page 8. 
-[^119] Public hearing, 26 November 2009, pages 11-12.
+[^114]: Public hearing, 15 December 2009, page 48.
+[^115]: Statement, 9 January 2011, page 3.
+[^116]: The White House Archive, 22 February 2001, Press Conference by the President.
+[^117]: Letter Sawers to Cowper-Coles, 24 February 2001, ‘Prime Minister’s Meeting with Vice President 
+[^118]: Public hearing, 29 January 2010, page 8. 
+[^119]: Public hearing, 26 November 2009, pages 11-12.
 
 231
 
@@ -2286,12 +2286,12 @@ trade sanctions should be removed.”[^121]
 use of force to secure entry for UNMOVIC inspection teams, was a “gleam in anybody’s 
 eye” at this time. Sir John told the Inquiry:
 
-[^120] Public hearing, 10 December 2009, pages 13-15.
-[^121] Public hearing, 10 December 2009, pages 15-16.
+[^120]: Public hearing, 10 December 2009, pages 13-15.
+[^121]: Public hearing, 10 December 2009, pages 15-16.
 
 232
 
-The Report of the Iraq Inquiry1.2  |  Development of UK strategy and options, September 2000 to September 2001
+
 
 “Not really because there wasn’t any great confidence that UNMOVIC would be any 
 more successful than UNSCOM had been … and we didn’t think that we could force 
@@ -2336,8 +2336,8 @@ with the Iraqi People’, in which there was some interest.
 “… we need to start doing more detailed work on the sanctions aspects … perhaps 
 we should now produce our own detailed paper on what steps to take … We are 
 
-[^122] Public hearing, 10 December 2009, pages 16-17.
-[^123] Letter Sawers to Cowper-Coles, 24 February 2001, ‘Prime Minister’s Talks with President Bush,  
+[^122]: Public hearing, 10 December 2009, pages 16-17.
+[^123]: Letter Sawers to Cowper-Coles, 24 February 2001, ‘Prime Minister’s Talks with President Bush,  
 
 233
 
@@ -2383,14 +2383,14 @@ to reinforce, but those two things together actually allowed us to be in the rat
 comfortable position of having a not very expensive military operation … It allowed 
 us to manage without big ground force deployments …” [^127]
 
-[^124] Cabinet Conclusions, 1 March 2001. 
-[^125] Blair T. A Journey. Hutchinson, 2010. 
-[^126] Letter McKane to Webb, 28 February 2001, ‘Iraq’. 
-[^127] Public hearing, 24 November 2009, pages 49-50.
+[^124]: Cabinet Conclusions, 1 March 2001. 
+[^125]: Blair T. A Journey. Hutchinson, 2010. 
+[^126]: Letter McKane to Webb, 28 February 2001, ‘Iraq’. 
+[^127]: Public hearing, 24 November 2009, pages 49-50.
 
 234
 
-The Report of the Iraq Inquiry1.2  |  Development of UK strategy and options, September 2000 to September 2001
+
 
 ## Defining the new UK policy framework
 225.  According to published US accounts, on 1 March Secretary Powell was “given the 
@@ -2433,9 +2433,9 @@ executive departments and agencies.
 227.  The new framework sought to contain more effectively the military 
 threat from Iraq by introducing a revised set of controls focusing on military 
 
-[^128] Woodward B. Plan of Attack. Simon & Schuster UK, 2004. 
-[^129] Section 101, National Security Act of 1947 (PL 235 – 61 Stat. 496; U.S.C. 402), amended by the 
-[^130] National Security Presidential Directive (NSPD-1) 13 February 2001 (approved for release 13 March 
+[^128]: Woodward B. Plan of Attack. Simon & Schuster UK, 2004. 
+[^129]: Section 101, National Security Act of 1947 (PL 235 – 61 Stat. 496; U.S.C. 402), amended by the 
+[^130]: National Security Presidential Directive (NSPD-1) 13 February 2001 (approved for release 13 March 
 2001).
 
 235
@@ -2489,12 +2489,12 @@ would be brought forward without the need for Iraqi compliance”.
 “A revised set of controls would be introduced as soon as possible, focused on Iraq’s 
 WMD and military programmes. Purely economic sanctions would cease. In return, 
 
-[^131] Statement, 27 November 2009, page 2.
-[^132] Letter Sawers to Cowper-Coles, 7 March 2001, ‘Iraq: New Policy Framework’ attaching Paper, 
+[^131]: Statement, 27 November 2009, page 2.
+[^132]: Letter Sawers to Cowper-Coles, 7 March 2001, ‘Iraq: New Policy Framework’ attaching Paper, 
 
 236
 
-The Report of the Iraq Inquiry1.2  |  Development of UK strategy and options, September 2000 to September 2001
+
 
 Iraq’s neighbours would bring an end to illegal oil exports and give practical support 
 to enforce the revised controls. UN control of oil revenues would be retained. 
@@ -2599,11 +2599,11 @@ trade were reached in principle, it was:
 A comprehensive international border monitoring presence would be  
 required … such monitoring would be heavy on manpower and resources,  
 
-[^133] JIC Assessment, 8 March 2001, ‘Iraq: Impact of Smarter Sanctions’. 
+[^133]: JIC Assessment, 8 March 2001, ‘Iraq: Impact of Smarter Sanctions’. 
 
 238
 
-The Report of the Iraq Inquiry1.2  |  Development of UK strategy and options, September 2000 to September 2001
+
 
 and frontline states would be reluctant to agree an intrusive regime. Moreover as 
 general trade increased, there would be a growing risk that military components  
@@ -2652,7 +2652,7 @@ have the biggest impact on the cash reaching Saddam’s pocket …;
 
 as a result of their co-operation on smuggling/border trade.”[^134]
 
-[^134] Minute Ricketts to Sawers, 9 March 2001, ‘Iraq: Impact of Smarter Sanctions’. 
+[^134]: Minute Ricketts to Sawers, 9 March 2001, ‘Iraq: Impact of Smarter Sanctions’. 
 
 239
 
@@ -2703,14 +2703,14 @@ re-establish political consensus on Iraq without it”.
 International Development (DFID), were not included in the policy review and were not 
 sent a copy of Mr Sawers’ letter of 7 March. 
 
-[^135] Manuscript comment Blair on Minute Ricketts to Sawers, 9 March 2001, ‘Iraq: Impact of Smarter 
-[^136] Letter Cook to Prime Minister, 9 March 2001, ‘Iraq: Future Policy Framework’. 
-[^137] Minute Westmacott to PS [FCO], 13 March 2001, ‘Iraq’. 
-[^138] Letter Sawers to Cowper-Coles, 14 March 2001, ‘Iraq’. 
+[^135]: Manuscript comment Blair on Minute Ricketts to Sawers, 9 March 2001, ‘Iraq: Impact of Smarter 
+[^136]: Letter Cook to Prime Minister, 9 March 2001, ‘Iraq: Future Policy Framework’. 
+[^137]: Minute Westmacott to PS [FCO], 13 March 2001, ‘Iraq’. 
+[^138]: Letter Sawers to Cowper-Coles, 14 March 2001, ‘Iraq’. 
 
 240
 
-The Report of the Iraq Inquiry1.2  |  Development of UK strategy and options, September 2000 to September 2001
+
 
 255.  Ms Short’s Private Office wrote to Mr Sawers on 15 March recording that Ms Short 
 “regrets that DFID was not included”.[^139] She welcomed the thrust of the new policy, but 
@@ -2753,8 +2753,8 @@ bombing activity. Any such action will, of course, be conducted within the exist
 RO framework, with the authority for UK participation – within the carefully defined 
 parameters approved collectively by Ministers – delegated to military commanders. 
 
-[^139] Letter DFID [junior official] to Sawers, 15 March 2001, ‘Iraq: New Policy Framework’. 
-[^140] Letter Short to Prime Minister, 1 April 2001, ‘Iraq Policy Review’. 
+[^139]: Letter DFID [junior official] to Sawers, 15 March 2001, ‘Iraq: New Policy Framework’. 
+[^140]: Letter Short to Prime Minister, 1 April 2001, ‘Iraq Policy Review’. 
 
 241
 
@@ -2796,18 +2796,18 @@ Iraqi People’ and a paper entitled ‘Iraq: Handling the Sanctions Issue’.[^
 263.  The paper on sanctions highlighted the danger that the forthcoming resolution 
 on rolling over the OFF programme would “present the friends of Iraq in the P5 with an 
 
-[^141] Letter Miller to Sawers, 30 March 2001, ‘Iraq’. 
-[^142] Public hearing, 24 November 2009, page 147.
-[^143] Letter Ross to McKane 16 March 2001, ‘Iraq Post Suspension Controls’ attaching Paper UKMIS  
+[^141]: Letter Miller to Sawers, 30 March 2001, ‘Iraq’. 
+[^142]: Public hearing, 24 November 2009, page 147.
+[^143]: Letter Ross to McKane 16 March 2001, ‘Iraq Post Suspension Controls’ attaching Paper UKMIS  
 28 March 2001, ‘Iraq: Sanctions Suspension’, attaching Paper, [undated], ‘Iraq Sanctions Suspension  
 UK Discussion Paper’. 
-[^144] Letter McKane to Macaire, 30 March 2001, ‘Iraq: Better Border Controls’ attaching Paper Cabinet 
-[^145] Letter Casale to Marriott, 2 April 2001, ‘UK’s Application of Financial Sanctions Against Iraq’ attaching 
-[^146] Letter Sawers to Rice, 16 March 2001, ‘Iraq’ attaching Paper, [undated], ‘Contract with the Iraqi People’ 
+[^144]: Letter McKane to Macaire, 30 March 2001, ‘Iraq: Better Border Controls’ attaching Paper Cabinet 
+[^145]: Letter Casale to Marriott, 2 April 2001, ‘UK’s Application of Financial Sanctions Against Iraq’ attaching 
+[^146]: Letter Sawers to Rice, 16 March 2001, ‘Iraq’ attaching Paper, [undated], ‘Contract with the Iraqi People’ 
 
 242
 
-The Report of the Iraq Inquiry1.2  |  Development of UK strategy and options, September 2000 to September 2001
+
 
 opportunity to come forward with their own proposals for unilateral easing of sanctions”, 
 set out parameters for a new “Controlled Goods List”, and described in broad terms the 
@@ -2855,7 +2855,7 @@ maintaining the UN escrow account (see Section 1.1) “so that Iraq’s oil reve
 significant sources of foreign exchange revenue) cannot be used to purchase either 
 conventional or unconventional arms or dual use items”. 
 
-[^147] Minute McKane to Sawers, 6 April 2001, ‘Iraq’. 
+[^147]: Minute McKane to Sawers, 6 April 2001, ‘Iraq’. 
 
 243
 
@@ -2899,13 +2899,13 @@ asset freeze would require amendment to resolution 661(1990). That was not seen 
 274.  An Assessment issued on 10 May marked a shift in the JIC’s perception of 
 Iraq’s intentions and activities in relation to WMD.
 
-[^148] Minute Wechsberg to McKane, 9 April 2001, ‘Iraq’. 
-[^149] Minute Macleod to Patey, 6 April 2001, ‘Iraq: No Fly Zones’. 
-[^150] Letter McKane to Goulty, 11 May 2001, ‘Iraq: Financial Sanctions’. 
+[^148]: Minute Wechsberg to McKane, 9 April 2001, ‘Iraq’. 
+[^149]: Minute Macleod to Patey, 6 April 2001, ‘Iraq: No Fly Zones’. 
+[^150]: Letter McKane to Goulty, 11 May 2001, ‘Iraq: Financial Sanctions’. 
 
 244
 
-The Report of the Iraq Inquiry1.2  |  Development of UK strategy and options, September 2000 to September 2001
+
 
 275.  On 10 May, at the request of the MOD, the JIC assessed “what we know of Iraq’s 
 WMD programmes, their future direction, our level of confidence in the intelligence, 
@@ -2954,7 +2954,7 @@ regional states to reduce oil smuggling.
 283.  Mr Cook repeated his view that the UK should consider ending patrols of the 
 southern NFZ. 
 
-[^151] JIC Assessment, 10 May 2001, ‘Iraqi WMD Programmes: Status and Vulnerability’.
+[^151]: JIC Assessment, 10 May 2001, ‘Iraqi WMD Programmes: Status and Vulnerability’.
 
 245
 
@@ -3001,11 +3001,11 @@ US to “sign up to this more credible and defensible approach”. There might s
 opportunity to garner wider international support for the idea of the contract, capitalising 
 on Iraq’s mishandling of the recent Arab Summit. 
 
-[^152] Minute Cook to Prime Minister, 4 May 2001, ‘Iraq: US/UK Policy Review’. 
+[^152]: Minute Cook to Prime Minister, 4 May 2001, ‘Iraq: US/UK Policy Review’. 
 
 246
 
-The Report of the Iraq Inquiry1.2  |  Development of UK strategy and options, September 2000 to September 2001
+
 
 290.  Mr Hoon responded to Mr Cook’s letter on 14 May, stating that the: 
 
@@ -3047,7 +3047,7 @@ he believed would be “very damaging” to the UK’s ability to influence US t
 “unhelpful” if it encouraged other P5 members to “introduce the future of the Zones into 
 the package”. 
 
-[^153] Letter Hoon to Prime Minister, 14 May 2001, ‘Iraq’. 
+[^153]: Letter Hoon to Prime Minister, 14 May 2001, ‘Iraq’. 
 
 247
 
@@ -3095,14 +3095,14 @@ late May/early June? Wouldn’t it be better to let it slip a month or two?”[^
 the MOD on the utility of the NFZs, and suggested asking the MOD for a considered 
 view on the alternatives. 
 
-[^154] Minute Tanfield to Goulty, 18 May 2001, ‘Iraq Policy Review: Draft Rollover Resolution’. 
-[^155] Statement, 27 November 2009, pages 2-3.
-[^156] Note Sawers to Prime Minister, [undated], [untitled]. 
-[^157] As the June 2001 UK General Election would have prevented UK Ministers from taking an active role in 
+[^154]: Minute Tanfield to Goulty, 18 May 2001, ‘Iraq Policy Review: Draft Rollover Resolution’. 
+[^155]: Statement, 27 November 2009, pages 2-3.
+[^156]: Note Sawers to Prime Minister, [undated], [untitled]. 
+[^157]: As the June 2001 UK General Election would have prevented UK Ministers from taking an active role in 
 
 248
 
-The Report of the Iraq Inquiry1.2  |  Development of UK strategy and options, September 2000 to September 2001
+
 
 300.  Mr Blair indicated his agreement on both points.[^158] 
 
@@ -3146,11 +3146,11 @@ address the Russian opposition with rational argument about the benefits to the 
 people of a narrower list and about the good sense of concentrating on dangerous 
 weaponry. But the Russians, who were in close consultation with the Iraqis 
 
-[^158] Manuscript comment Blair on Note Sawers to Prime Minister, [undated], [untitled]. 
-[^159] UN Security Council Resolution 1352 (2001).
-[^160] Public hearing, 21 January 2010, pages 4-5.
-[^161] Minute Stephens to Herrigan, 27 June 2001, ‘Iraq: Briefing for Cabinet Meeting, 28 June’. 
-[^162] Minute McKane to Sawers, 12 June 2001, ‘Iraq’. 
+[^158]: Manuscript comment Blair on Note Sawers to Prime Minister, [undated], [untitled]. 
+[^159]: UN Security Council Resolution 1352 (2001).
+[^160]: Public hearing, 21 January 2010, pages 4-5.
+[^161]: Minute Stephens to Herrigan, 27 June 2001, ‘Iraq: Briefing for Cabinet Meeting, 28 June’. 
+[^162]: Minute McKane to Sawers, 12 June 2001, ‘Iraq’. 
 
 249
 
@@ -3197,14 +3197,14 @@ Washington, but also provided a lot of ammunition to the neo-cons and other peop
 who said, you know, ‘You can’t do anything through the UN, it is just a kind of joke, 
 that place, just forget it’ …”
 
-[^163] Statement, 27 November 2009, page 3. 
-[^164] Public hearing, 27 November 2009, pages 12-13.
-[^165] Public hearing, 10 December 2009, page 32.
-[^166] Public hearing, 12 July 2010, pages 30-31. 
+[^163]: Statement, 27 November 2009, page 3. 
+[^164]: Public hearing, 27 November 2009, pages 12-13.
+[^165]: Public hearing, 10 December 2009, page 32.
+[^166]: Public hearing, 12 July 2010, pages 30-31. 
 
 250
 
-The Report of the Iraq Inquiry1.2  |  Development of UK strategy and options, September 2000 to September 2001
+
 
 311.  Mr Blair spoke to President Vladimir Putin on 27 June, but without reaching 
 agreement on the UK proposals.[^167]
@@ -3247,11 +3247,11 @@ reflected concerns that, following the failed attempts to secure a new resolutio
 US Administration could shift its policy away from diplomatic containment and towards 
 regime overthrow.[^171] 
 
-[^167] Letter Sawers to McDonald, 27 June 2001, ‘Telephone Conversation with Russian President: Iraq’. 
-[^168] Letter Sawers to McDonald, 29 June 2001, ‘Prime Minister’s Telephone Calls to President Chirac and 
-[^169] Briefing FCO, [undated], ‘Secretary of State’s visit to the United States: 10-11 July 2001 Iraq’. 
-[^170] UN Security Council, ‘4344th Meeting Tuesday 3 July 2001’ (S/PV.4344).
-[^171] Telegram 765 Washington to FCO London, 5 July 2001, ‘Your Visit to Washington: Foreign Policy 
+[^167]: Letter Sawers to McDonald, 27 June 2001, ‘Telephone Conversation with Russian President: Iraq’. 
+[^168]: Letter Sawers to McDonald, 29 June 2001, ‘Prime Minister’s Telephone Calls to President Chirac and 
+[^169]: Briefing FCO, [undated], ‘Secretary of State’s visit to the United States: 10-11 July 2001 Iraq’. 
+[^170]: UN Security Council, ‘4344th Meeting Tuesday 3 July 2001’ (S/PV.4344).
+[^171]: Telegram 765 Washington to FCO London, 5 July 2001, ‘Your Visit to Washington: Foreign Policy 
 
 251
 
@@ -3293,17 +3293,17 @@ on Iraq.[^176]
 “all in favour” of sanctions “provided we compensated him for the US$8bn that Iraq  
 owed Russia”.[^177] 
 
-[^172] Briefing FCO, [undated], ‘Secretary of State’s Visit to the United States: 10-11 July 2001 Iraq’. 
-[^173] Telegram 793 Washington to FCO London, 12 July 2001, ‘Your Visit to Washington, 10-11 July: Talks 
-[^174] Public hearing, 24 November 2009, pages 74-75.
-[^175] Statement, 27 November 2009, pages 3-4.
-[^176] Letter Sawers to Cowper-Coles, 20 July 2001, ‘Prime Minister’s Talks with President Bush, Chequers, 
+[^172]: Briefing FCO, [undated], ‘Secretary of State’s Visit to the United States: 10-11 July 2001 Iraq’. 
+[^173]: Telegram 793 Washington to FCO London, 12 July 2001, ‘Your Visit to Washington, 10-11 July: Talks 
+[^174]: Public hearing, 24 November 2009, pages 74-75.
+[^175]: Statement, 27 November 2009, pages 3-4.
+[^176]: Letter Sawers to Cowper-Coles, 20 July 2001, ‘Prime Minister’s Talks with President Bush, Chequers, 
 19 July’. 
-[^177] Blair T. A Journey. Hutchinson, 2010. 
+[^177]: Blair T. A Journey. Hutchinson, 2010. 
 
 252
 
-The Report of the Iraq Inquiry1.2  |  Development of UK strategy and options, September 2000 to September 2001
+
 
 326.  The record of Mr Blair’s discussions with President Putin in the margins of the 
 G8 meeting in Genoa on 21 July verifies Mr Blair’s and Mr Sawers’ accounts.[^178] The 
@@ -3359,9 +3359,9 @@ by Saddam’s championing of Palestinian rights, the widespread Arab perception
 
 * 
 
-[^178] Letter Sawers to McDonald, 21 July 2001, ‘Prime Minister’s bilateral with President Putin, Genoa,  
+[^178]: Letter Sawers to McDonald, 21 July 2001, ‘Prime Minister’s bilateral with President Putin, Genoa,  
 21 July – Iraq’. 
-[^179] JIC Assessment, 25 July 2001, ‘Iraq: Continuing Erosion of Sanctions’. 
+[^179]: JIC Assessment, 25 July 2001, ‘Iraq: Continuing Erosion of Sanctions’. 
 
 253
 
@@ -3414,11 +3414,11 @@ maintain contacts with President Mohammad Khatami of Iran.[^180]
 329.  Mr Blair wrote to President Khatami on 30 July, thanking him for Iran’s public 
 support for the UK proposals which Mr Blair “… firmly believe[d] … are necessary to 
 
-[^180] Letter McDonald to Wechsberg, 24 July 2001, ‘Iran: Letter from the Prime Minister to President Khatami 
+[^180]: Letter McDonald to Wechsberg, 24 July 2001, ‘Iran: Letter from the Prime Minister to President Khatami 
 
 254
 
-The Report of the Iraq Inquiry1.2  |  Development of UK strategy and options, September 2000 to September 2001
+
 
 contain the threat that Iraq poses to its neighbours … while at the same time addressing 
 the humanitarian needs of the Iraqi people”.[^181]
@@ -3465,8 +3465,8 @@ to 1996 (nor that, in the event that Saddam faced widespread opposition to an
 assault to recover the north, a humanitarian refugee crisis similar to that in 1991 
 would follow).
 
-[^181] Letter Prime Minister to Khatami, 30 July 2001, [untitled].
-[^182] Letter McKane to Brummell, 28 June 2001, ‘Iraq’. 
+[^181]: Letter Prime Minister to Khatami, 30 July 2001, [untitled].
+[^182]: Letter McKane to Brummell, 28 June 2001, ‘Iraq’. 
 
 255
 
@@ -3512,12 +3512,12 @@ the picture”.
 338.  It is not clear whether Mr Brummell was aware that the US was considering those 
 strikes when he wrote to Mr McKane.
 
-[^183] Letter Brummell to McKane, 25 July 2001, ‘Iraq’. 
-[^184] Minute Palmer to APS/Secretary of State [MOD], 26 July 200, ‘Iraq: Possible RO4’. 
+[^183]: Letter Brummell to McKane, 25 July 2001, ‘Iraq’. 
+[^184]: Minute Palmer to APS/Secretary of State [MOD], 26 July 200, ‘Iraq: Possible RO4’. 
 
 256
 
-The Report of the Iraq Inquiry1.2  |  Development of UK strategy and options, September 2000 to September 2001
+
 
 339.  Reports of a “planned large-scale military response to recent events in the 
 southern No-Fly Zone”, “sourced to the Pentagon”, appeared in the media on 27 July.[^185] 
@@ -3561,11 +3561,11 @@ increased threat, to take action to reduce the risk to the Service Personnel
 conducting this task [patrolling the Zones]. Whilst he understands the political 
 and presentational arguments for delay, his preference would have been for a 
 
-[^185] Minute Tanfield to PS/Straw, 27 July 2001, ‘Secretary of State’s Conversation with Colin Powell,  
+[^185]: Minute Tanfield to PS/Straw, 27 July 2001, ‘Secretary of State’s Conversation with Colin Powell,  
 27 July: Iraq NFZs’. 
-[^186] Letter McKane to Tatham, 1 August 2001, ‘Iraq: No-Fly Zones’. 
-[^187] Letter Brummell to Nash, 9 August 2001, ‘Iraq: No-Fly Zones (NFZs) – Target Clearance’. 
-[^188] Letter Moffatt to Tatham, 2 August 2001, ‘Iraq: RO4’. 
+[^186]: Letter McKane to Tatham, 1 August 2001, ‘Iraq: No-Fly Zones’. 
+[^187]: Letter Brummell to Nash, 9 August 2001, ‘Iraq: No-Fly Zones (NFZs) – Target Clearance’. 
+[^188]: Letter Moffatt to Tatham, 2 August 2001, ‘Iraq: RO4’. 
 
 257
 
@@ -3613,12 +3613,12 @@ policy, which has been carefully considered and agreed in Whitehall and with the
 US, would leave us in a policy vacuum in which we would risk getting sucked into 
 adopting a more militaristic posture.
 
-[^189] Minute Patey to PS [FCO], 3 August 2001, ‘Iraq: NFZs’. 
-[^190] Letter Sedwill to Tatham, 3 August 2001, ‘Iraq: RO4’. 
+[^189]: Minute Patey to PS [FCO], 3 August 2001, ‘Iraq: NFZs’. 
+[^190]: Letter Sedwill to Tatham, 3 August 2001, ‘Iraq: RO4’. 
 
 258
 
-The Report of the Iraq Inquiry1.2  |  Development of UK strategy and options, September 2000 to September 2001
+
 
 “… the balance of advantage to maintaining the NFZs would require the most careful 
 consideration.” 
@@ -3662,10 +3662,10 @@ stressed the importance that Mr Hoon attached to the Law Officers’ advice and 
 he was fully aware of the need to ensure that the actions of coalition partners were 
 “governed by similar principles”. Mr Hoon was “confident that US commanders are very 
 
-[^191] Telegram 886 Washington to FCO London, 3 August 2001, ‘Iraq’. 
-[^192] Letter Brummell to Nash, 9 August 2001 ‘Iraq: No Fly Zones (NFZs) – Target Clearance’. 
-[^193] Letter Brummell to Nash, 15 August 2001, ‘Iraq Targeting’. 
-[^194] Letter Moffatt to Brummell, 3 September 2001, [untitled]. 
+[^191]: Telegram 886 Washington to FCO London, 3 August 2001, ‘Iraq’. 
+[^192]: Letter Brummell to Nash, 9 August 2001 ‘Iraq: No Fly Zones (NFZs) – Target Clearance’. 
+[^193]: Letter Brummell to Nash, 15 August 2001, ‘Iraq Targeting’. 
+[^194]: Letter Moffatt to Brummell, 3 September 2001, [untitled]. 
 
 259
 
@@ -3716,13 +3716,13 @@ our arguments.”[^196]
 
 358.  Copies of the letter were circulated widely within the MOD, and to Mr Hoon.
 
-[^195] Letter Brummell to McKane, 24 August 2001, ‘Iraq’. 
-[^196] Manuscript comment McKane to Manning, 3 September 2001, on Letter Brummell to McKane,  
+[^195]: Letter Brummell to McKane, 24 August 2001, ‘Iraq’. 
+[^196]: Manuscript comment McKane to Manning, 3 September 2001, on Letter Brummell to McKane,  
 24 August 2001, ‘Iraq’.
 
 260
 
-The Report of the Iraq Inquiry1.2  |  Development of UK strategy and options, September 2000 to September 2001
+
 
 359.  Mr McKane responded to Mr Brummell’s letter on 16 October (see Section 3.1).
 
@@ -3764,9 +3764,9 @@ advice, adding:
 “On the substance, I think we should strongly advise the US against their proposed 
 strategy: it is politically and legally all wrong for both the US and the UK.”[^199] 
 
-[^197] Public hearing, 24 November 2009, pages 148-149.
-[^198] Letter Webb to Cooper, 29 August 2001, ‘Iraq: US Contingency Planning for the Loss of an Aircraft’. 
-[^199] Manuscript comment Wright on Letter Webb to Cooper, 29 August 2001, ‘Iraq: US Contingency 
+[^197]: Public hearing, 24 November 2009, pages 148-149.
+[^198]: Letter Webb to Cooper, 29 August 2001, ‘Iraq: US Contingency Planning for the Loss of an Aircraft’. 
+[^199]: Manuscript comment Wright on Letter Webb to Cooper, 29 August 2001, ‘Iraq: US Contingency 
 
 261
 
@@ -3808,18 +3808,18 @@ Washington that activity on ideas for regime change was “much ado about nothin
 phased pressure on Saddam Hussein and support for the Iraqi opposition; no policy 
 recommendation was made to the President. 
 
-[^200] Letter Wright to Webb, 5 September 2001, ‘Iraq: US Contingency Planning for the Loss of an Aircraft’. 
-[^201] Letter Williams to Manning, 22 July 2002, ‘Iraqi No Fly Zones: Contingency Planning for the Loss of an 
-[^202] Manuscript comment Blair on Note Manning to Prime Minister covering Letter Williams to Manning, 
+[^200]: Letter Wright to Webb, 5 September 2001, ‘Iraq: US Contingency Planning for the Loss of an Aircraft’. 
+[^201]: Letter Williams to Manning, 22 July 2002, ‘Iraqi No Fly Zones: Contingency Planning for the Loss of an 
+[^202]: Manuscript comment Blair on Note Manning to Prime Minister covering Letter Williams to Manning, 
 22 July 2002, ‘Iraqi No Fly Zones: Contingency Planning for the Loss of an Aircraft’. 
-[^203] Telegram 886 Washington to FCO London, 3 August 2001, ‘Iraq’. 
-[^204] Telegram 937 Washington to FCO London, 18 August 2001, ‘Webb’s visit to Washington: Iraq: Military 
-[^205] Telegram 1004 Washington to FCO London, 6 September 2001, ‘Iraq: Views of US’.
-[^206] Woodward B. State of Denial. Simon & Schuster UK, 2006. 
+[^203]: Telegram 886 Washington to FCO London, 3 August 2001, ‘Iraq’. 
+[^204]: Telegram 937 Washington to FCO London, 18 August 2001, ‘Webb’s visit to Washington: Iraq: Military 
+[^205]: Telegram 1004 Washington to FCO London, 6 September 2001, ‘Iraq: Views of US’.
+[^206]: Woodward B. State of Denial. Simon & Schuster UK, 2006. 
 
 262
 
-The Report of the Iraq Inquiry1.2  |  Development of UK strategy and options, September 2000 to September 2001
+
 
 375.  Mr George Tenet, the Director of Central Intelligence, described in his memoir 
 how a CIA analysis before 9/11 concluded that it would be difficult to remove Saddam 
@@ -3862,11 +3862,11 @@ policy had not succeeded by July.”[^211]
 381.  Sir Christopher Meyer told the Inquiry that the Bush Administration had focused 
 most of its political energy on domestic issues and that, by early September, appeared 
 
-[^207] Tenet G & Harlow B. At the Centre of the Storm: My Years at the CIA. Harper Press, 2007.
-[^208] Final Report of the National Commission on Terrorist Attacks Upon the United States. The 9/11 
-[^209] Haass RN. War of Necessity, War of Choice: A Memoir of two Iraq Wars. Simon & Schuster, 2009.
-[^210] Telegram 1330 UKMis New York to FCO London, 6 September 2001, ‘Iraq’. 
-[^211] Public hearing, 24 November 2009, page 36. 
+[^207]: Tenet G & Harlow B. At the Centre of the Storm: My Years at the CIA. Harper Press, 2007.
+[^208]: Final Report of the National Commission on Terrorist Attacks Upon the United States. The 9/11 
+[^209]: Haass RN. War of Necessity, War of Choice: A Memoir of two Iraq Wars. Simon & Schuster, 2009.
+[^210]: Telegram 1330 UKMis New York to FCO London, 6 September 2001, ‘Iraq’. 
+[^211]: Public hearing, 24 November 2009, page 36. 
 
 263
 
@@ -3877,7 +3877,7 @@ review of Iraq had not produced any conclusions.
 really wasn’t going to work any more, the Americans had moved off it.”[^213] But there was 
 no US/UK agreement on the way ahead.
 
-[^212] Public hearing, 26 November 2009, pages 17-20.
-[^213] Public hearing, 18 January 2010, pages 21-22.
+[^212]: Public hearing, 26 November 2009, pages 17-20.
+[^213]: Public hearing, 18 January 2010, pages 21-22.
 
 264

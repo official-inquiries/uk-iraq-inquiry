@@ -107,7 +107,7 @@ def modify_page(page):
                         clone[line] = ''
                         footnote = True
                         clone = check_anchor(clone, footnote_num)
-                        clone[line] = '[^%s] '%(footnote_num) + text
+                        clone[line] = '[^%s]: '%(footnote_num) + text
         except:
             if footnote and len(page[line]) != 1:
                 page[line-1] = page[line-1].replace('\n', '') + page[line].replace('\n', '') + '\n'
@@ -151,7 +151,6 @@ def get_io(argv=None):
           outputfile = arg
           
     return inputfile, outputfile
-
     
 if __name__ == '__main__':    
     INPATH, OUTPATH = get_io(sys.argv[1:])

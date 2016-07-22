@@ -47,10 +47,10 @@ long the policy could be sustained and what it could achieve.
 8.  There were also concerns over both the continued legal basis for operations in the 
 No‑Fly Zones (NFZs) and the conduct of individual operations.4 
 
-[^1] Joint Memorandum by the Secretary of State for Foreign and Commonwealth Affairs and the Secretary of 
-[^2] UN Security Council Press Release, 17 December 1999, Security Council Establishes New Monitoring 
-[^3] UN Security Council, ‘4084th Meeting Friday 17 December 1999’ (S/PV.4084).
-[^4] Letter Goulty to McKane, 20 October 2000, ‘Iraq’.
+[^1]: Joint Memorandum by the Secretary of State for Foreign and Commonwealth Affairs and the Secretary of 
+[^2]: UN Security Council Press Release, 17 December 1999, Security Council Establishes New Monitoring 
+[^3]: UN Security Council, ‘4084th Meeting Friday 17 December 1999’ (S/PV.4084).
+[^4]: Letter Goulty to McKane, 20 October 2000, ‘Iraq’.
 
 
 Executive Summary9.  In an Assessment on 1 November, the Joint Intelligence Committee (JIC) judged 
@@ -97,7 +97,7 @@ oil and other goods” it was estimated that Saddam Hussein would “be able to
 appropriate in the region of $1.5bn to $1.8bn in cash and goods in 2001”, 
 and there was “scope for earning even more”.
 
-[^5] JIC Assessment, 1 November 2000, ‘Iraq: Prospects for Co‑operation with UNSCR 1284’.
-[^6] Letter Sawers to Cowper‑Coles, 27 November 2000, ‘Iraq’.
-[^7] Letter Barrow to Sawers, 15 December 2000, ‘Iraq’.
+[^5]: JIC Assessment, 1 November 2000, ‘Iraq: Prospects for Co‑operation with UNSCR 1284’.
+[^6]: Letter Sawers to Cowper‑Coles, 27 November 2000, ‘Iraq’.
+[^7]: Letter Barrow to Sawers, 15 December 2000, ‘Iraq’.
 

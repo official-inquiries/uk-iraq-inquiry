@@ -9,6 +9,9 @@ def tidy_up(line):
     
     """
     result = line.replace('{{', '* ').replace('\xe2\x80\xa2', '*')
+    # Removes document title and report name form the begining of the page
+    if '\x0c' in result:
+        result = result[result.index('\x0c') + 1:]
     return result
 
 def make_clone(data):

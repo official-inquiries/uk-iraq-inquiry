@@ -120,17 +120,22 @@ def modify_page(page):
 def write_file(inpath, outpath):    
     '''Reads file that needs to be modified and creates new file in outpath directory
     
-    '''    
+    '''
+    tidy_path = inpath.split('.')[0] + '-tidy.' + inpath.split('.')[1] 
+    
     readfile = open(inpath, 'r')
-    writefile = open(outpath, 'w')
+    writefile_md = open(outpath, 'w')
+    writefile_txt = open(tidy_path, 'w')
     
     for page in yield_page(readfile):
         new_page = modify_page(page)
         for line in new_page:
-            writefile.write(new_page[line])
-        
+            writefile_md.write(new_page[line])
+            writefile_txt.write(new_page[line])
+    
     readfile.close()
-    writefile.close()
+    writefile_md.close()
+    writefile_txt.close()
     
 
 def get_io(argv=None):

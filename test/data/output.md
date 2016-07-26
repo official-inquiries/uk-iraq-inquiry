@@ -1,4 +1,4 @@
-The Report of the Iraq Inquirythe longer term, to reintegrate a territorially intact Iraq as a law‑abiding member 
+the longer term, to reintegrate a territorially intact Iraq as a law‑abiding member 
 of the international community.”[^1] 
 
 1.  The policy of containment was seen as the “only viable way” to pursue those 
@@ -53,7 +53,7 @@ No‑Fly Zones (NFZs) and the conduct of individual operations.4
 [^4]: Letter Goulty to McKane, 20 October 2000, ‘Iraq’.
 
 
-Executive Summary9.  In an Assessment on 1 November, the Joint Intelligence Committee (JIC) judged 
+9.  In an Assessment on 1 November, the Joint Intelligence Committee (JIC) judged 
 that Saddam Hussein felt “little pressure to negotiate over ... resolution 1284 because 
 the proceeds of oil smuggling and illicit trade have increased significantly this year, and 
 more countries are increasing diplomatic contacts and trade with Iraq”.5 

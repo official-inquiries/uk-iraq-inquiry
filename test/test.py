@@ -1,7 +1,8 @@
 import tempfile
 import shutil
 import sys
-#imports main script to test
+import os
+#imports main script
 sys.path.insert(0, sys.path[0] + '/../scripts/')
 import process 
 
@@ -86,18 +87,33 @@ class TestProcess(unittest.TestCase):
         inpath, outpath = process.get_io()
         tmpdir = tempfile.mkdtemp()
         tmpfile = tmpdir + '/output.md'
+        tidy_path = inpath.split('.')[0] + '-tidy.' + inpath.split('.')[1]
+        
+        self.assertFalse(os.path.exists(tmpfile))
+        self.assertFalse(os.path.exists(tidy_path))
         
         process.write_file(inpath, tmpfile)
+        
+        self.assertTrue(os.path.exists(tmpfile))
+        self.assertTrue(os.path.exists(tidy_path))
+        
         test = open(tmpfile, 'r')
         result = open(outpath, 'r')
+        tidy_test = open(tidy_path, 'r')
         test_data = test.readlines()
         result_data = result.readlines()
+        tidy_test_data = tidy_test.readlines()
         result.close()
         test.close()
+        tidy_test.close()
         shutil.rmtree(tmpdir)
+        os.remove(tidy_path)
         
         self.assertEqual(len(test_data), len(result_data), msg="Expected %d, but got %d"%(len(test_data),len(result_data)))
-        self.assertEqual(test_data, result_data, msg="Tested file does not match with Result")
+        self.assertEqual(test_data, result_data, msg="Tested markdown file does not match with Result")
+        
+        self.assertEqual(len(tidy_test_data), len(result_data), msg="Expected %d, but got %d"%(len(tidy_test_data),len(result_data)))
+        self.assertEqual(tidy_test_data, result_data, msg="Tested text file does not match with Result")
         
     
 if __name__ == '__main__':

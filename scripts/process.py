@@ -8,7 +8,7 @@ def tidy_up(line):
     """Tidies the given line up
     
     """
-    result = line.replace('{{', '* ').replace('\xe2\x80\xa2', '*')
+    result = line.replace('{{', ' * ').replace('\xe2\x80\xa2', '*')
     # Removes document title and report name form the begining of the page
     if '\x0c' in result:
         result = result[result.index('\x0c') + 1:]
@@ -164,4 +164,4 @@ if __name__ == '__main__':
     INPATH, OUTPATH = get_io(sys.argv[1:])
     MESSAGE = 'More than one or no candidate for footnote %s found: Please correct manually.'
     write_file(INPATH, OUTPATH)
-    
+

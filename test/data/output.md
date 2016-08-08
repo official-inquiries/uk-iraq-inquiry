@@ -12,6 +12,7 @@ resolution 1284 in December 1999, although China, France and Russia abstained.2
 3.  The resolution established:
 
 *  a new inspectorate, the United Nations Monitoring, Verification and Inspection 
+
  *  internecine violence;
  *  terrorism; and 
  *  Iranian interference. 
@@ -21,6 +22,7 @@ to lead);
 
 *  a timetable to identify and agree a work programme; and
 *  the principle that, if the inspectors reported co‑operation in key areas, that would 
+
 lead to the suspension of economic[^3] sanctions. 
 
 4.  Resolution 1284 described Iraq’s obligations to comply with the disarmament 
@@ -90,6 +92,7 @@ pressure to accept ... [resolution] 1284 because he is successfully
 undermining the economic sanctions regime.”
 
 *  “Through abuse of the UN Oil‑for‑Food [OFF] programme and smuggling of 
+
 oil and other goods” it was estimated that Saddam Hussein would “be able to 
 appropriate in the region of $1.5bn to $1.8bn in cash and goods in 2001”, 
 and there was “scope for earning even more”.
@@ -97,3 +100,4 @@ and there was “scope for earning even more”.
 [^5]: JIC Assessment, 1 November 2000, ‘Iraq: Prospects for Co‑operation with UNSCR 1284’.
 [^6]: Letter Sawers to Cowper‑Coles, 27 November 2000, ‘Iraq’.
 [^7]: Letter Barrow to Sawers, 15 December 2000, ‘Iraq’.
+

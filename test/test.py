@@ -25,7 +25,7 @@ class TestProcess(unittest.TestCase):
         line_1 = process.tidy_up('\xe2\x80\xa2  a new inspectorate, the United Nations Monitoring, Verification and Inspection ')
         line_2 = process.tidy_up('{{ internecine violence;')
         result_1 = '*  a new inspectorate, the United Nations Monitoring, Verification and Inspection '
-        result_2 = '*  internecine violence;' 
+        result_2 = ' *  internecine violence;' 
         self.assertEqual(line_1, result_1, msg='Expected "*  a new inspectorate, the United Nations Monitoring, Verification and Inspection ", but got "%s"'%(line_1))
         self.assertEqual(line_2, result_2, msg='Expected "*  internecine violence;", but got "%s"'%(line_2))
     

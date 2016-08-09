@@ -1,0 +1,96 @@
+{
+  "name": "uk-parliament-20160706-iraq-inquiry",
+  "title": "The Report of the Iraq Inquiry",
+  "resources": [
+    {
+      "title": "The Report of the Iraq Inquiry - The Executive Summary",
+      "path": "archive/the-report-of-the-iraq-inquiry_executive-summary.pdf",
+      "format": "pdf",
+      "mediatype": "application/pdf",
+      "sources": [{
+        "web": "http://www.iraqinquiry.org.uk/media/246416/the-report-of-the-iraq-inquiry_executive-summary.pdf"
+      }]
+    },
+    {
+      "title": "The Report of the Iraq Inquiry - introduction",
+      "path": "archive/the-report-of-the-iraq-introduction.pdf",
+      "format": "pdf",
+      "mediatype": "application/pdf",
+      "sources": [{
+        "web": "http://www.iraqinquiry.org.uk/media/246421/the-report-of-the-iraq-inquiry_introduction.pdf"
+      }]
+    },
+    {
+      "title": "UK strategy 1990 to 2000",
+      "path": "archive/the-report-of-the-iraq-inquiry_section-11.pdf",
+      "format": "pdf",
+      "mediatype": "application/pdf",
+      "sources": [{
+        "web": "http://www.iraqinquiry.org.uk/media/246426/the-report-of-the-iraq-inquiry_section-11.pdf"
+      }]
+    },
+    {
+      "title": "Development of UK strategy and options, September 2000 to September 2001",
+      "path": "archive/the-report-of-the-iraq-inquiry_section-12.pdf",
+      "format": "pdf",
+      "mediatype": "application/pdf",
+      "sources": [{
+        "web": "http://www.iraqinquiry.org.uk/media/246431/the-report-of-the-iraq-inquiry_section-12.pdf"
+      }]
+    },
+    {
+      "title": "Decision-making within government",
+      "path": "archive/the-report-of-the-iraq-inquiry_section-20.pdf",
+      "format": "pdf",
+      "mediatype": "application/pdf",
+      "sources": [{
+        "web": "http://www.iraqinquiry.org.uk/media/246436/the-report-of-the-iraq-inquiry_section-20.pdf"
+      }]
+    },
+    {
+      "title": "Development of UK strategy and options, 9/11 to early January 2002",
+      "path": "archive/the-report-of-the-iraq-inquiry_section-31.pdf",
+      "format": "pdf",
+      "mediatype": "application/pdf",
+      "sources": [{
+        "web": "http://www.iraqinquiry.org.uk/media/246441/the-report-of-the-iraq-inquiry_section-31.pdf"
+      }]
+    },
+    {
+      "title": "Reconstruction: March 2003 to July 2004",
+      "path": "archive/the-report-of-the-iraq-inquiry_section-101.pdf",
+      "format": "pdf",
+      "mediatype": "application/pdf",
+      "sources": [{
+        "web": "http://www.iraqinquiry.org.uk/media/246586/the-report-of-the-iraq-inquiry_section-101.pdf"
+      }]
+    },
+    {
+      "title": "Reconstruction: July 2004 to July 2009",
+      "path": "archive/the-report-of-the-iraq-inquiry_section-102.pdf",
+      "format": "pdf",
+      "mediatype": "application/pdf",
+      "sources": [{
+        "web": "http://www.iraqinquiry.org.uk/media/246591/the-report-of-the-iraq-inquiry_section-102.pdf"
+      }]
+    },
+    {
+      "title": "Reconstruction: oil, commercial issues, debt relief, asylum and stabilisation policy",
+      "path": "archive/the-report-of-the-iraq-inquiry_section-103.pdf",
+      "format": "pdf",
+      "mediatype": "application/pdf",
+      "sources": [{
+        "web": "http://www.iraqinquiry.org.uk/media/246591/the-report-of-the-iraq-inquiry_section-103.pdf"
+      }]
+    },
+    {
+      "title": "10.4 Conclusions: Reconstruction",
+      "path": "archive/the-report-of-the-iraq-inquiry_section-104.pdf",
+      "format": "pdf",
+      "mediatype": "application/pdf",
+      "sources": [{
+        "web": "http://www.iraqinquiry.org.uk/media/246601/the-report-of-the-iraq-inquiry_section-104.pdf"
+      }]
+    }
+  ]
+}

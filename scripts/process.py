@@ -25,7 +25,7 @@ def make_clone(data):
 
 def yield_page(file):
     '''Devides whole file into the pages and yields one by one
-    Removes page numbers
+
     '''
     global PAGE_NUMBER
     page = {}
@@ -35,8 +35,8 @@ def yield_page(file):
         try:
             int(row[:-1])
             if int(row[:-1]) == PAGE_NUMBER:
-                PAGE_NUMBER += 1
-                page[line] = ''
+                page[100] = 'Page %d\n'%(PAGE_NUMBER)
+		PAGE_NUMBER += 1
             else:
                 page[line] = tidy_up(row)
             yield page
@@ -112,7 +112,7 @@ def modify_page(page):
                         clone = check_anchor(clone, footnote_num)
                         clone[line] = '[^%s]: '%(footnote_num) + text
         except:
-            if footnote and len(page[line]) != 1:
+            if footnote and len(page[line]) != 1 and line != 100:
                 page[line-1] = page[line-1].replace('\n', '') + page[line].replace('\n', '') + '\n'
                 clone[line] = ''
     return clone          

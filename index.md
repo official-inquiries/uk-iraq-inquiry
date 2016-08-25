@@ -16,12 +16,12 @@ redirect_from:
   * [Section 1.2 - Development of UK strategy and options, September 2000 to September 2001](/iraq-inquiry/pages/vol-1-section-1-2)
   * [Section 2 - Decision-making within government](/iraq-inquiry/pages/vol-1-section-2-0)
   * [Section 3.1 - Development of UK strategy and options, 9/11 to early January 2002](/iraq-inquiry/pages/vol-1-section-3-1)
-  * [Section 3.2 - Development of UK strategy and options, January to April 2002 - "axis of evil" to Crawford](iraq-inquiry/pages/vol-1-section-3-2)
+  * [Section 3.2 - Development of UK strategy and options, January to April 2002 - "axis of evil" to Crawford](/iraq-inquiry/pages/vol-1-section-3-2)
 
 * **Volume 2:**
   * [Section 3.3 - Development of UK strategy and options, April to July 2002](/iraq-inquiry/pages/vol-2-section-3-3)
-  * [Section 3.4 - Development of UK strategy and options, late July to 14 September 2002](iraq-inquiry/pages/vol-2-section-3-4)
-  * [Section 3.5 - Development of UK strategy and options, September to November 2002 - the negotiation of resolution 1441](iraq-inquiry/pages/vol-2-section-3-5)
+  * [Section 3.4 - Development of UK strategy and options, late July to 14 September 2002](/iraq-inquiry/pages/vol-2-section-3-4)
+  * [Section 3.5 - Development of UK strategy and options, September to November 2002 - the negotiation of resolution 1441](/iraq-inquiry/pages/vol-2-section-3-5)
 
 ## Summary
 

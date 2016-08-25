@@ -2,6 +2,8 @@
 layout: page
 title: The Iraq Inquiry
 edit: true
+redirect_from:
+  - /uk-parliament-iraq-inquiry/
 ---
 
 ## The full version of this report is **coming soon**

@@ -2,6 +2,8 @@
 layout: page 
 title: Volume 1 - Introduction 
 edit: true 
+redirect_from:
+  - /uk-parliament-iraq-inquiry/text/vol-1-introduction/
 ---
 
 * TOC 
